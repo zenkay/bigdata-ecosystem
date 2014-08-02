@@ -1,37 +1,44 @@
 Big Data Ecosystem Dataset 
 ==========================
 
-- [Awesome Big Data](#awesome-bigdata)
-    - [Frameworks](#frameworks)
-    - [Distributed Programming](#distributed-programming)
-    - [Distributed Filesystem](#distributed-filesystem)
-    - [Column Data Model](#column-data-model)
-    - [Document Data Model](#document-data-model)
-    - [Key-value Data Model](#key-value-data-model)
-    - [Graph Data Model](#graph-data-model)
-    - [NewSQL Databases](#newsql-databases)
-    - [Time-Series Databases](#time-series-databases)
-    - [SQL-like processing](#sql-like-processing)
-    - [Integrated Development Environments](#integrated-development-environments)
-    - [Data Ingestion](#data-ingestion)
-    - [Service Programming](#service-programming)
-    - [Scheduling](#scheduling)
-    - [Machine Learning](#machine-learning)
-    - [Benchmarking](#benchmarking)
-    - [Security](#security)
-    - [System Deployment](#system-deployment)
-    - [Applications](#applications)
-    - [Search engine and framework](#search-engine-and-framework)
-    - [MySQL forks and evolutions](#mysql-forks-and-evolutions)
-    - [PostgreSQL forks and evolutions](#postgresql-forks-and-evolutions)
-    - [Memcached forks and evolutions](#memcached-forks-and-evolutions)
-    - [Embedded Databases](#embedded-databases)
-    - [Business Intelligence](#business-intelligence)
-    - [Data Visualization](#data-visualization)
-    - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
+Incomplete-but-useful list of big-data related projects.
 
-- [Other Awesome Lists](#other-awesome-lists)
+Main table: http://bigdata.andreamostosi.name
+Original page on my blog: http://blog.andreamostosi.name/big-data/
 
+Related projects:
+- [Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/)
+- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+
+## Categories
+
+- [Frameworks](#frameworks)
+- [Distributed Programming](#distributed-programming)
+- [Distributed Filesystem](#distributed-filesystem)
+- [Column Data Model](#column-data-model)
+- [Document Data Model](#document-data-model)
+- [Key-value Data Model](#key-value-data-model)
+- [Graph Data Model](#graph-data-model)
+- [NewSQL Databases](#newsql-databases)
+- [Time-Series Databases](#time-series-databases)
+- [SQL-like processing](#sql-like-processing)
+- [Integrated Development Environments](#integrated-development-environments)
+- [Data Ingestion](#data-ingestion)
+- [Service Programming](#service-programming)
+- [Scheduling](#scheduling)
+- [Machine Learning](#machine-learning)
+- [Benchmarking](#benchmarking)
+- [Security](#security)
+- [System Deployment](#system-deployment)
+- [Applications](#applications)
+- [Search engine and framework](#search-engine-and-framework)
+- [MySQL forks and evolutions](#mysql-forks-and-evolutions)
+- [PostgreSQL forks and evolutions](#postgresql-forks-and-evolutions)
+- [Memcached forks and evolutions](#memcached-forks-and-evolutions)
+- [Embedded Databases](#embedded-databases)
+- [Business Intelligence](#business-intelligence)
+- [Data Visualization](#data-visualization)
+- [Internet of things and sensor data](#internet-of-things-and-sensor-data)
 
 ## Frameworks
 
