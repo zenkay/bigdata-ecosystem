@@ -1,0 +1,15 @@
+{
+  "name": "Pivotal Greenplum",
+  "description": "purpose-built, dedicated analytic data warehouse",
+  "abstract": "purpose-built, dedicated analytic data warehouse",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://www.pivotal.io/big-data/pivotal-greenplum-database"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Yahoo Everest",
+  "description": "multi-peta-byte database / MPP derived by PostgreSQL",
+  "abstract": "multi-peta-byte database / MPP derived by PostgreSQL",
+  "category": "PostgreSQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.scribd.com/doc/3159239/70-Everest-PGCon-RT"
+    }
+  ]
+}

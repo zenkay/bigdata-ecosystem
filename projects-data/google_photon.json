@@ -1,0 +1,15 @@
+{
+  "name": "Google Photon",
+  "description": "geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency",
+  "abstract": "geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://research.google.com/pubs/pub41318.html"
+    }
+  ]
+}

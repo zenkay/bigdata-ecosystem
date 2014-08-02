@@ -1,0 +1,15 @@
+{
+  "name": "Pinterest Pinlater",
+  "description": "asynchronous job execution system",
+  "abstract": "asynchronous job execution system",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system"
+    }
+  ]
+}

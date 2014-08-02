@@ -1,0 +1,15 @@
+{
+  "name": "Stado",
+  "description": "open source MPP database system solely targeted at data warehousing and data mart applications",
+  "abstract": "open source MPP database system solely targeted at data warehousing and data mart applications",
+  "category": "PostgreSQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.stormdb.com/community/stado"
+    }
+  ]
+}

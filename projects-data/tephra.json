@@ -1,0 +1,15 @@
+{
+  "name": "Tephra",
+  "description": "Transactions for HBase",
+  "abstract": "Transactions for HBase",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/continuuity/tephra"
+    }
+  ]
+}

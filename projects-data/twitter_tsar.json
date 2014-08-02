@@ -1,0 +1,19 @@
+{
+  "name": "Twitter TSAR",
+  "description": "TimeSeries AggregatoR by Twitter",
+  "abstract": "TimeSeries AggregatoR by Twitter",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://blog.twitter.com/2014/tsar-a-timeseries-aggregator"
+    },
+    {
+      "text": "Website",
+      "url": "http://gigaom.com/2014/06/27/twitter-details-how-new-home-grown-system-coordinates-data-analytics/"
+    }
+  ]
+}

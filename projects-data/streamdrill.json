@@ -1,0 +1,15 @@
+{
+  "name": "Streamdrill",
+  "description": "usefull for counting activities of event streams over different time windows and finding the most active one",
+  "abstract": "usefull for counting activities of event streams over different time windows and finding the most active one",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://streamdrill.com/"
+    }
+  ]
+}

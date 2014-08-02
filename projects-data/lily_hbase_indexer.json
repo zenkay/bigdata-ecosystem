@@ -1,0 +1,15 @@
+{
+  "name": "Lily HBase Indexer",
+  "description": "quickly and easily search for any content stored in HBase",
+  "abstract": "quickly and easily search for any content stored in HBase",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://ngdata.github.io/hbase-indexer/"
+    }
+  ]
+}

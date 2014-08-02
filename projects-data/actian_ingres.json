@@ -1,0 +1,15 @@
+{
+  "name": "Actian Ingres",
+  "description": "commercially supported, open-source SQL relational database management system",
+  "abstract": "commercially supported, open-source SQL relational database management system",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.actian.com/products/operational-databases/"
+    }
+  ]
+}

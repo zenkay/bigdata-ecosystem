@@ -1,0 +1,15 @@
+{
+  "name": "Oracle Database",
+  "description": "object-relational database management system",
+  "abstract": "object-relational database management system",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.oracle.com/us/corporate/features/database-12c/index.html"
+    }
+  ]
+}

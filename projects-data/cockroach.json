@@ -1,0 +1,15 @@
+{
+  "name": "Cockroach",
+  "description": "Scalable, Geo-Replicated, Transactional Datastore",
+  "abstract": "Scalable, Geo-Replicated, Transactional Datastore",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/cockroachdb/cockroach"
+    }
+  ]
+}

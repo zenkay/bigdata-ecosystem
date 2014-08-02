@@ -1,0 +1,15 @@
+{
+  "name": "RecDB",
+  "description": "Open Source Recommendation Engine Built Entirely Inside PostgreSQL",
+  "abstract": "Open Source Recommendation Engine Built Entirely Inside PostgreSQL",
+  "category": "PostgreSQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www-users.cs.umn.edu/~sarwat/RecDB/"
+    }
+  ]
+}

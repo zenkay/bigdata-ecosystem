@@ -1,7 +1,7 @@
 {
   "name": "SAP HANA",
-  "description": "SQL based in-memory database.",
-  "abstract": "SQL based in-memory database",
+  "description": "is an in-memory, column-oriented, relational database management system",
+  "abstract": "is an in-memory, column-oriented, relational database management system",
   "category": "NewSQL Databases",
   "tags": [
 

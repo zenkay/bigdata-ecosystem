@@ -1,0 +1,15 @@
+{
+  "name": "RainstorDB",
+  "description": "database for storing petabyte-scale volumes of structured and semi-structured data",
+  "abstract": "database for storing petabyte-scale volumes of structured and semi-structured data",
+  "category": "SQL-like processing",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://rainstor.com/products/rainstor-database/"
+    }
+  ]
+}

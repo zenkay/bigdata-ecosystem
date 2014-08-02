@@ -1,0 +1,15 @@
+{
+  "name": "MapGraph",
+  "description": "Massively Parallel Graph processing on GPUs",
+  "abstract": "Massively Parallel Graph processing on GPUs",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://mapgraph.io/"
+    }
+  ]
+}

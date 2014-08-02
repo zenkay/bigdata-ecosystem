@@ -1,0 +1,15 @@
+{
+  "name": "Google Dataflow",
+  "description": "create data pipelines to help themæingest, transform and analyze data",
+  "abstract": "create data pipelines to help themæingest, transform and analyze data",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html"
+    }
+  ]
+}

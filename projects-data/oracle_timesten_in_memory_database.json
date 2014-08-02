@@ -1,0 +1,15 @@
+{
+  "name": "Oracle TimesTen in-Memory Database",
+  "description": "in-memory, relational database management system with persistence and recoverability",
+  "abstract": "in-memory, relational database management system with persistence and recoverability",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html"
+    }
+  ]
+}

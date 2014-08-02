@@ -1,0 +1,15 @@
+{
+  "name": "Actian PSQL",
+  "description": "ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications",
+  "abstract": "ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.actian.com/products/operational-databases/"
+    }
+  ]
+}

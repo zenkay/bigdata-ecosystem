@@ -1,0 +1,15 @@
+{
+  "name": "Oracle NoSQL Database",
+  "description": "distributed key-value database by Oracle Corporation",
+  "abstract": "distributed key-value database by Oracle Corporation",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html"
+    }
+  ]
+}

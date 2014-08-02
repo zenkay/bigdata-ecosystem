@@ -1,0 +1,23 @@
+{
+  "name": "Google Sibyl",
+  "description": "System for Large Scale Machine Learning at Google",
+  "abstract": "System for Large Scale Machine Learning at Google",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf"
+    },
+    {
+      "text": "Website",
+      "url": "http://www.datanami.com/2014/07/17/inside-sibyl-googles-massively-parallel-machine-learning-platform/"
+    },
+    {
+      "text": "Website",
+      "url": "http://www.magicbroom.info/Papers/Ladis10.pdf"
+    }
+  ]
+}
