@@ -1,6 +1,6 @@
 {
 	"categories": [
-		"Framework",
+		"Frameworks",
 		"Distributed Programming",
 		"Distributed Filesystem",
 		"Column Data Model",
@@ -10,6 +10,7 @@
 		"NewSQL Databases",
 		"Time-Series Databases",
 		"SQL-like processing",
+		"Integrated Development Environments",
 		"Data Ingestion",
 		"Service Programming",
 		"Scheduling",
@@ -20,6 +21,7 @@
 		"Applications",
 		"Search engine and framework",
 		"MySQL forks and evolutions",
+		"PostgreSQL forks and evolutions",
 		"Memcached forks and evolutions",
 		"Embedded Databases",
 		"Business Intelligence",

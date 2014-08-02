@@ -4,7 +4,7 @@ require "maruku"
 require "pp"
 
 # load ordered category list
-table_config = JSON.parse(File.read("#{File.dirname(__FILE__)}/../config/hadoopecosystemtable.json"))
+table_config = JSON.parse(File.read("#{File.dirname(__FILE__)}/../config/categories.json"))
 
 data_grouped_by_category = {}
 

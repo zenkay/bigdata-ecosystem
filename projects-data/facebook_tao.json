@@ -1,7 +1,7 @@
 {
   "name": "Facebook TAO",
   "description": "TAO is the distributed data store that is widely used at facebook to store and serve the social graph. The entire architecture is highly read optimized, supports a graph data model and works across multiple geographical regions.",
-  "abstract": "TAO is the distributed data store that is widely used at facebook to store and serve the social graph.",
+  "abstract": "TAO is the distributed data store that is widely used at facebook to store and serve the social graph",
   "category": "Graph Data Model",
   "tags": [
 

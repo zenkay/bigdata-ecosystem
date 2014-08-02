@@ -2,7 +2,7 @@
   "name": "Apache Hadoop",
   "description": "framework for distributed processing. Integrates MapReduce (parallel processing), YARN (job scheduling) and HDFS (distributed file system)",
   "abstract": "framework for distributed processing. Integrates MapReduce (parallel processing), YARN (job scheduling) and HDFS (distributed file system)",
-  "category": "Framework",
+  "category": "Frameworks",
   "tags": [
 
   ],

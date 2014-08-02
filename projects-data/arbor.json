@@ -1,7 +1,7 @@
 {
   "name": "Arbor",
   "description": "graph visualization library using web workers and jQuery.",
-  "abstract": "graph visualization library using web workers and jQuery.",
+  "abstract": "graph visualization library using web workers and jQuery",
   "category": "Data Visualization",
   "tags": [
 

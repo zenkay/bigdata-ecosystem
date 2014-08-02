@@ -1,7 +1,7 @@
 {
   "name": "Parquet",
   "description": "columnar storage format for Hadoop.",
-  "abstract": "columnar storage format for Hadoop.",
+  "abstract": "columnar storage format for Hadoop",
   "category": "Column Data Model",
   "tags": [
 

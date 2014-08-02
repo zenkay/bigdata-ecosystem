@@ -1,7 +1,7 @@
 {
   "name": "Logstash",
   "description": "a tool for managing events and logs.",
-  "abstract": "a tool for managing events and logs.",
+  "abstract": "a tool for managing events and logs",
   "category": "Data Ingestion",
   "tags": [
 

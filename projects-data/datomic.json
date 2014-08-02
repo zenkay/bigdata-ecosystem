@@ -1,7 +1,7 @@
 {
   "name": "Datomic",
   "description": "distributed database designed to enable scalable, flexible and intelligent applications.",
-  "abstract": "distributed database designed to enable scalable, flexible and intelligent applications.",
+  "abstract": "distributed database designed to enable scalable, flexible and intelligent applications",
   "category": "NewSQL Databases",
   "tags": [
 

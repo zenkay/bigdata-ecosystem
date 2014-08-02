@@ -1,7 +1,7 @@
 {
   "name": "Cloudera Morphlines",
   "description": "framework that help ETL to Solr, HBase and HDFS.",
-  "abstract": "framework that help ETL to Solr, HBase and HDFS.",
+  "abstract": "framework that help ETL to Solr, HBase and HDFS",
   "category": "Data Ingestion",
   "tags": [
 

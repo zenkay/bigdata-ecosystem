@@ -2,7 +2,7 @@
   "name": "Postgres-XL",
   "description": "Scalable Open Source PostgreSQL-based Database Cluster",
   "abstract": "Scalable Open Source PostgreSQL-based Database Cluster",
-  "category": "NewSQL Databases",
+  "category": "PostgreSQL forks and evolutions",
   "tags": [
 
   ],

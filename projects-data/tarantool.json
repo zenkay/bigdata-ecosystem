@@ -1,7 +1,7 @@
 {
   "name": "Tarantool",
   "description": "an efficient NoSQL database and a Lua application server.",
-  "abstract": "an efficient NoSQL database and a Lua application server.",
+  "abstract": "an efficient NoSQL database and a Lua application server",
   "category": "Key-value Data Model",
   "tags": [
 

@@ -17,7 +17,7 @@ Your contributions are always welcome!
 <% unless category["items"].nil? -%>
 <%- category["items"].each do |item| -%>
 <% if item["links"].any? -%>
-* [<%= item["name"] %>](<%= item["links"][0]["url"] %>) - <%= item["abstract"] %>
+* [<%= item["name"] %>](<%= item["links"][0]["url"] %>) - <%= item["abstract"] %>.
 <% else -%>
 * **<%= item["name"] %>** - <%= item["abstract"] %>
 <% end -%>
