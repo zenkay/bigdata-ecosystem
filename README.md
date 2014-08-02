@@ -3,8 +3,9 @@ Big Data Ecosystem Dataset
 
 Incomplete-but-useful list of big-data related projects.
 
-Main table: http://bigdata.andreamostosi.name
-Original page on my blog: http://blog.andreamostosi.name/big-data/
+- Main table: http://bigdata.andreamostosi.name
+- Raw JSON data: http://bigdata.andreamostosi.name/data.json
+- Original page on my blog: http://blog.andreamostosi.name/big-data/
 
 Related projects:
 - [Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/)
