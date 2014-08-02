@@ -1,5 +1,5 @@
 {
-  "name": "HBase Comprocessor",
+  "name": "HBase Coprocessor",
   "description": "implementation of Percolator, part of HBase",
   "abstract": "implementation of Percolator, part of HBase",
   "category": "Search engine and framework",
@@ -8,7 +8,7 @@
   ],
   "links": [
     {
-      "text": "HBase Comprocessor",
+      "text": "HBase Coprocessor",
       "url": "https://blogs.apache.org/hbase/entry/coprocessor_introduction"
     }
   ]
