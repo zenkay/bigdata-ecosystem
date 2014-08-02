@@ -1,0 +1,15 @@
+{
+  "name": "MarkLogic",
+  "description": "Schema-agnostic Enterprise NoSQL database technology",
+  "abstract": "Schema-agnostic Enterprise NoSQL database technology",
+  "category": "Document Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.marklogic.com/"
+    }
+  ]
+}

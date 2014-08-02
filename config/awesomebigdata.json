@@ -1,0 +1,30 @@
+{
+	"categories": [
+		"Framework",
+		"Distributed Programming",
+		"Distributed Filesystem",
+		"Column Data Model",
+		"Document Data Model",
+		"Key-value Data Model",
+		"Graph Data Model",
+		"NewSQL Databases",
+		"Time-Series Databases",
+		"SQL-like processing",
+		"Data Ingestion",
+		"Integrated Development Environments",
+		"Service Programming",
+		"Scheduling",
+		"Machine Learning",
+		"Benchmarking",
+		"Security",
+		"System Deployment",
+		"Applications",
+		"Search engine and framework",
+		"MySQL forks and evolutions",
+		"Memcached forks and evolutions",
+		"Embedded Databases",
+		"Business Intelligence",
+		"Data Visualization",
+		"Internet of things and sensor data"
+	]
+}

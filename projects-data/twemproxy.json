@@ -1,0 +1,15 @@
+{
+  "name": "Twemproxy",
+  "description": "A fast, light-weight proxy for memcached and redis",
+  "abstract": "A fast, light-weight proxy for memcached and redis",
+  "category": "Memcached forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github",
+      "url": "https://github.com/twitter/twemproxy"
+    }
+  ]
+}

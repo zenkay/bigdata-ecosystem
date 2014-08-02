@@ -1,0 +1,15 @@
+{
+  "name": "MADlib",
+  "description": "The MADlib project leverages the data-processing capabilities of an RDBMS to analyze data. The aim of this project is the integration of statistical data analysis into databases. The MADlib project is self-described as the Big Data Machine Learning in SQL for Data Scientists. The MADlib software project began the following year as a collaboration between researchers at UC Berkeley and engineers and data scientists at EMC/Greenplum (now Pivotal)",
+  "abstract": "data-processing library of an RDBMS to analyze data",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "MADlib Community",
+      "url": "http://madlib.net/community/"
+    }
+  ]
+}

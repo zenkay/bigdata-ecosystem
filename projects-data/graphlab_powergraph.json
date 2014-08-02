@@ -1,0 +1,15 @@
+{
+  "name": "GraphLab PowerGraph",
+  "description": "a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.  In addition, we are actively developing new interfaces to allow users to leverage the GraphLab API from other languages and technologies.",
+  "abstract": "a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Graphlab website",
+      "url": "http://graphlab.org/projects/source.html"
+    }
+  ]
+}

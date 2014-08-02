@@ -1,0 +1,15 @@
+{
+  "name": "MLPNeuralNet",
+  "description": "Fast multilayer perceptron neural network library for iOS and Mac OS X.",
+  "abstract": "Fast multilayer perceptron neural network library for iOS and Mac OS X.",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/nikolaypavlov/MLPNeuralNet"
+    }
+  ]
+}

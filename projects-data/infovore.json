@@ -1,0 +1,15 @@
+{
+  "name": "Infovore",
+  "description": "RDF-centric Map/Reduce framework",
+  "abstract": "RDF-centric Map/Reduce framework",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/paulhoule/infovore"
+    }
+  ]
+}

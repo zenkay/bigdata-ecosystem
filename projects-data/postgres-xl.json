@@ -1,0 +1,15 @@
+{
+  "name": "Postgres-XL",
+  "description": "Scalable Open Source PostgreSQL-based Database Cluster",
+  "abstract": "Scalable Open Source PostgreSQL-based Database Cluster",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.postgres-xl.org/"
+    }
+  ]
+}

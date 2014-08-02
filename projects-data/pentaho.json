@@ -1,0 +1,15 @@
+{
+  "name": "Pentaho",
+  "description": "business intelligence platform.",
+  "abstract": "business intelligence platform.",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.pentaho.com/"
+    }
+  ]
+}

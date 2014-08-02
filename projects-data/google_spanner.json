@@ -1,0 +1,15 @@
+{
+  "name": "Google Spanner",
+  "description": "globally distributed semi-relational database",
+  "abstract": "globally distributed semi-relational database",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://research.google.com/archive/spanner.html"
+    }
+  ]
+}

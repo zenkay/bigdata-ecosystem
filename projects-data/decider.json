@@ -1,0 +1,15 @@
+{
+  "name": "Decider",
+  "description": "Flexible and Extensible Machine Learning in Ruby.",
+  "abstract": "Flexible and Extensible Machine Learning in Ruby.",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/danielsdeleo/Decider"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Zoie",
+  "description": "Zoie is a realtime search/indexing system written in Java.",
+  "abstract": "is a realtime search/indexing system written in Java.",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github",
+      "url": "https://github.com/senseidb/zoie"
+    }
+  ]
+}

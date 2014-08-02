@@ -1,0 +1,15 @@
+{
+  "name": "Facebook Prism",
+  "description": "multi datacenters replication system",
+  "abstract": "multi datacenters replication system",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.wired.com/2012/08/facebook-prism/"
+    }
+  ]
+}

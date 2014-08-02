@@ -1,0 +1,15 @@
+{
+  "name": "SparkSQL",
+  "description": "Manipulating Structured Data Using Spark",
+  "abstract": "Manipulating Structured Data Using Spark",
+  "category": "SQL-like processing",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Databricks blog post",
+      "url": "http://databricks.com/blog/2014/03/26/Spark-SQL-manipulating-structured-data-using-Spark.html"
+    }
+  ]
+}

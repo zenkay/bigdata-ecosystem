@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Cleo",
+  "description": "Cleo is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search. It is suitable for data sets of varying sizes and types. Cleo has been used extensively to power LinkedIn typeahead search covering professional network connections, companies, groups, questions, skills and other site features.",
+  "abstract": "is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github",
+      "url": "https://github.com/linkedin/cleo"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Facebook Scuba",
+  "description": "distributed in-memory datastore",
+  "abstract": "distributed in-memory datastore",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920"
+    }
+  ]
+}

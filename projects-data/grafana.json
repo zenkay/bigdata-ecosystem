@@ -1,0 +1,15 @@
+{
+  "name": "Grafana",
+  "description": "graphite dashboard frontend, editor and graph composer.",
+  "abstract": "graphite dashboard frontend, editor and graph composer.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://grafana.org/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SAP HANA",
+  "description": "SQL based in-memory database.",
+  "abstract": "SQL based in-memory database.",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.saphana.com/welcome"
+    }
+  ]
+}

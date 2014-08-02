@@ -1,0 +1,15 @@
+{
+  "name": "LMDB",
+  "description": "ultra-fast, ultra-compact key-value embedded data store developed by Symas",
+  "abstract": "ultra-fast, ultra-compact key-value embedded data store developed by Symas",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Symas website",
+      "url": "http://symas.com/mdb/"
+    }
+  ]
+}

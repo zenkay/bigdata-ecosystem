@@ -1,0 +1,15 @@
+{
+  "name": "Google MapReduce",
+  "description": "map reduce framework",
+  "abstract": "map reduce framework",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://research.google.com/archive/mapreduce.html"
+    }
+  ]
+}

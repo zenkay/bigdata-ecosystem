@@ -1,0 +1,15 @@
+{
+  "name": "Google Borg",
+  "description": "job scheduling and monitoring system",
+  "abstract": "job scheduling and monitoring system",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Wired article",
+      "url": "http://www.wired.com/wiredenterprise/2013/03/google-borg-twitter-mesos/all/"
+    }
+  ]
+}

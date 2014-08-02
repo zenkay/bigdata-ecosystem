@@ -1,0 +1,15 @@
+{
+  "name": "Tableau",
+  "description": "business intelligence platform.",
+  "abstract": "business intelligence platform.",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://www.tableausoftware.com/"
+    }
+  ]
+}

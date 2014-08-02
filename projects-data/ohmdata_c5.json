@@ -1,0 +1,15 @@
+{
+  "name": "OhmData C5",
+  "description": "improved version of HBase",
+  "abstract": "improved version of HBase",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "OhmData website",
+      "url": "http://ohmdata.com/"
+    }
+  ]
+}

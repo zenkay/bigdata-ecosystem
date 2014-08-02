@@ -1,0 +1,15 @@
+{
+  "name": "Apache Slider",
+  "description": "Slider is a YARN application to deploy existing distributed applications on YARN, monitor them and make them larger or smaller as desired -even while the cluster is running.",
+  "abstract": "is a YARN application to deploy existing distributed applications on YARN",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Gihub page",
+      "url": "https://github.com/hortonworks/slider"
+    }
+  ]
+}

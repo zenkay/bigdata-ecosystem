@@ -1,0 +1,15 @@
+{
+  "name": "SymmetricDS",
+  "description": "SymmetricDS is open source software for both file and database synchronization with support for multi-master replication, filtered synchronization, and transformation across the network in a heterogeneous environment. It supports multiple subscribers with one direction or bi-directional, asynchronous data replication. It uses web and database technologies to replicate data as a scheduled or near real-time operation. The software was designed to scale for a large number of nodes, work across low-bandwidth connections, and withstand periods of network outage. It works with most operating systems, file systems, and databases, including Oracle, MySQL, MariaDB, PostgreSQL, MS SQL Server (including Azure), IBM DB2, H2, HSQLDB, Derby, Firebird, Interbase, Informix, Greenplum, SQLite (including Android), Sybase ASE, and Sybase ASA (SQL Anywhere) databases.",
+  "abstract": "open source software for both file and database synchronization",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "SymmetricDS",
+      "url": "http://www.symmetricds.org/"
+    }
+  ]
+}

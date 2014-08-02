@@ -1,0 +1,15 @@
+{
+  "name": "TempoIQ",
+  "description": "Cloud-based sensor analytics",
+  "abstract": "Cloud-based sensor analytics",
+  "category": "Internet of things and sensor data",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://tempoiq.com/"
+    }
+  ]
+}

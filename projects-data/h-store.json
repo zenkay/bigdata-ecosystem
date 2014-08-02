@@ -1,0 +1,15 @@
+{
+  "name": "H-Store",
+  "description": "is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications. It is a highly distributed, row-store-based relational database that runs on a cluster on shared-nothing, main memory executor nodes.",
+  "abstract": "is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Brown project website",
+      "url": "http://hstore.cs.brown.edu/"
+    }
+  ]
+}

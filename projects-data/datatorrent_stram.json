@@ -1,0 +1,15 @@
+{
+  "name": "DataTorrent StrAM",
+  "description": "real-time engine is designed to enable distributed, asynchronous, real time in-memory big-data computations in as unblocked a way as possible, with minimal overhead and impact on performance.",
+  "abstract": "real-time engine is designed to enable distributed, asynchronous, real time in-memory big-data computations in as unblocked a way as possible, with minimal overhead and impact on performance.",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://www.datatorrent.com/"
+    }
+  ]
+}

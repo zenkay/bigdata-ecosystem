@@ -1,0 +1,15 @@
+{
+  "name": "Akka Toolkit",
+  "description": "Akka is an open-source toolkit and runtime simplifying the construction of concurrent applications on the Java platform.",
+  "abstract": "runtime for distributed, and fault tolerant event-driven applications on the JVM.",
+  "category": "Service Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://akka.io/"
+    }
+  ]
+}

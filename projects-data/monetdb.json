@@ -1,0 +1,15 @@
+{
+  "name": "MonetDB",
+  "description": "column store database",
+  "abstract": "column store database",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://www.monetdb.org/"
+    }
+  ]
+}

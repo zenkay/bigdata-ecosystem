@@ -1,0 +1,15 @@
+{
+  "name": "Eventhub",
+  "description": "open source event analytics platform.",
+  "abstract": "open source event analytics platform.",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Codecademy/EventHub"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Spark MLlib",
+  "description": "a Spark implementation of some common machine learning (ML) functionality",
+  "abstract": "a Spark implementation of some common machine learning (ML) functionality",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Spark Documentation",
+      "url": "http://spark.apache.org/docs/0.9.0/mllib-guide.html"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Google Omega",
+  "description": "job scheduling and monitoring system",
+  "abstract": "job scheduling and monitoring system",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Talk",
+      "url": "https://www.youtube.com/watch?v=0ZFMlO98Jkc"
+    }
+  ]
+}

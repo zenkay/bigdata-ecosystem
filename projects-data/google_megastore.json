@@ -1,0 +1,15 @@
+{
+  "name": "Google Megastore",
+  "description": "scalable, highly available storage",
+  "abstract": "scalable, highly available storage",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://research.google.com/pubs/pub36971.html"
+    }
+  ]
+}

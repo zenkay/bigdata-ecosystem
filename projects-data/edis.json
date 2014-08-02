@@ -1,0 +1,15 @@
+{
+  "name": "Edis",
+  "description": "Edis is a protocol-compatible Server replacement for Redis, written in Erlang. Edis's goal is to be a drop-in replacement for Redis when persistence is more important than holding the dataset in-memory. Edis (currently) uses Google's leveldb as a backend. Future plans call for a multi-master clustering model. Near term goals are to act as a read-slave for existing Redis servers.",
+  "abstract": "is a protocol-compatible Server replacement for Redis",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://inaka.github.io/edis/"
+    }
+  ]
+}

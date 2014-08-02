@@ -1,0 +1,15 @@
+{
+  "name": "Yahoo Gridmix3",
+  "description": "Hadoop cluster benchmarking from Yahoo engineer team.",
+  "abstract": "Hadoop cluster benchmarking from Yahoo engineer team",
+  "category": "Benchmarking",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://developer.yahoo.com/blogs/hadoop/gridmix3-emulating-production-workload-apache-hadoop-450.html"
+    }
+  ]
+}

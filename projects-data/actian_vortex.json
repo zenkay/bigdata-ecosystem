@@ -1,0 +1,15 @@
+{
+  "name": "Actian Vector",
+  "description": "column-oriented analytic database",
+  "abstract": "column-oriented analytic database",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Actian website",
+      "url": "http://www.actian.com/"
+    }
+  ]
+}

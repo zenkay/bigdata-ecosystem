@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Galene",
+  "description": "search architecture at LinkedIn",
+  "abstract": "search architecture at LinkedIn",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Blog post on LinkedIn engineer",
+      "url": "http://engineering.linkedin.com/search/did-you-mean-galene"
+    }
+  ]
+}

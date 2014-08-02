@@ -1,0 +1,15 @@
+{
+  "name": "Pinterest Secor",
+  "description": "is a service implementing Kafka log persistance",
+  "abstract": "is a service implementing Kafka log persistance",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github",
+      "url": "https://github.com/pinterest/secor"
+    }
+  ]
+}

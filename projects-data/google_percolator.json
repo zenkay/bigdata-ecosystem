@@ -1,0 +1,15 @@
+{
+  "name": "Google Percolator",
+  "description": "continuous indexing system",
+  "abstract": "continuous indexing system",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Paper",
+      "url": "http://research.google.com/pubs/pub36726.html"
+    }
+  ]
+}

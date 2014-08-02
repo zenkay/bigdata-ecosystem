@@ -1,0 +1,15 @@
+{
+  "name": "BerkeleyDB",
+  "description": "a software library that provides a high-performance embedded database for key/value data",
+  "abstract": "a software library that provides a high-performance embedded database for key/value data",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Oracle website",
+      "url": "http://www.oracle.com/us/products/database/berkeley-db/overview/index.html"
+    }
+  ]
+}

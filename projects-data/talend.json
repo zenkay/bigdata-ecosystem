@@ -1,0 +1,15 @@
+{
+  "name": "Talend",
+  "description": "Talend is an open source software vendor that provides data integration, data management, enterprise application integration and big data software and solutions.",
+  "abstract": "unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.talend.com/products/big-data"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Etsy Conjecture",
+  "description": "Conjecture is a framework for building machine learning models in Hadoop using the Scalding DSL. The goal of this project is to enable the development of statistical models as viable components in a wide range of product settings. Applications include classification and categorization, recommender systems, ranking, filtering, and regression (predicting real-valued numbers). Conjecture has been designed with a primary emphasis on flexibility and can handle a wide variety of inputs. Integration with Hadoop and scalding enable seamless handling of extremely large data volumes, and integration with established ETL processes. Predicted labels can either be consumed directly by the web stack using the dataset loader, or models can be deployed and consumed by live web code. Currently, binary classification (assigning one of two possible labels to input data points) is the most mature component of the Conjecture package.",
+  "abstract": "scalable Machine Learning in Scalding",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github",
+      "url": "https://github.com/etsy/Conjecture"
+    }
+  ]
+}

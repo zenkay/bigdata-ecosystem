@@ -1,0 +1,15 @@
+{
+  "name": "BeeGFS",
+  "description": "formerly FhGFS, parallel distributed file system",
+  "abstract": "formerly FhGFS, parallel distributed file system",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.fhgfs.com/cms/"
+    }
+  ]
+}

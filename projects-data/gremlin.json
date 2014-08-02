@@ -1,0 +1,15 @@
+{
+  "name": "Gremlin",
+  "description": "graph traversal Language.",
+  "abstract": "graph traversal Language.",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/tinkerpop/gremlin"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft",
+  "description": "business intelligence software and platform.",
+  "abstract": "business intelligence software and platform.",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx"
+    }
+  ]
+}

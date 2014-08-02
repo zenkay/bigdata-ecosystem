@@ -1,0 +1,15 @@
+{
+  "name": "Google Charts",
+  "description": "simple charting API.",
+  "abstract": "simple charting API.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://developers.google.com/chart/"
+    }
+  ]
+}

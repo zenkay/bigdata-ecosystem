@@ -1,0 +1,15 @@
+{
+  "name": "SparkR",
+  "description": "R frontend for Spark",
+  "abstract": "R frontend for Spark",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "AMPLab extras",
+      "url": "http://amplab-extras.github.io/SparkR-pkg/"
+    }
+  ]
+}

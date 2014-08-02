@@ -1,0 +1,15 @@
+{
+  "name": "Cube",
+  "description": "uses MongoDB to store time series data",
+  "abstract": "uses MongoDB to store time series data",
+  "category": "Time-Series Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://square.github.io/cube/"
+    }
+  ]
+}

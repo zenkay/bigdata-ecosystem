@@ -1,0 +1,15 @@
+{
+  "name": "Vega",
+  "description": "a visualization grammar.",
+  "abstract": "a visualization grammar.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/trifacta/vega"
+    }
+  ]
+}

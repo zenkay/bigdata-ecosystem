@@ -1,0 +1,15 @@
+{
+  "name": "Spotify Luigi",
+  "description": "a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.",
+  "abstract": "a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.",
+  "category": "Service Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/spotify/luigi"
+    }
+  ]
+}

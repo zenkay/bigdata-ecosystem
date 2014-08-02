@@ -1,0 +1,15 @@
+{
+  "name": "Matplotlib",
+  "description": "plotting with Python.",
+  "abstract": "plotting with Python.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/matplotlib/matplotlib"
+    }
+  ]
+}

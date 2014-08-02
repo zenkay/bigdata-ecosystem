@@ -1,0 +1,15 @@
+{
+  "name": "PivotalR",
+  "description": "PivotalR is a package that enables users of R, the most popular open source statistical programming language and environment to interact with the Pivotal (Greenplum) Database as well as Pivotal HD / HAWQ and the open-source database PostgreSQL for Big Data analytics. R is a programming language and data analysis software: you do data analysis in R by writing scripts and functions in the R programming language. R is a complete, interactive,  object-oriented language: designed by statisticians, for statisticians. The language  provides objects, operators and functions that make the process of exploring, modeling, and visualizing data a natural one.",
+  "abstract": "R on Pivotal HD / HAWQ and PostgreSQL",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/gopivotal/PivotalR"
+    }
+  ]
+}

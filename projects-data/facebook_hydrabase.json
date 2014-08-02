@@ -1,0 +1,15 @@
+{
+  "name": "Facebook HydraBase",
+  "description": "Evolution of HBase made by Facebook",
+  "abstract": "evolution of HBase made by Facebook",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Blog Post on Facebook engineer",
+      "url": "https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/"
+    }
+  ]
+}

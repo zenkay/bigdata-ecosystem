@@ -1,0 +1,15 @@
+{
+  "name": "Spark Catalyst",
+  "description": "Catalyst is a Query Optimization Framework for Spark and Shark",
+  "abstract": "is a Query Optimization Framework for Spark and Shark",
+  "category": "SQL-like processing",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github sub page",
+      "url": "https://github.com/apache/spark/tree/master/sql"
+    }
+  ]
+}

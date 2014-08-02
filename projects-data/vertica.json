@@ -1,0 +1,15 @@
+{
+  "name": "Vertica",
+  "description": "The grid-based, column-oriented, Vertica Analytics Platform is designed to manage large, fast-growing volumes of data and provide very fast query performance when used for data warehouses and other query-intensive applications. The product claims to drastically improve query performance over traditional relational database systems, provide high-availability, and petabyte scalability on commodity enterprise servers.",
+  "abstract": "is designed to manage large, fast-growing volumes of data and provide very fast query performance when used for data warehouses",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.vertica.com/"
+    }
+  ]
+}

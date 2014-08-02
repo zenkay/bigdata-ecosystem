@@ -1,0 +1,15 @@
+{
+  "name": "Redash",
+  "description": "open-source platform to query and visualize data.",
+  "abstract": "open-source platform to query and visualize data.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/everythingme/redash"
+    }
+  ]
+}

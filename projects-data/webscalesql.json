@@ -1,0 +1,15 @@
+{
+  "name": "WebScaleSQL",
+  "description": "is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale, and seek greater performance from a database technology tailored for their needs.",
+  "abstract": "is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale",
+  "category": "MySQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://webscalesql.org/"
+    }
+  ]
+}

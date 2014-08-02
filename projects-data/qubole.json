@@ -1,0 +1,15 @@
+{
+  "name": "Qubole",
+  "description": "auto-scaling Hadoop cluster, built-in data connectors.",
+  "abstract": "auto-scaling Hadoop cluster, built-in data connectors.",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.qubole.com/"
+    }
+  ]
+}

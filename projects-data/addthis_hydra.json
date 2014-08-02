@@ -1,0 +1,15 @@
+{
+  "name": "AddThis Hydra",
+  "description": "Hydra is a distributed data processing and storage system originally developed at AddThis. It ingests streams of data (think log files) and builds trees that are aggregates, summaries, or transformations of the data. These trees can be used by humans to explore (tiny queries), as part of a machine learning pipeline (big queries), or to support live consoles on websites (lots of queries).",
+  "abstract": "distributed data processing and storage system originally developed at AddThis",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github",
+      "url": "https://github.com/addthis/hydra"
+    }
+  ]
+}

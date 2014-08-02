@@ -1,0 +1,15 @@
+{
+  "name": "Apache Crunch",
+  "description": "is a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce. The APIs are especially useful when processing data that does not fit naturally into relational model, such as time series, serialized object formats like protocol buffers or Avro records, and HBase rows and columns. For Scala users, there is the Scrunch API, which is built on top of the Java APIs and includes a REPL (read-eval-print loop) for creating MapReduce pipelines.",
+  "abstract": "a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://crunch.apache.org/"
+    }
+  ]
+}

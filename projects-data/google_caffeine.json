@@ -1,0 +1,15 @@
+{
+  "name": "Google Caffeine",
+  "description": "continuous indexing system",
+  "abstract": "continuous indexing system",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Google blog post",
+      "url": "http://googleblog.blogspot.it/2010/06/our-new-search-index-caffeine.html"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Snowplow",
+  "description": "enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.",
+  "abstract": "enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/snowplow/snowplow"
+    }
+  ]
+}

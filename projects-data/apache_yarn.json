@@ -1,0 +1,15 @@
+{
+  "name": "Apache YARN",
+  "description": "Apache Hadoop YARN is a sub-project of Hadoop at the Apache Software Foundation introduced in Hadoop 2.0 that separates the resource management and processing components. YARN was born of a need to enable a broader array of interaction patterns for data stored in HDFS beyond MapReduce. The YARN-based architecture of Hadoop 2.0 provides a more general processing platform that is not constrained to MapReduce.",
+  "abstract": "Cluster manager",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Apache YARN",
+      "url": "http://hortonworks.com/hadoop/yarn/"
+    }
+  ]
+}

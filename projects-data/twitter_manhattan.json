@@ -1,0 +1,15 @@
+{
+  "name": "Twitter Manhattan",
+  "description": "real-time, multi-tenant distributed database for Twitter scale",
+  "abstract": "real-time, multi-tenant distributed database for Twitter scale",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Blog post on Twitter Engineering blog",
+      "url": "https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale"
+    }
+  ]
+}

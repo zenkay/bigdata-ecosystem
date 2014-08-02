@@ -1,0 +1,19 @@
+{
+  "name": "Facebook Apollo",
+  "description": "Facebook’s Paxos-like NoSQL database",
+  "abstract": "Facebook’s Paxos-like NoSQL database",
+  "category": "Document Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "infoQ post",
+      "url": "http://www.infoq.com/news/2014/06/facebook-apollo"
+    },
+    {
+      "text": "Website",
+      "url": "http://www.infoq.com/news/2014/06/facebook-apollo/"
+    }
+  ]
+}

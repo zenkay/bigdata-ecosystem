@@ -1,0 +1,15 @@
+{
+  "name": "Google Chubby",
+  "description": "a lock service for loosely-coupled distributed systems",
+  "abstract": "a lock service for loosely-coupled distributed systems",
+  "category": "Service Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Paper",
+      "url": "http://research.google.com/archive/chubby.html"
+    }
+  ]
+}

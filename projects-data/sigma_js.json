@@ -1,0 +1,15 @@
+{
+  "name": "Sigma.js",
+  "description": "JavaScript library dedicated to graph drawing.",
+  "abstract": "JavaScript library dedicated to graph drawing.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/jacomyal/sigma.js"
+    }
+  ]
+}

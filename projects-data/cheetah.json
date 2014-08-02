@@ -1,0 +1,15 @@
+{
+  "name": "Cheetah",
+  "description": "High Performance, Custom Data Warehouse on Top of MapReduce",
+  "abstract": "High Performance, Custom Data Warehouse on Top of MapReduce",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Paper",
+      "url": "http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf"
+    }
+  ]
+}

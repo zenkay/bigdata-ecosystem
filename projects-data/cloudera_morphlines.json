@@ -1,0 +1,15 @@
+{
+  "name": "Cloudera Morphlines",
+  "description": "framework that help ETL to Solr, HBase and HDFS.",
+  "abstract": "framework that help ETL to Solr, HBase and HDFS.",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/cloudera/cdk/tree/master/cdk-morphlines"
+    }
+  ]
+}

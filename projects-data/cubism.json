@@ -1,0 +1,15 @@
+{
+  "name": "Cubism",
+  "description": "JavaScript library for time series visualization.",
+  "abstract": "JavaScript library for time series visualization.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/square/cubism"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Bobo",
+  "description": "is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.",
+  "abstract": "is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github Page",
+      "url": "http://senseidb.github.io/bobo/"
+    }
+  ]
+}

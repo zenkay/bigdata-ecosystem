@@ -1,0 +1,15 @@
+{
+  "name": "brain",
+  "description": "Neural networks in JavaScript.",
+  "abstract": "Neural networks in JavaScript.",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/harthur/brain"
+    }
+  ]
+}

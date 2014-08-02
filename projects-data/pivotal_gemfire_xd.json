@@ -1,0 +1,15 @@
+{
+  "name": "Pivotal GemFire XD",
+  "description": "Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.",
+  "abstract": "Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://gemfirexd.docs.gopivotal.com/latest/userguide/index.html?q=about_users_guide.html/"
+    }
+  ]
+}

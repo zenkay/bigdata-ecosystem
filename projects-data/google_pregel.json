@@ -1,0 +1,15 @@
+{
+  "name": "Google Pregel",
+  "description": "graph processing framework",
+  "abstract": "graph processing framework",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://kowshik.github.io/JPregel/pregel_paper.pdf"
+    }
+  ]
+}

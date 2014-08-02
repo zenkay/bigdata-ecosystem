@@ -1,0 +1,15 @@
+{
+  "name": "Heka",
+  "description": "open source stream processing software system.",
+  "abstract": "open source stream processing software system.",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/mozilla-services/heka"
+    }
+  ]
+}

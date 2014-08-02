@@ -1,0 +1,15 @@
+{
+  "name": "C-Store",
+  "description": "column oriented DBMS",
+  "abstract": "column oriented DBMS",
+  "category": "Column Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://db.lcs.mit.edu/projects/cstore/"
+    }
+  ]
+}

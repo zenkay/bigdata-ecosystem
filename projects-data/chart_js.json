@@ -1,0 +1,15 @@
+{
+  "name": "Chart.js",
+  "description": "open source HTML5 Charts visualizations.",
+  "abstract": "open source HTML5 Charts visualizations.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.chartjs.org/"
+    }
+  ]
+}

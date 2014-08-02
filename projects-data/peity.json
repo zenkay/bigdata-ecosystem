@@ -1,0 +1,15 @@
+{
+  "name": "Peity",
+  "description": "Progressive SVG bar, line and pie charts.",
+  "abstract": "Progressive SVG bar, line and pie charts.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/benpickles/peity"
+    }
+  ]
+}

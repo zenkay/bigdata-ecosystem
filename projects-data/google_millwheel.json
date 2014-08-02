@@ -1,0 +1,15 @@
+{
+  "name": "Google MillWheel",
+  "description": "fault tolerant stream processing framework",
+  "abstract": "fault tolerant stream processing framework",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://research.google.com/pubs/pub41378.html"
+    }
+  ]
+}

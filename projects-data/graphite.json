@@ -1,0 +1,15 @@
+{
+  "name": "Graphite",
+  "description": "scalable Realtime Graphing.",
+  "abstract": "scalable Realtime Graphing.",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://graphite.wikidot.com/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "GridGain",
+  "description": "GridGain is open source project licensed under Apache 2.0. One of the main pieces of this platform is the In-Memory Apache Hadoop Accelerator which aims to accelerate HDFS and Map/Reduce by bringing both, data and computations into memory. This work is done with the GGFS - Hadoop compliant in-memory file system. For I/O intensive jobs GridGain GGFS offers performance close to 100x faster than standard HDFS. Paraphrasing Dmitriy Setrakyan from GridGain Systems talking about GGFS regarding Tachyon: GGFS allows read-through and write-through to/from underlying HDFS or any other Hadoop compliant file system with zero code change. Essentially GGFS entirely removes ETL step from integration.GGFS has ability to pick and choose what folders stay in memory, what folders stay on disc, and what folders get synchronized with underlying (HD)FS either synchronously or asynchronously. GridGain is working on adding native MapReduce component which will provide native complete Hadoop integration without changes in API, like Spark currently forces you to do. Essentially GridGain MR+GGFS will allow to bring Hadoop completely or partially in-memory in Plug-n-Play fashion without any API changes. ",
+  "abstract": "GGFS, Hadoop compliant in-memory file system",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "GridGain site",
+      "url": "http://www.gridgain.org/"
+    }
+  ]
+}

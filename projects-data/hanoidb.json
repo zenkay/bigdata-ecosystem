@@ -1,0 +1,15 @@
+{
+  "name": "HanoiDB",
+  "description": "HanoiDB implements an indexed, key/value storage engine. The primary index is a log-structured merge tree (LSM-BTree) implemented using 'doubling sizes' persistent ordered sets of key/value pairs, similar is some regards to LevelDB. HanoiDB includes a visualizer which when used to watch a living database resembles the 'Towers of Hanoi' puzzle game, which inspired the name of this database.",
+  "abstract": "Erlang LSM BTree Storage",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Github",
+      "url": "https://github.com/krestenkrab/hanoidb"
+    }
+  ]
+}
