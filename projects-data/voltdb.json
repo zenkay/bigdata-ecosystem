@@ -1,0 +1,15 @@
+{
+  "name": "VoltDB",
+  "description": "in-memory NewSQL database",
+  "abstract": "in-memory NewSQL database",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://voltdb.com/"
+    }
+  ]
+}

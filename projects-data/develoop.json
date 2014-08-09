@@ -1,0 +1,15 @@
+{
+  "name": "Develoop",
+  "description": "tool for provisioning, managing and monitoring Apache Hadoop",
+  "abstract": "tool for provisioning, managing and monitoring Apache Hadoop",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://deploop.github.io/"
+    }
+  ]
+}

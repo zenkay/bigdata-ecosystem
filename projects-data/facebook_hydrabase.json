@@ -2,7 +2,7 @@
   "name": "Facebook HydraBase",
   "description": "Evolution of HBase made by Facebook",
   "abstract": "evolution of HBase made by Facebook",
-  "category": "Column Data Model",
+  "category": "Key-Map Data Model",
   "tags": [
 
   ],

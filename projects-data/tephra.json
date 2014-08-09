@@ -2,7 +2,7 @@
   "name": "Tephra",
   "description": "Transactions for HBase",
   "abstract": "Transactions for HBase",
-  "category": "Column Data Model",
+  "category": "Key-Map Data Model",
   "tags": [
 
   ],

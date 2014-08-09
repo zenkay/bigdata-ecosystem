@@ -1,0 +1,15 @@
+{
+  "name": "Deimos",
+  "description": "Mesos containerizer hooks for Docker",
+  "abstract": "Mesos containerizer hooks for Docker",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/mesosphere/deimos"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "name": "Twitter Manhattan",
   "description": "real-time, multi-tenant distributed database for Twitter scale",
   "abstract": "real-time, multi-tenant distributed database for Twitter scale",
-  "category": "Column Data Model",
+  "category": "Key-Map Data Model",
   "tags": [
 
   ],

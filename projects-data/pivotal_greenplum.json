@@ -2,7 +2,7 @@
   "name": "Pivotal Greenplum",
   "description": "purpose-built, dedicated analytic data warehouse",
   "abstract": "purpose-built, dedicated analytic data warehouse",
-  "category": "Column Data Model",
+  "category": "Columnar Databases",
   "tags": [
 
   ],

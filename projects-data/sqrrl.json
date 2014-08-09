@@ -1,0 +1,15 @@
+{
+  "name": "Sqrrl",
+  "description": "NoSQL databases on top of Apache Accumulo",
+  "abstract": "NoSQL databases on top of Apache Accumulo",
+  "category": "Key-Map Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://sqrrl.com/product/sqrrl-enterprise/"
+    }
+  ]
+}

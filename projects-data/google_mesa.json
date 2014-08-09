@@ -1,0 +1,15 @@
+{
+  "name": "Google Mesa",
+  "description": "highly scalable analytic data warehousing system",
+  "abstract": "highly scalable analytic data warehousing system",
+  "category": "Data Warehouse",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf"
+    }
+  ]
+}

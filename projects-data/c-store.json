@@ -2,7 +2,7 @@
   "name": "C-Store",
   "description": "column oriented DBMS",
   "abstract": "column oriented DBMS",
-  "category": "Column Data Model",
+  "category": "Columnar Databases",
   "tags": [
 
   ],

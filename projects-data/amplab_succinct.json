@@ -1,0 +1,15 @@
+{
+  "name": "AMPLab Succinct",
+  "description": "Enabling Queries on Compressed Data",
+  "abstract": "Enabling Queries on Compressed Data",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://succinct.cs.berkeley.edu/wp/wordpress/"
+    }
+  ]
+}

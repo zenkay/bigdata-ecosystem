@@ -2,7 +2,7 @@
   "name": "Google BigQuery",
   "description": "framework for interactive analysis, implementation of Dremel",
   "abstract": "framework for interactive analysis, implementation of Dremel",
-  "category": "SQL-like processing",
+  "category": "Columnar Databases",
   "tags": [
 
   ],

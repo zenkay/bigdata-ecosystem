@@ -2,7 +2,7 @@
   "name": "InfiniDB",
   "description": "is accessed through a MySQL interface and use massive parallel processing to parallelize queries",
   "abstract": "is accessed through a MySQL interface and use massive parallel processing to parallelize queries",
-  "category": "Column Data Model",
+  "category": "Key-Map Data Model",
   "tags": [
 
   ],

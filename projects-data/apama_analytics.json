@@ -1,0 +1,15 @@
+{
+  "name": "Apama analytics",
+  "description": "platform for streaming analytics and intelligent automated action",
+  "abstract": "platform for streaming analytics and intelligent automated action",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.softwareag.com/corporate/products/bigdata/apama_analytics/overview/"
+    }
+  ]
+}

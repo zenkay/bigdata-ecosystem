@@ -2,7 +2,7 @@
   "name": "MonetDB",
   "description": "column store database",
   "abstract": "column store database",
-  "category": "Column Data Model",
+  "category": "Columnar Databases",
   "tags": [
 
   ],

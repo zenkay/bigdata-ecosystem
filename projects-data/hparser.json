@@ -1,0 +1,15 @@
+{
+  "name": "HParser",
+  "description": "data parsing transformation environment optimized for Hadoop",
+  "abstract": "data parsing transformation environment optimized for Hadoop",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.informatica.com/us/products/big-data/hparser/"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "name": "Google BigTable",
   "description": "column-oriented distributed datastore",
   "abstract": "column-oriented distributed datastore",
-  "category": "Column Data Model",
+  "category": "Key-Map Data Model",
   "tags": [
 
   ],

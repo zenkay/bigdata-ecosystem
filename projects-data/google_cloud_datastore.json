@@ -2,7 +2,7 @@
   "name": "Google Cloud Datastore",
   "description": "is a fully managed, schemaless database for storing non-relational data built on top of Google’s BigTable infrastructure",
   "abstract": "is a fully managed, schemaless database for storing non-relational data over BigTable",
-  "category": "Column Data Model",
+  "category": "Key-Map Data Model",
   "tags": [
 
   ],

@@ -8,7 +8,7 @@ Your contributions are always welcome!
     - [Frameworks](#frameworks)
     - [Distributed Programming](#distributed-programming)
     - [Distributed Filesystem](#distributed-filesystem)
-    - [Column Data Model](#column-data-model)
+    - [Key-Map Data Model](#column-data-model)
     - [Document Data Model](#document-data-model)
     - [Key-value Data Model](#key-value-data-model)
     - [Graph Data Model](#graph-data-model)
@@ -92,7 +92,7 @@ Your contributions are always welcome!
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
 * [Tachyon](http://tachyon-project.org/) - reliable file sharing at memory speed across cluster frameworks.
 
-## Column Data Model
+## Key-Map Data Model
 
 * [Actian Vector](http://www.actian.com/) -  column-oriented analytic database.
 * [Apache Accumulo](http://accumulo.apache.org/) - distribuited key/value store, built on Hadoop.

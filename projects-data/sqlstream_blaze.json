@@ -1,0 +1,15 @@
+{
+  "name": "SQLStream Blaze",
+  "description": "stream processing platform",
+  "abstract": "stream processing platform",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.sqlstream.com/blaze/"
+    }
+  ]
+}
