@@ -3,6 +3,8 @@ require 'json'
 require "maruku"
 require "pp"
 
+puts "Run: #{__FILE__}"
+
 # load ordered category list
 table_config = JSON.parse(File.read("#{File.dirname(__FILE__)}/../config/categories.json"))
 

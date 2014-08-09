@@ -1,0 +1,6 @@
+ruby generator/andreamostosiwordpress.rb
+ruby generator/awesomebigdata.rb
+ruby generator/bigdataecosystemraw.rb
+ruby generator/bigdataecosystemtable.rb
+ruby generator/githubreadme.rb
+ruby generator/hadoopecosystemtable.rb

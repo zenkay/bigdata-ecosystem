@@ -3,6 +3,8 @@ require 'json'
 require "maruku"
 require "pp"
 
+puts "Run: #{__FILE__}"
+
 projects = []
 
 # iterate on data files (alphabetically ordered)
