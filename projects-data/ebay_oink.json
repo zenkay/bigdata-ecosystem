@@ -1,0 +1,19 @@
+{
+  "name": "eBay Oink",
+  "description": "REST based interface for PIG execution",
+  "abstract": "REST based interface for PIG execution",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/eBay/oink"
+    },
+    {
+      "text": "Website",
+      "url": "http://www.ebaytechblog.com/2014/07/22/oink-making-pig-self-service/"
+    }
+  ]
+}

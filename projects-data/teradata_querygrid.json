@@ -1,0 +1,15 @@
+{
+  "name": "Teradata QueryGrid",
+  "description": "data-access layer that can orchestrate multiple modes of analysis across multiple databases plus Hadoop",
+  "abstract": "data-access layer that can orchestrate multiple modes of analysis across multiple databases plus Hadoop",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://it.teradata.com/Teradata-QueryGrid/"
+    }
+  ]
+}

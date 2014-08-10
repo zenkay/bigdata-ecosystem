@@ -1,0 +1,15 @@
+{
+  "name": "Teradata Aster",
+  "description": "Big Data Analytics",
+  "abstract": "Big Data Analytics",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://it.teradata.com/Teradata-Aster-Database/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "TIBCO Enterprise Message Service",
+  "description": "standards-based messaging middleware",
+  "abstract": "standards-based messaging middleware",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.tibco.com/products/automation/enterprise-messaging/enterprise-message-service"
+    }
+  ]
+}

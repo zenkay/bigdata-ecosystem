@@ -1,0 +1,15 @@
+{
+  "name": "IBM BigInsights",
+  "description": "data processing, warehousing and analytics",
+  "abstract": "data processing, warehousing and analytics",
+  "category": "Data Warehouse",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.ibm.com/software/data/infosphere/biginsights/"
+    }
+  ]
+}

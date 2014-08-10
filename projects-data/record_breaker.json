@@ -1,0 +1,15 @@
+{
+  "name": "Record Breaker",
+  "description": "Automatic structure for your text-formatted data",
+  "abstract": "Automatic structure for your text-formatted data",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://cloudera.github.io/RecordBreaker/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Ayasdi Core",
+  "description": "tool for topological data analysis",
+  "abstract": "tool for topological data analysis",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.ayasdi.com/"
+    }
+  ]
+}

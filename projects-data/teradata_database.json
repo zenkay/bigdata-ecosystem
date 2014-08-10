@@ -1,0 +1,15 @@
+{
+  "name": "Teradata Database",
+  "description": "complete relational database management system",
+  "abstract": "complete relational database management system",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://it.teradata.com/products-and-services/Teradata-Database/"
+    }
+  ]
+}

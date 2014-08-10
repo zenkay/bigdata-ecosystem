@@ -1,0 +1,15 @@
+{
+  "name": "IBM Streams",
+  "description": "advanced analytic platform that allows user-developed applications to quickly ingest, analyze and correlate information as it arrives from thousands of real-time sources",
+  "abstract": "advanced analytic platform that allows user-developed applications to quickly ingest, analyze and correlate information as it arrives from thousands of real-time sources",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.ibm.com/software/products/en/infosphere-streams"
+    }
+  ]
+}

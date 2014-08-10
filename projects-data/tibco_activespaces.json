@@ -1,0 +1,15 @@
+{
+  "name": "TIBCO ActiveSpaces",
+  "description": "in-memory data grid",
+  "abstract": "in-memory data grid",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.tibco.com/products/automation/in-memory-computing/in-memory-data-grid/activespaces-enterprise-edition"
+    }
+  ]
+}

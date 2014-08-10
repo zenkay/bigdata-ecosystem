@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft Cosmos",
+  "description": "Microsoft's internal BigData analysis platform",
+  "abstract": "Microsoft's internal BigData analysis platform",
+  "category": "Data Warehouse",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://research.microsoft.com/en-us/events/fs2011/helland_cosmos_big_data_and_big_challenges.pdf"
+    }
+  ]
+}
