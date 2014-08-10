@@ -1,15 +1,16 @@
 Big Data Ecosystem Dataset 
 ==========================
 
-Incomplete-but-useful list of big-data related projects.
+Incomplete-but-useful list of big-data related projects packed into a JSON dataset.
 
 - Main table: http://bigdata.andreamostosi.name
 - Raw JSON data: http://bigdata.andreamostosi.name/data.json
 - Original page on my blog: http://blog.andreamostosi.name/big-data/
 
 Related projects:
-- [Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/)
-- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+- [Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/) by [Javi Roman](https://github.com/javiroman)
+- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) by [Onur Akpolat](https://github.com/onurakpolat)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) by [Alexander Bayandin](https://github.com/bayandin)
 
 ## Categories
 
