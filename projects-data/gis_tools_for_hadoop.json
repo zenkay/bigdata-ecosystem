@@ -1,0 +1,15 @@
+{
+  "name": "GIS Tools for Hadoop",
+  "description": "Big Data Spatial Analytics for the Hadoop Framework",
+  "abstract": "Big Data Spatial Analytics for the Hadoop Framework",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://esri.github.io/gis-tools-for-hadoop/"
+    }
+  ]
+}

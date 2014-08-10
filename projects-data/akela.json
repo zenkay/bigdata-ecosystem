@@ -1,0 +1,15 @@
+{
+  "name": "Akela",
+  "description": "Mozilla's utility library for Hadoop, HBase, Pig, etc.",
+  "abstract": "Mozilla's utility library for Hadoop, HBase, Pig, etc.",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/mozilla-metrics/akela"
+    }
+  ]
+}

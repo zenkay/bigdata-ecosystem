@@ -1,0 +1,15 @@
+{
+  "name": "Hannibal",
+  "description": "Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.",
+  "abstract": "Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/sentric/hannibal"
+    }
+  ]
+}

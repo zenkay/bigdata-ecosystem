@@ -1,0 +1,15 @@
+{
+  "name": "Elasticsearch Hadoop",
+  "description": "Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.",
+  "abstract": "Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/elasticsearch/elasticsearch-hadoop"
+    }
+  ]
+}

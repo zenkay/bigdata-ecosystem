@@ -1,0 +1,15 @@
+{
+  "name": "Ganglia Monitoring System",
+  "description": "scalable distributed monitoring system for high-performance computing systems such as clusters and Grids",
+  "abstract": "scalable distributed monitoring system for high-performance computing systems such as clusters and Grids",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://ganglia.sourceforge.net/"
+    }
+  ]
+}

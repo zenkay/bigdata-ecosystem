@@ -1,0 +1,15 @@
+{
+  "name": "Big-Bench",
+  "description": "Big Bench Workload Development",
+  "abstract": "Big Bench Workload Development",
+  "category": "Benchmarking",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/intel-hadoop/Big-Bench"
+    }
+  ]
+}

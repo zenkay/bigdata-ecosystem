@@ -1,0 +1,15 @@
+{
+  "name": "PacketPig",
+  "description": "Open Source Big Data Security Analytics",
+  "abstract": "Open Source Big Data Security Analytics",
+  "category": "Security",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/packetloop/packetpig"
+    }
+  ]
+}

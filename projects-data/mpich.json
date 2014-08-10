@@ -1,0 +1,15 @@
+{
+  "name": "MPICH",
+  "description": "high performance and widely portable implementation of the Message Passing Interface (MPI) standard",
+  "abstract": "high performance and widely portable implementation of the Message Passing Interface (MPI) standard",
+  "category": "Service Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.mpich.org/"
+    }
+  ]
+}

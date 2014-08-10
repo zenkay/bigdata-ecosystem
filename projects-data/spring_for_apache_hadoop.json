@@ -1,0 +1,15 @@
+{
+  "name": "Spring for Apache Hadoop",
+  "description": "unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive",
+  "abstract": "unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://projects.spring.io/spring-hadoop/"
+    }
+  ]
+}

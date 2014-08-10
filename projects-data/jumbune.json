@@ -1,0 +1,15 @@
+{
+  "name": "Jumbune",
+  "description": "Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.",
+  "abstract": "Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/impetus-opensource/jumbune"
+    }
+  ]
+}

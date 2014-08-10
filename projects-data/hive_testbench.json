@@ -1,0 +1,15 @@
+{
+  "name": "Hive-testbench",
+  "description": "Testbench for experimenting with Apache Hive at any data scale.",
+  "abstract": "Testbench for experimenting with Apache Hive at any data scale.",
+  "category": "Benchmarking",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/cartershanklin/hive-testbench"
+    }
+  ]
+}

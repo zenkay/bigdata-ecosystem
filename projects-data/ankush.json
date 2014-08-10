@@ -1,0 +1,15 @@
+{
+  "name": "Ankush",
+  "description": "A big data cluster management tool that creates and manages clusters of different technologies.",
+  "abstract": "A big data cluster management tool that creates and manages clusters of different technologies.",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/impetus-opensource/ankush"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hIndex",
+  "description": "Secondary Index for HBase",
+  "abstract": "Secondary Index for HBase",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Huawei-Hadoop/hindex"
+    }
+  ]
+}

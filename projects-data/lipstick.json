@@ -1,0 +1,15 @@
+{
+  "name": "Lipstick",
+  "description": "Pig workflow visualization tool",
+  "abstract": "Pig workflow visualization tool",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/Lipstick"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hive-benchmarks",
+  "description": "some benchmarking queries for Apache Hive",
+  "abstract": "some benchmarking queries for Apache Hive",
+  "category": "Benchmarking",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/yhuai/hive-benchmarks"
+    }
+  ]
+}

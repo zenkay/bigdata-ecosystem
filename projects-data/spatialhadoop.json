@@ -1,0 +1,15 @@
+{
+  "name": "SpatialHadoop",
+  "description": "SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. ",
+  "abstract": "SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. ",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://spatialhadoop.cs.umn.edu/"
+    }
+  ]
+}

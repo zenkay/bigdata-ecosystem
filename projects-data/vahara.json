@@ -1,0 +1,15 @@
+{
+  "name": "Vahara",
+  "description": "Machine learning and natural language processing with Apache Pig",
+  "abstract": "Machine learning and natural language processing with Apache Pig",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Ganglion/varaha"
+    }
+  ]
+}

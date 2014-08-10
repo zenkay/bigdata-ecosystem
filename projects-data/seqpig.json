@@ -1,0 +1,15 @@
+{
+  "name": "SeqPig",
+  "description": "Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop ",
+  "abstract": "Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop ",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://seqpig.sourceforge.net/"
+    }
+  ]
+}

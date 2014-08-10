@@ -1,0 +1,15 @@
+{
+  "name": "Zeppelin",
+  "description": "open source data analysis environment on top of Hadoop.",
+  "abstract": "open source data analysis environment on top of Hadoop.",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://zeppelin-project.org/"
+    }
+  ]
+}

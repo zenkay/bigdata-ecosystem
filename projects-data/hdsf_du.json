@@ -1,0 +1,15 @@
+{
+  "name": "HDSF-DU",
+  "description": "HDFS-DU is an interactive visualization of the Hadoop distributed file system. ",
+  "abstract": "HDFS-DU is an interactive visualization of the Hadoop distributed file system. ",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/twitter/hdfs-du"
+    }
+  ]
+}
