@@ -1,0 +1,15 @@
+{
+  "title": "HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality 2013 Estimation Algorithm",
+  "year": "2013",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://stefanheule.com/papers/edbt2013-hyperloglog.pdf"
+    }
+  ]
+}

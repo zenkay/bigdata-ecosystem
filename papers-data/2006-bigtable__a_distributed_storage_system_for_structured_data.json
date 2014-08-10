@@ -1,0 +1,15 @@
+{
+  "title": "Bigtable: A Distributed Storage System for Structured Data",
+  "year": "2006",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf"
+    }
+  ]
+}

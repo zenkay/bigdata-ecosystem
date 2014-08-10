@@ -1,0 +1,15 @@
+{
+  "title": "Resilient Distributed Datasets- A Fault-Tolerant Abstraction for In-Memory Cluster Computing",
+  "year": "2011",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf"
+    }
+  ]
+}

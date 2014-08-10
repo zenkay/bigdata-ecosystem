@@ -22,7 +22,7 @@ Dir.glob("#{File.dirname(__FILE__)}/../projects-data/*.json").sort.each do |file
   data_grouped_by_category[data["category"]] << data
 end
 
-puts "Data succesfully loaded."
+puts "Projects Data succesfully loaded."
 
 # create table content
 categories = []
@@ -30,7 +30,18 @@ table_config["categories"].each do |c|
   categories << {"name" => c, "items" => data_grouped_by_category[c]}
 end
 
-puts "Data succesfully grouped."
+puts "Projects Data succesfully grouped."
+
+papers = {}
+
+Dir.glob("#{File.dirname(__FILE__)}/../papers-data/*.json").sort.each do |file|
+  # read content
+  data = JSON.parse(File.read(file))
+  papers[data["year"]] ||= []
+  papers[data["year"]] << data
+end
+
+puts "Paper Data succesfully loaded."
 
 # write result
 File.open("#{File.dirname(__FILE__)}/../public/githubreadme.md", 'w') { |file| file.write(ERB.new(File.read("#{File.dirname(__FILE__)}/templates/githubreadme.md"), nil, '-').result(binding)) } 

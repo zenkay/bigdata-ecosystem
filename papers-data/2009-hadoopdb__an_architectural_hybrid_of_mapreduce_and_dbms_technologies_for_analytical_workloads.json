@@ -1,0 +1,15 @@
+{
+  "title": "HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads",
+  "year": "2009",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://www.vldb.org/pvldb/2/vldb09-861.pdf"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "MapReduce: Simplified Data Processing on Large Clusters",
+  "year": "2004",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "The Chubby lock service for loosely-coupled distributed systems",
+  "year": "2006",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf"
+    }
+  ]
+}

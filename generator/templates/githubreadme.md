@@ -32,3 +32,13 @@ Related projects:
 <% end -%>
 <% end -%>
 <% end -%>
+
+# Papers
+
+<% papers.each do |year, papers_by_year| -%>
+<%- papers_by_year.each do |paper| -%>
+<% if paper["links"].any? -%>
+* **<%= paper["year"] %>** - [<%= paper["title"] %>](<%= paper["links"][0]["url"] %>)
+<% end -%>
+<% end -%>
+<% end -%>

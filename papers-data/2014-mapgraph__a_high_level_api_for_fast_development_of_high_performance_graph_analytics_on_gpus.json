@@ -1,0 +1,15 @@
+{
+  "title": "MapGraph: A High Level API for Fast Development of High Performance Graph Analytics on GPUs",
+  "year": "2014",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://mapgraph.io/papers/MapGraph-SIGMOD-2014.pdf"
+    }
+  ]
+}

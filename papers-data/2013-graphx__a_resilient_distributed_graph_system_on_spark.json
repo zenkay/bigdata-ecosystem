@@ -1,0 +1,15 @@
+{
+  "title": "GraphX: A Resilient Distributed Graph System on Spark",
+  "year": "2013",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://amplab.cs.berkeley.edu/wp-content/uploads/2013/05/grades-graphx_with_fonts.pdf"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications",
+  "year": "2001",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf"
+    }
+  ]
+}

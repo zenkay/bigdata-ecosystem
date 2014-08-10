@@ -1,0 +1,15 @@
+{
+  "title": "ZooKeeper: Wait-free coordination for Internet-scale systems",
+  "year": "2010",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf"
+    }
+  ]
+}

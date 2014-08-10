@@ -1,0 +1,15 @@
+{
+  "title": "Paxos Replicated State Machines as the Basis of a High-Performance  Data Store",
+  "year": "2012",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://www.usenix.org/legacy/events/nsdi11/tech/full_papers/Bolosky.pdf"
+    }
+  ]
+}

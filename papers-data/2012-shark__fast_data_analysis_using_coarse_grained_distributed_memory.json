@@ -1,0 +1,15 @@
+{
+  "title": "Shark: Fast Data Analysis Using Coarse-grained Distributed Memory",
+  "year": "2012",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://www.cs.berkeley.edu/~matei/papers/2012/sigmod_shark_demo.pdf"
+    }
+  ]
+}

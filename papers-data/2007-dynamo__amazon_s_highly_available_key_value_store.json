@@ -1,0 +1,15 @@
+{
+  "title": "Dynamo: Amazon's Highly Available Key-value Store",
+  "year": "2007",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf"
+    }
+  ]
+}

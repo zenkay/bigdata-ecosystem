@@ -1,0 +1,15 @@
+{
+  "title": "Spanner: Google's Globally-Distributed Database",
+  "year": "2012",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf"
+    }
+  ]
+}

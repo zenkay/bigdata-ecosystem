@@ -1,0 +1,15 @@
+{
+  "title": "Pregel: A System for Large-Scale Graph Processing",
+  "year": "2010",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://kowshik.github.io/JPregel/pregel_paper.pdf"
+    }
+  ]
+}

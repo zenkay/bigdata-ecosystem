@@ -1,0 +1,15 @@
+{
+  "title": "Column:Stores vs. Row-Stores- How Different Are They Really?",
+  "year": "2008",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf"
+    }
+  ]
+}

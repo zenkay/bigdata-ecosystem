@@ -1,0 +1,15 @@
+{
+  "title": "Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center ",
+  "year": "2010",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://static.usenix.org/event/nsdi11/tech/full_papers/Hindman_new.pdf"
+    }
+  ]
+}

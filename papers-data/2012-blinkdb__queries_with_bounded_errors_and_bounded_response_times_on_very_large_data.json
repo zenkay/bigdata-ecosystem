@@ -1,0 +1,15 @@
+{
+  "title": "BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data",
+  "year": "2012",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf"
+    }
+  ]
+}
