@@ -1,0 +1,15 @@
+{
+  "name": "CartoDB",
+  "description": "open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API",
+  "abstract": "open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/CartoDB/cartodb"
+    }
+  ]
+}

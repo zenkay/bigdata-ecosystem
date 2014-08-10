@@ -1,0 +1,15 @@
+{
+  "name": "Google Dremel",
+  "description": "framework for interactive analysis, implementation of Dremel",
+  "abstract": "framework for interactive analysis, implementation of Dremel",
+  "category": "Columnar Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Dremel Paper",
+      "url": "http://research.google.com/pubs/pub36632.html"
+    }
+  ]
+}
