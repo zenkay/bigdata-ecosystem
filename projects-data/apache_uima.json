@@ -1,0 +1,15 @@
+{
+  "name": "Apache UIMA",
+  "description": "Unstructured Information Management applications are software systems that analyze large volumes of unstructured information in order to discover knowledge that is relevant to an end user",
+  "abstract": "Unstructured Information Management applications are software systems that analyze large volumes of unstructured information in order to discover knowledge that is relevant to an end user",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://uima.apache.org/"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "Cytoscape",
-  "description": "JavaScript library for visualizing complex networks",
+  "description": "open source software platform for visualizing complex networks and integrating these with any type of attribute data",
   "abstract": "JavaScript library for visualizing complex networks",
   "category": "Data Visualization",
   "tags": [
@@ -10,6 +10,10 @@
     {
       "text": "Website",
       "url": "http://cytoscape.github.io/"
+    },
+    {
+      "text": "Website",
+      "url": "http://www.cytoscape.org/"
     }
   ]
 }

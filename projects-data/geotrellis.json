@@ -1,0 +1,19 @@
+{
+  "name": "Geotrellis",
+  "description": "geographic data processing engine for high performance applications",
+  "abstract": "geographic data processing engine for high performance applications",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://geotrellis.io/"
+    },
+    {
+      "text": "Website",
+      "url": "http://spark-summit.org/2014/talk/geotrellis-adding-geospatial-capabilities-to-spark"
+    }
+  ]
+}

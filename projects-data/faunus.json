@@ -1,0 +1,15 @@
+{
+  "name": "Faunus",
+  "description": "Hadoop-based graph analytics engine for analyzing graphs represented across a multi-machine compute cluster",
+  "abstract": "Hadoop-based graph analytics engine for analyzing graphs represented across a multi-machine compute cluster",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://thinkaurelius.github.io/faunus/"
+    }
+  ]
+}

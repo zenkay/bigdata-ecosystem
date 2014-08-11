@@ -1,0 +1,15 @@
+{
+  "name": "Sparksee",
+  "description": "scalable high-performance graph database",
+  "abstract": "scalable high-performance graph database",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.sparsity-technologies.com/"
+    }
+  ]
+}

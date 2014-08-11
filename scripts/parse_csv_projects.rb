@@ -1,7 +1,7 @@
 require "csv"
 require "json"
 
-CSV.foreach("./update.csv", col_sep: ";", encoding: "iso-8859-1:UTF-8") do |row|
+CSV.foreach("./projects.csv", col_sep: ";", encoding: "iso-8859-1:UTF-8") do |row|
   puts row[0]
   data = {}
   data["name"] = row[0]

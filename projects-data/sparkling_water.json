@@ -1,0 +1,19 @@
+{
+  "name": "Sparkling Water",
+  "description": "combine H2OÕs Machine Learning capabilities with the power of the Spark platform",
+  "abstract": "combine H2OÕs Machine Learning capabilities with the power of the Spark platform",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://databricks.com/blog/2014/06/30/sparkling-water-h20-spark.html"
+    },
+    {
+      "text": "Website",
+      "url": "http://spark-summit.org/2014/talk/sparkling-identification-of-task-skew-and-speculative-partition-of-data-for-spark-applications"
+    }
+  ]
+}

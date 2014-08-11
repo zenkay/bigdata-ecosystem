@@ -1,0 +1,15 @@
+{
+  "name": "InfiniteGraph",
+  "description": "distributed graph database",
+  "abstract": "distributed graph database",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.objectivity.com/infinitegraph"
+    }
+  ]
+}
