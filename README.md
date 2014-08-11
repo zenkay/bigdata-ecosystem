@@ -80,6 +80,7 @@ Related projects:
 * [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) - Hadoop enhancement which removes single point of failure.
 * [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
 * [Facebook Scuba](https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920) - distributed in-memory datastore.
+* [Geotrellis](http://geotrellis.io/) - geographic data processing engine for high performance applications.
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework.
 * [Google Dataflow](http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
 * [Google MapReduce](http://research.google.com/archive/mapreduce.html) - map reduce framework.
@@ -100,6 +101,7 @@ Related projects:
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. .
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/) - unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive.
 * [SQLStream Blaze](http://www.sqlstream.com/blaze/) - stream processing platform.
+* [Stratio Streaming](http://www.openstratio.org/about/stratio-streaming/) - the union of a real-time messaging bus with a complex event processing engine using Spark Streaming.
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - usefull for counting activities of event streams over different time windows and finding the most active one.
 * [Teradata QueryGrid](http://it.teradata.com/Teradata-QueryGrid/) - data-access layer that can orchestrate multiple modes of analysis across multiple databases plus Hadoop.
@@ -133,7 +135,6 @@ Related projects:
 * [Facebook HydraBase](https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/) - evolution of HBase made by Facebook.
 * [Google BigTable](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - column-oriented distributed datastore.
 * [Google Cloud Datastore](https://developers.google.com/datastore/) - is a fully managed, schemaless database for storing non-relational data over BigTable.
-* [Haeinsa](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 * [Hypertable](http://hypertable.org/) - column-oriented distribuited datastore, inspired by BigTable.
 * [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
 * [OhmData C5](http://ohmdata.com/) - improved version of HBase.
@@ -175,17 +176,20 @@ Related projects:
 * [Apache Spark Bagel](http://spark.incubator.apache.org/docs/0.7.3/bagel-programming-guide.html) - implementation of Pregel, part of Spark.
 * [ArangoDB](https://www.arangodb.org/) - multi model distribuited database.
 * [Facebook TAO](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - TAO is the distributed data store that is widely used at facebook to store and serve the social graph.
+* [Faunus](http://thinkaurelius.github.io/faunus/) - Hadoop-based graph analytics engine for analyzing graphs represented across a multi-machine compute cluster.
 * [Google Cayley](https://github.com/google/cayley) - open-source graph database.
 * [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) - graph processing framework.
 * [GraphLab PowerGraph](http://graphlab.org/projects/source.html) - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
 * [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
 * [Gremlin](https://github.com/tinkerpop/gremlin) - graph traversal Language.
+* [InfiniteGraph](http://www.objectivity.com/infinitegraph) - distributed graph database.
 * [Infovore](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
 * [MapGraph](http://mapgraph.io/) - Massively Parallel Graph processing on GPUs.
 * [Neo4j](http://www.neo4j.org/) - graph database writting entirely in Java.
 * [OrientDB](http://www.orientechnologies.com/) - document and graph database.
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
+* [Sparksee](http://www.sparsity-technologies.com/) - scalable high-performance graph database.
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
 * [Twitter FlockDB](https://github.com/twitter/flockdb) - distribuited graph database.
 
@@ -268,6 +272,7 @@ Related projects:
 * [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
 * [Apache Samza](http://samza.incubator.apache.org/) - stream processing framework, based on Kafla and YARN.
 * [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
+* [Apache UIMA](https://uima.apache.org/) - Unstructured Information Management applications are software systems that analyze large volumes of unstructured information in order to discover knowledge that is relevant to an end user.
 * [Cloudera Morphlines](https://github.com/cloudera/cdk/tree/master/cdk-morphlines) - framework that help ETL to Solr, HBase and HDFS.
 * [Facebook Scribe](https://github.com/facebook/scribe) - streamed log data aggregator.
 * [Fluentd](http://fluentd.org/) - tool to collect events and logs.
@@ -332,6 +337,7 @@ Related projects:
 * [PredictionIO](http://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
+* [Sparkling Water](http://databricks.com/blog/2014/06/30/sparkling-water-h20-spark.html) - combine H2OÕs Machine Learning capabilities with the power of the Spark platform.
 * [Vahara](https://github.com/Ganglion/varaha) - Machine learning and natural language processing with Apache Pig.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
@@ -413,6 +419,7 @@ Related projects:
 * [Google Caffeine](http://googleblog.blogspot.it/2010/06/our-new-search-index-caffeine.html) - continuous indexing system.
 * [Google Percolator](http://research.google.com/pubs/pub36726.html) - continuous indexing system.
 * [TeraGoogle]() - large search index.
+* [Haeinsa](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 * [HBase Coprocessor](https://blogs.apache.org/hbase/entry/coprocessor_introduction) - implementation of Percolator, part of HBase.
 * [hIndex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase.
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - quickly and easily search for any content stored in HBase.
@@ -464,6 +471,7 @@ Related projects:
 
 * [Adatao](http://adatao.com/pinsights.html) - business intelligence and data science platform.
 * [Apama analytics](http://www.softwareag.com/corporate/products/bigdata/apama_analytics/overview/) - platform for streaming analytics and intelligent automated action.
+* [Atigeo xPatterns](http://xpatterns.com/) - data analytics platform.
 * [BIME Analytics](http://www.bimeanalytics.com/) - business intelligence platform in the cloud.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
@@ -495,6 +503,7 @@ Related projects:
 * [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
+* [Keylines](http://keylines.com/) - toolkit for visualizing the networks in your data.
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
@@ -532,6 +541,7 @@ Related projects:
 * **2010** - [Spark: Cluster Computing with Working Sets](http://www.cs.berkeley.edu/~matei/papers/2010/hotcloud_spark.pdf)
 * **2010** - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 * **2011** - [CrowdDB: Answering Queries with Crowdsourcing](http://csce.uark.edu/~tingxiny/courses/5013spring13/readingList/crowddb_sigmod2011.pdf)
+* **2011** - [CrowdDB: Query Processing with the VLDB Crowd](http://cs.brown.edu/~kraskat/pub/vldb11-crowddb_demo.pdf)
 * **2011** - [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://www.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
 * **2011** - [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)
 * **2011** - [Resilient Distributed Datasets- A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
@@ -548,6 +558,8 @@ Related projects:
 * **2012** - [Spanner: Google's Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 * **2012** - [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf)
 * **2012** - [The Vertica Analytic Database- C-Store 7 Years Later](http://vldb.org/pvldb/vol5/p1790_andrewlamb_vldb2012.pdf)
+* **2013** - [A Demonstration of SpatailHadoop: An Efficient MapReduce Framework for Spatial Data](http://spatialhadoop.cs.umn.edu/publications/p744-eldawy.pdf)
+* **2013** - [CG_Hadoop: Computational Geometry in MapReduce](http://spatialhadoop.cs.umn.edu/publications/p0144_Eldawy.pdf)
 * **2013** - [Druid A Real-time Analytical Data Store](http://static.druid.io/docs/druid.pdf)
 * **2013** - [Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask](http://sigops.org/sosp/sosp13/papers/p33-david.pdf)
 * **2013** - [F1: A Distributed SQL Database That Scales ](http://stevereads.com/papers_to_read/f1_a_distributed_sql_database_that_scales.pdf)
@@ -571,3 +583,4 @@ Related projects:
 * **2014** - [MapGraph: A High Level API for Fast Development of High Performance Graph Analytics on GPUs](http://mapgraph.io/papers/MapGraph-SIGMOD-2014.pdf)
 * **2014** - [Mesa: Geo-Replicated, Near Real-Time, Scalable Data Warehousing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42851.pdf)
 * **2014** - [Orca A Modular Query Optimizer Architecture for Big Data](http://www.pivotal.io/sites/default/files/SIGMODMay2014HAWQAdvantages.pdf)
+* **2014** - [Pigeon: A Spatial MapReduce Language](http://spatialhadoop.cs.umn.edu/publications/ICDE14_demo_763.pdf)
