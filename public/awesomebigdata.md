@@ -471,7 +471,7 @@ Your contributions are always welcome!
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
-* [Spango BI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
+* [SpagoBI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
 * [Spotfire](http://spotfire.tibco.com/) - business intelligence platform.
 * [Tableau](https://www.tableausoftware.com/) - business intelligence platform.
 * [Teradata Aster](http://it.teradata.com/Teradata-Aster-Database/) - Big Data Analytics.
@@ -494,6 +494,7 @@ Your contributions are always welcome!
 * [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
+* [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
 * [Keylines](http://keylines.com/) - toolkit for visualizing the networks in your data.
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
