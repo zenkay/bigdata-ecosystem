@@ -1,0 +1,15 @@
+{
+  "name": "IPython",
+  "description": "provides a rich architecture for interactive computing",
+  "abstract": "provides a rich architecture for interactive computing",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://ipython.org/"
+    }
+  ]
+}
