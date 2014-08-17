@@ -520,7 +520,9 @@ Related projects:
 
 # Papers
 
+
 ## 2014
+
 * **2014** - [3D Object Manipulation in a Single Photograph using Stock 3D Models](https://www.cs.cmu.edu/~om3d/papers/SIGGRAPH2014.pdf)
 * **2014** - [A Partitioning Framework for Aggressive Data Skipping](http://www.vldb.org/pvldb/vol7/p1617-sun.pdf)
 * **2014** - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](http://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
@@ -531,7 +533,9 @@ Related projects:
 * **2014** - [Mesa: Geo-Replicated, Near Real-Time, Scalable Data Warehousing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42851.pdf)
 * **2014** - [Orca A Modular Query Optimizer Architecture for Big Data](http://www.pivotal.io/sites/default/files/SIGMODMay2014HAWQAdvantages.pdf)
 * **2014** - [Pigeon: A Spatial MapReduce Language](http://spatialhadoop.cs.umn.edu/publications/ICDE14_demo_763.pdf)
+
 ## 2013
+
 * **2013** - [A Demonstration of SpatailHadoop: An Efficient MapReduce Framework for Spatial Data](http://spatialhadoop.cs.umn.edu/publications/p744-eldawy.pdf)
 * **2013** - [CG_Hadoop: Computational Geometry in MapReduce](http://spatialhadoop.cs.umn.edu/publications/p0144_Eldawy.pdf)
 * **2013** - [Druid A Real-time Analytical Data Store](http://static.druid.io/docs/druid.pdf)
@@ -549,7 +553,9 @@ Related projects:
 * **2013** - [Scuba: Diving into Data at Facebook](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf)
 * **2013** - [Shark: SQL and Rich Analytics at Scale](http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-214.pdf)
 * **2013** - [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)
+
 ## 2012
+
 * **2012** - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * **2012** - [Blink and It's Done. Interactive Queries on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_vldb12_demo.pdf)
 * **2012** - [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](https://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf)
@@ -563,14 +569,18 @@ Related projects:
 * **2012** - [Spanner: Google's Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 * **2012** - [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf)
 * **2012** - [The Vertica Analytic Database- C-Store 7 Years Later](http://vldb.org/pvldb/vol5/p1790_andrewlamb_vldb2012.pdf)
+
 ## 2011
+
 * **2011** - [CrowdDB: Answering Queries with Crowdsourcing](http://csce.uark.edu/~tingxiny/courses/5013spring13/readingList/crowddb_sigmod2011.pdf)
 * **2011** - [CrowdDB: Query Processing with the VLDB Crowd](http://cs.brown.edu/~kraskat/pub/vldb11-crowddb_demo.pdf)
 * **2011** - [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://www.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
 * **2011** - [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)
 * **2011** - [Resilient Distributed Datasets- A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
 * **2011** - [Scarlett: Coping with Skewed Content Popularity in MapReduce Clusters](http://research.microsoft.com/en-us/um/people/srikanth/data/scarlett_eurosys11.pdf)
+
 ## 2010
+
 * **2010** - [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf)
 * **2010** - [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 * **2010** - [Finding a needle in Haystack- Facebook's photo storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
@@ -581,38 +591,58 @@ Related projects:
 * **2010** - [S4: Distributed Stream Computing Platform](http://www.4lunas.org/pub/2010-s4.pdf)
 * **2010** - [Spark: Cluster Computing with Working Sets](http://www.cs.berkeley.edu/~matei/papers/2010/hotcloud_spark.pdf)
 * **2010** - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
+
 ## 2009
+
 * **2009** - [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 * **2009** - [HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads](http://www.vldb.org/pvldb/2/vldb09-861.pdf)
 * **2009** - [Vertical Paxos and Primary-Backup Replication](http://research.microsoft.com/en-us/um/people/lamport/pubs/vertical-paxos.pdf)
+
 ## 2008
+
 * **2008** - [Chukwa: A large-scale monitoring system](http://mmm.csd.uwo.ca/courses/CS9842/papers/Paper-13-Ariel-Rabkin.pdf)
 * **2008** - [Column:Stores vs. Row-Stores- How Different Are They Really?](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
 * **2008** - [PNUTS: Yahoo!Õs Hosted Data Serving Platform](http://www.mpi-sws.org/~druschel/courses/ds/papers/cooper-pnuts.pdf)
 * **2008** - [Top 10 algorithms in data mining](http://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
+
 ## 2007
+
 * **2007** - [Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](http://cs.brown.edu/~debrabant/cis570-website/papers/dryad.pdf)
 * **2007** - [Dynamo: Amazon's Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * **2007** - [Life beyond Distributed Transactions: an ApostateÕs Opinion](http://www.ics.uci.edu/~cs223/papers/cidr07p15.pdf)
 * **2007** - [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
+
 ## 2006
+
 * **2006** - [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * **2006** - [Ceph: A Scalable, High-Performance Distributed File System](http://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf)
 * **2006** - [Map-Reduce for Machine Learning on Multicore](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2006_725.pdf)
 * **2006** - [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+
 ## 2005
+
 * **2005** - [Fast Paxos](http://research.microsoft.com/pubs/64624/tr-2005-112.pdf)
+
 ## 2004
+
 * **2004** - [Cheap Paxos](http://research.microsoft.com/en-us/um/people/lamport/pubs/web-dsn-submission.pdf)
 * **2004** - [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+
 ## 2003
+
 * **2003** - [The Google File System](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+
 ## 2002
+
 * **2002** - [Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](http://lpd.epfl.ch/sgilbert/pubs/BrewersConjecture-SigAct.pdf)
+
 ## 2001
+
 * **2001** - [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 * **2001** - [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 * **2001** - [Random Forrest](http://oz.berkeley.edu/~breiman/randomforest2001.pdf)
+
 ## 1999
+
 * **1999** - [Pasting Small Votes for Classification in Large Databases and On-Line](http://link.springer.com/content/pdf/10.1023%2FA%3A1007563306331.pdf)
 * **1999** - [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
