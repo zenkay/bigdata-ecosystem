@@ -36,8 +36,10 @@ Related projects:
 
 # Papers
 
-<% papers.sort_by { |k, v| -(k.to_i) }.each do |year, papers_by_year| -%>
+<% papers.reverse_each do |year, papers_by_year| -%>
+
 ## <%= year %>
+
 <%- papers_by_year.each do |paper| -%>
 <% if paper["links"].any? -%>
 * **<%= paper["year"] %>** - [<%= paper["title"] %>](<%= paper["links"][0]["url"] %>)
