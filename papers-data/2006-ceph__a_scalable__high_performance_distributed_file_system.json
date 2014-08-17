@@ -1,0 +1,15 @@
+{
+  "title": "Ceph: A Scalable, High-Performance Distributed File System",
+  "year": "2006",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf"
+    }
+  ]
+}
