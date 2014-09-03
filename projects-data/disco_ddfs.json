@@ -1,0 +1,15 @@
+{
+  "name": "Disco DDFS",
+  "description": "distributed filesystem",
+  "abstract": "distributed filesystem",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://disco.readthedocs.org/en/latest/howto/ddfs.html"
+    }
+  ]
+}

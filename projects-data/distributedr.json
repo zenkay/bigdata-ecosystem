@@ -1,0 +1,15 @@
+{
+  "name": "DistributedR",
+  "description": "scalable high-performance platform for the R language",
+  "abstract": "scalable high-performance platform for the R language",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.vertica.com/distributedr/"
+    }
+  ]
+}

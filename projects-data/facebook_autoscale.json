@@ -1,0 +1,15 @@
+{
+  "name": "Facebook Autoscale",
+  "description": "the load balancer will concentrate workload to a server until it has at least a medium-level workload",
+  "abstract": "the load balancer will concentrate workload to a server until it has at least a medium-level workload",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://code.facebook.com/posts/816473015039157/making-facebook-s-software-infrastructure-more-energy-efficient-with-autoscale/"
+    }
+  ]
+}

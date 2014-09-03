@@ -1,0 +1,15 @@
+{
+  "name": "TreodeDB",
+  "description": "key-value store that's replicated and sharded and provides atomic multirow writes",
+  "abstract": "key-value store that's replicated and sharded and provides atomic multirow writes",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Treode/store"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Twitter Zipkin",
+  "description": "distributed tracing system that helps us gather timing data for all the disparate services at Twitter",
+  "abstract": "distributed tracing system that helps us gather timing data for all the disparate services at Twitter",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/twitter/zipkin"
+    }
+  ]
+}

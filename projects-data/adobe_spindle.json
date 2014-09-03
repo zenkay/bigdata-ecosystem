@@ -1,0 +1,15 @@
+{
+  "name": "Adobe Spindle",
+  "description": "Next-generation web analytics processing with Scala, Spark, and Parquet",
+  "abstract": "Next-generation web analytics processing with Scala, Spark, and Parquet",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/adobe-research/spindle"
+    }
+  ]
+}

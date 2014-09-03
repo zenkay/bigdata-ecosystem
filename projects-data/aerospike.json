@@ -1,0 +1,15 @@
+{
+  "name": "Aerospike",
+  "description": "NoSQL flash-optimized, in-memory. Open source and \"Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies.",
+  "abstract": "NoSQL flash-optimized, in-memory. Open source and \"Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies.",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.aerospike.com/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Domino",
+  "description": "Run, scale, share, and deploy models Ñ without any infrastructure.",
+  "abstract": "Run, scale, share, and deploy models Ñ without any infrastructure.",
+  "category": "Applications",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.dominoup.com/"
+    }
+  ]
+}

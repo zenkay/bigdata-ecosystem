@@ -1,0 +1,15 @@
+{
+  "name": "Voltage SecureData",
+  "description": "data protection framework",
+  "abstract": "data protection framework",
+  "category": "Security",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.voltage.com/products/securedata-enterprise/"
+    }
+  ]
+}

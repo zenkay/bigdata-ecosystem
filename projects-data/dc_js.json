@@ -1,0 +1,15 @@
+{
+  "name": "DC.js",
+  "description": "Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3",
+  "abstract": "Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://dc-js.github.io/dc.js/"
+    }
+  ]
+}

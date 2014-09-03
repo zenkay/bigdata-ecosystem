@@ -1,0 +1,15 @@
+{
+  "name": "Wolfram Alpha",
+  "description": "computational knowledge engine",
+  "abstract": "computational knowledge engine",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.wolframalpha.com/"
+    }
+  ]
+}

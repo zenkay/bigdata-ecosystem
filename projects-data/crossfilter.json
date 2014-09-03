@@ -1,0 +1,15 @@
+{
+  "name": "Crossfilter",
+  "description": "avaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js",
+  "abstract": "avaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://square.github.io/crossfilter/"
+    }
+  ]
+}

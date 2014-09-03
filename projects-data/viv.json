@@ -1,0 +1,15 @@
+{
+  "name": "Viv",
+  "description": "global platform that enables developers to plug into and create an intelligent, conversational interface to anything",
+  "abstract": "global platform that enables developers to plug into and create an intelligent, conversational interface to anything",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://viv.ai/"
+    }
+  ]
+}

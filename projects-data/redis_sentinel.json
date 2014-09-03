@@ -1,0 +1,15 @@
+{
+  "name": "Redis Sentinel",
+  "description": "system designed to help managing Redis instances",
+  "abstract": "system designed to help managing Redis instances",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://redis.io/topics/sentinel"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "HamsterDB",
+  "description": "transactional key-value database",
+  "abstract": "transactional key-value database",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://hamsterdb.com/"
+    }
+  ]
+}

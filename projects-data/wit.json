@@ -1,0 +1,15 @@
+{
+  "name": "Wit",
+  "description": "Natural Language for the Internet of Things",
+  "abstract": "Natural Language for the Internet of Things",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://wit.ai/"
+    }
+  ]
+}
