@@ -1,0 +1,15 @@
+{
+  "name": "RabbitMQ",
+  "description": "Robust messaging for applications",
+  "abstract": "Robust messaging for applications",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.rabbitmq.com/"
+    }
+  ]
+}

@@ -18,6 +18,7 @@ Your contributions are always welcome!
     - [SQL-like processing](#sql-like-processing)
     - [Integrated Development Environments](#integrated-development-environments)
     - [Data Ingestion](#data-ingestion)
+    - [Message-oriented middleware](#message-oriented-middleware)
     - [Service Programming](#service-programming)
     - [Scheduling](#scheduling)
     - [Machine Learning](#machine-learning)
@@ -266,7 +267,6 @@ Your contributions are always welcome!
 * [Amazon Kinesis](http://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
 * [Apache Chukwa](http://incubator.apache.org/chukwa/) - data collection system.
 * [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
-* [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
 * [Apache Samza](http://samza.incubator.apache.org/) - stream processing framework, based on Kafla and YARN.
 * [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
 * [Apache UIMA](https://uima.apache.org/) - Unstructured Information Management applications are software systems that analyze large volumes of unstructured information in order to discover knowledge that is relevant to an end user.
@@ -276,7 +276,6 @@ Your contributions are always welcome!
 * [Google Photon](http://research.google.com/pubs/pub41318.html) - geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency.
 * [Heka](https://github.com/mozilla-services/heka) - open source stream processing software system.
 * [HIHO](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
-* [Kestrel](http://robey.github.io/kestrel/) - distributed message queue system.
 * [LinkedIn Databus](http://data.linkedin.com/projects/databus) - stream of change capture events for a database.
 * [LinkedIn Kamikaze](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
 * [LinkedIn White Elephant](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
@@ -287,6 +286,29 @@ Your contributions are always welcome!
 * [TIBCO Enterprise Message Service](http://www.tibco.com/products/automation/enterprise-messaging/enterprise-message-service) - standards-based messaging middleware.
 * [Twitter Zipkin](https://github.com/twitter/zipkin) - distributed tracing system that helps us gather timing data for all the disparate services at Twitter.
 * [Vibe Data Stream](http://www.informatica.com/us/products/big-data/vibe-data-stream/) - streaming data collection for real-time Big Data analytics.
+
+## Message-oriented middleware
+
+* [ActiveMQ](http://activemq.apache.org/) - open source messaging and Integration Patterns server.
+* [Amazon Simple Queue Service](http://aws.amazon.com/sqs/) - fast, reliable, scalable, fully managed queue service.
+* [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
+* [Apache Qpid](http://qpid.apache.org/) - messaging tools that speak AMQP and support many languages and platforms.
+* [Apollo](http://activemq.apache.org/apollo/) - ActiveMQ's next generation of messaging.
+* [Beanstalkd](http://kr.github.io/beanstalkd/) - simple, fast work queue.
+* [Bit.ly NSQ](https://github.com/bitly/nsq) - realtime distributed message processing at scale.
+* [Celery](http://www.celeryproject.org/) - Distributed Task Queue.
+* [Crossroads I/O](http://www.crossroads.io/) - library for building scalable and high performance distributed applications.
+* [Darner](https://github.com/wavii/darner) - simple, lightweight message queue.
+* [Gearman](http://gearman.org) - Job Server.
+* [HornetQ](http://www.jboss.org/hornetq) - open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
+* [IronMQ](http://www.iron.io/mq) - easy-to-use highly available message queuing service.
+* [Kestrel](http://robey.github.io/kestrel/) - distributed message queue system.
+* [Marconi](https://wiki.openstack.org/wiki/Marconi) - queuing and notification service made by and for OpenStack, but not only for it.
+* [RabbitMQ](http://www.rabbitmq.com/) - Robust messaging for applications.
+* [RestMQ](http://restmq.com/) - message queue which uses HTTP as transport, JSON to format a minimalist protocol and is organized as REST resources.
+* [RQ](http://python-rq.org/) - simple Python library for queueing jobs and processing them in the background with workers.
+* [Sidekiq](http://sidekiq.org/) - Simple, efficient background processing for Ruby.
+* [ZeroMQ](http://www.zeromq.org/) - The Intelligent Transport Layer.
 
 ## Service Programming
 

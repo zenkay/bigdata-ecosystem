@@ -1,0 +1,15 @@
+{
+  "name": "Celery",
+  "description": "Distributed Task Queue",
+  "abstract": "Distributed Task Queue",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.celeryproject.org/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Bit.ly NSQ",
+  "description": "realtime distributed message processing at scale",
+  "abstract": "realtime distributed message processing at scale",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/bitly/nsq"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Gearman",
+  "description": "Job Server",
+  "abstract": "Job Server",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://gearman.org"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Apollo",
+  "description": "ActiveMQ's next generation of messaging",
+  "abstract": "ActiveMQ's next generation of messaging",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://activemq.apache.org/apollo/"
+    }
+  ]
+}

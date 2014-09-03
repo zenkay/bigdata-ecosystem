@@ -1,0 +1,15 @@
+{
+  "name": "Darner",
+  "description": "simple, lightweight message queue",
+  "abstract": "simple, lightweight message queue",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/wavii/darner"
+    }
+  ]
+}

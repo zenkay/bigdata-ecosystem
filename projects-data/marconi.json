@@ -1,0 +1,15 @@
+{
+  "name": "Marconi",
+  "description": "queuing and notification service made by and for OpenStack, but not only for it",
+  "abstract": "queuing and notification service made by and for OpenStack, but not only for it",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://wiki.openstack.org/wiki/Marconi"
+    }
+  ]
+}

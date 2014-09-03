@@ -1,0 +1,15 @@
+{
+  "name": "Sidekiq",
+  "description": "Simple, efficient background processing for Ruby",
+  "abstract": "Simple, efficient background processing for Ruby",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://sidekiq.org/"
+    }
+  ]
+}

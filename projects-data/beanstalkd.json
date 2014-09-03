@@ -1,0 +1,15 @@
+{
+  "name": "Beanstalkd",
+  "description": "simple, fast work queue",
+  "abstract": "simple, fast work queue",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://kr.github.io/beanstalkd/"
+    }
+  ]
+}

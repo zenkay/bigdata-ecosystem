@@ -1,0 +1,15 @@
+{
+  "name": "RestMQ",
+  "description": "message queue which uses HTTP as transport, JSON to format a minimalist protocol and is organized as REST resources",
+  "abstract": "message queue which uses HTTP as transport, JSON to format a minimalist protocol and is organized as REST resources",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://restmq.com/"
+    }
+  ]
+}

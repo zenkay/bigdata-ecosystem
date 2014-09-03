@@ -12,6 +12,7 @@ Related projects:
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) by [Onur Akpolat](https://github.com/onurakpolat)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) by [Alexander Bayandin](https://github.com/bayandin)
 - [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop) by [Youngwoo Kim](https://github.com/youngwookim)
+- [Queues.io](https://github.com/strzalek/queues.io) by [Łukasz Strzałkowski](https://github.com/strzalek)
 
 ## Categories
 

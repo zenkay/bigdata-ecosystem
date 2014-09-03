@@ -1,0 +1,15 @@
+{
+  "name": "IronMQ",
+  "description": "easy-to-use highly available message queuing service",
+  "abstract": "easy-to-use highly available message queuing service",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.iron.io/mq"
+    }
+  ]
+}

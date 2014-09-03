@@ -1,0 +1,15 @@
+{
+  "name": "HornetQ",
+  "description": "open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system",
+  "abstract": "open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.jboss.org/hornetq"
+    }
+  ]
+}

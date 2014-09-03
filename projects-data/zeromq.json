@@ -1,0 +1,15 @@
+{
+  "name": "ZeroMQ",
+  "description": "The Intelligent Transport Layer",
+  "abstract": "The Intelligent Transport Layer",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.zeromq.org/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Amazon Simple Queue Service",
+  "description": "fast, reliable, scalable, fully managed queue service",
+  "abstract": "fast, reliable, scalable, fully managed queue service",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://aws.amazon.com/sqs/"
+    }
+  ]
+}

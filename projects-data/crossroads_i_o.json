@@ -1,0 +1,15 @@
+{
+  "name": "Crossroads I/O",
+  "description": "library for building scalable and high performance distributed applications",
+  "abstract": "library for building scalable and high performance distributed applications",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.crossroads.io/"
+    }
+  ]
+}

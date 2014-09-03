@@ -1,0 +1,15 @@
+{
+  "name": "RQ",
+  "description": "simple Python library for queueing jobs and processing them in the background with workers",
+  "abstract": "simple Python library for queueing jobs and processing them in the background with workers",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://python-rq.org/"
+    }
+  ]
+}

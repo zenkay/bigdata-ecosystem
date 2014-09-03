@@ -1,0 +1,15 @@
+{
+  "name": "ActiveMQ",
+  "description": "open source messaging and Integration Patterns server",
+  "abstract": "open source messaging and Integration Patterns server",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://activemq.apache.org/"
+    }
+  ]
+}

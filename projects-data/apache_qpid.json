@@ -1,0 +1,15 @@
+{
+  "name": "Apache Qpid",
+  "description": "messaging tools that speak AMQP and support many languages and platforms",
+  "abstract": "messaging tools that speak AMQP and support many languages and platforms",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://qpid.apache.org/"
+    }
+  ]
+}
