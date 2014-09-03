@@ -1,3 +1,5 @@
+"<em><strong>Big-data</strong></em>" is one of the most inflated buzzword of the last years. Technologies born to handle huge datasets and overcome limits of previous products are gaining popularity outside the research environment. The following list would be a reference of this world. It's still incomplete and always will be.
+
 <% categories.each do |category| %>
 <strong><%= category["name"] %></strong>
 <ul>
@@ -13,4 +15,24 @@
 </ul>
 <% end %>
 
-This page is built merging the <a href="http://hadoopecosystemtable.github.io/">Hadoop Ecosystem Table</a> (by <a href="http://es.linkedin.com/in/javiroman/">Javi Roman</a> and <a href="https://github.com/hadoopecosystemtable/hadoopecosystemtable.github.io/graphs/contributors">other contributors</a>) with previous version of this list. Look at the extended version here: <strong><a href="http://bigdata.andreamostosi.name">http://bigdata.andreamostosi.name</a></strong>
+<% papers.reverse_each do |year, papers_by_year| %>
+
+<strong>Papers of <%= year %></strong>
+<ul>
+<% papers_by_year.each do |paper| %>
+<% if paper["links"].any? %>
+<li><strong><%= paper["year"] %></strong> - <a href="<%= paper["links"][0]["url"] %>"><%= paper["title"] %></a></li>
+<% end %>
+<% end %>
+</ul>
+<% end %>
+
+<strong>Related projects</strong>
+<ul>
+  <li><strong><a href="http://bigdata.andreamostosi.name/">Big data Ecosystem Table</a></strong></li>
+  <li><a href="http://hadoopecosystemtable.github.io/">Hadoop Ecosystem Table</a> by <a href="https://github.com/javiroman">Javi Roman</a></li>
+  <li><a href="https://github.com/onurakpolat/awesome-bigdata">Awesome Big Data</a> by <a href="https://github.com/onurakpolat">Onur Akpolat</a></li>
+  <li><a href="https://github.com/bayandin/awesome-awesomeness">Awesome Awesomeness</a> by <a href="https://github.com/bayandin">Alexander Bayandin</a></li>
+  <li><a href="https://github.com/youngwookim/awesome-hadoop">Awesome Hadoop</a> by <a href="https://github.com/youngwookim">Youngwoo Kim</a></li>
+  <li><a href="https://github.com/strzalek/queues.io">Queues.io</a> by <a href="https://github.com/strzalek">Łukasz Strzałkowski</a></li>
+</ul>
