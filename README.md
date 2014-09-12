@@ -92,15 +92,22 @@ Related projects:
 * [IBM Streams](http://www.ibm.com/software/products/en/infosphere-streams) - advanced analytic platform that allows user-developed applications to quickly ingest, analyze and correlate information as it arrives from thousands of real-time sources.
 * [JAQL](https://code.google.com/p/jaql/) - declarative programming language for working with structured, semi-structured and unstructured data.
 * [Kite](http://kitesdk.org/docs/current/) - is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
+* [Kyro](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 * [Lipstick](https://github.com/Netflix/Lipstick) - Pig workflow visualization tool.
 * [Metamarkers Druid](http://druid.io/) - framework for real-time analysis of large datasets.
+* [Netflix Aegisthus](https://github.com/Netflix/aegisthus) - Bulk Data Pipeline out of Cassandra. implements a reader for the SSTable format and provides a map/reduce program to create a compacted snapshot of the data contained in a column family.
+* [Netflix Lipstick](https://github.com/Netflix/Lipstick) - Pig Visualization framework.
+* [Netflix Mantis](http://qconsf.com/presentation/mantis-netflixs-event-stream-processing-system) - Event Stream Processing System.
 * [Netflix PigPen](https://github.com/Netflix/PigPen) - map-reduce for Clojure whiche compiles to Apache Pig.
+* [Netflix STAASH](https://github.com/Netflix/staash) - language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems.
+* [Netflix Zeno](https://github.com/Netflix/zeno) - Netflix's In-Memory Data Propagation Framework.
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
 * [PigPen](https://github.com/Netflix/PigPen) - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
 * [Pinterest Pinlater](http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system) - asynchronous job execution system.
 * [Pydoop](http://pydoop.sourceforge.net/docs/) - Python MapReduce and HDFS API for Hadoop.
 * [ScaleOut hServer](http://www.scaleoutsoftware.com/) - fast, scalable in-memory data grid for Hadoop.
 * [SeqPig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop .
+* [SigmoidAnalytics Spork](https://github.com/sigmoidanalytics/spork) - Pig on Apache Spark.
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. .
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/) - unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive.
 * [SQLStream Blaze](http://www.sqlstream.com/blaze/) - stream processing platform.
@@ -127,6 +134,7 @@ Related projects:
 * [GridGain](http://www.gridgain.org/) - GGFS, Hadoop compliant in-memory file system.
 * [HDSF-DU](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. .
 * [Lustre file system](http://wiki.lustre.org/) - high-performance distributed filesystem.
+* [Netflix S3mper](https://github.com/Netflix/s3mper) - library that provides an additional layer of consistency checking on top of Amazon's S3 index through use of a consistent, secondary index.
 * [Quantcast File System QFS](https://www.quantcast.com/engineering/qfs/) - open-source distributed file system.
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
 * [Tachyon](http://tachyon-project.org/) - reliable file sharing at memory speed across cluster frameworks.
@@ -142,6 +150,7 @@ Related projects:
 * [Google Cloud Datastore](https://developers.google.com/datastore/) - is a fully managed, schemaless database for storing non-relational data over BigTable.
 * [Hypertable](http://hypertable.org/) - column-oriented distribuited datastore, inspired by BigTable.
 * [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
+* [Netflix Priam](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 * [OhmData C5](http://ohmdata.com/) - improved version of HBase.
 * [Sqrrl](http://sqrrl.com/product/sqrrl-enterprise/) - NoSQL databases on top of Apache Accumulo.
 * [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
@@ -155,6 +164,7 @@ Related projects:
 * [jumboDB](http://comsysto.github.io/jumbodb/) - document oriented datastore over Hadoop.
 * [LinkedIn Espresso](http://data.linkedin.com/projects/espresso) - horizontally scalable document-oriented NoSQL data store.
 * [MarkLogic](http://www.marklogic.com/) - Schema-agnostic Enterprise NoSQL database technology.
+* [Microsoft DocumentDB](http://azure.microsoft.com/en-us/services/documentdb/) - fully-managed, highly-scalable, NoSQL document database service.
 * [MongoDB](http://www.mongodb.org/) - Document-oriented database system.
 * [RavenDB](http://www.ravendb.net/) - A transactional, open-source Document Database.
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
@@ -259,6 +269,7 @@ Related projects:
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
 * [Facebook PrestoDB](http://prestodb.io/) - distributed SQL query engine.
 * [JethroData](http://jethrodata.com/product-2/product/) - index-based SQL engine for Hadoop.
+* [Metanautix Quest](https://metanautix.com/product/) - data compute engine.
 * [Pivotal HAWQ](http://www.gopivotal.com/pivotal-products/data/pivotal-hd) - SQL-like data warehouse system for Hadoop.
 * [RainstorDB](http://rainstor.com/products/rainstor-database/) - database for storing petabyte-scale volumes of structured and semi-structured data.
 * [Spark Catalyst](https://github.com/apache/spark/tree/master/sql) - is a Query Optimization Framework for Spark and Shark.
@@ -290,7 +301,7 @@ Related projects:
 * [LinkedIn Kamikaze](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
 * [LinkedIn White Elephant](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
 * [Logstash](http://logstash.net) - a tool for managing events and logs.
-* [Netflix Suro](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
+* [Netflix Suro](https://github.com/Netflix/suro) - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data based on Chukwa.
 * [Pinterest Secor](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 * [Record Breaker](http://cloudera.github.io/RecordBreaker/) - Automatic structure for your text-formatted data.
 * [TIBCO Enterprise Message Service](http://www.tibco.com/products/automation/enterprise-messaging/enterprise-message-service) - standards-based messaging middleware.
@@ -345,6 +356,7 @@ Related projects:
 * [Apache Oozie](http://oozie.apache.org/) - workflow job scheduler.
 * [Chronos](http://airbnb.github.io/chronos/) - distributed and fault-tolerant scheduler.
 * [Linkedin Azkaban](http://azkaban.github.io/azkaban2/) - batch workflow job scheduler.
+* [Pinterest Pinball](http://engineering.pinterest.com/post/74429563460/pinball-building-workflow-management) - customizable platform for creating workflow managers.
 * [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
 
 ## Machine Learning
@@ -383,6 +395,7 @@ Related projects:
 * [Hive-benchmarks](https://github.com/yhuai/hive-benchmarks) - some benchmarking queries for Apache Hive.
 * [Hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale..
 * [Intel HiBench](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
+* [Netflix Inviso](https://hadoopsummit.uservoice.com/forums/242807-hadoop-deployment-operations-track/suggestions/5568461-inviso-maximizing-big-data-performance-at-netflix) - performance focused Big Data tool.
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce applications.
 * [Yahoo Gridmix3](https://developer.yahoo.com/blogs/hadoop/gridmix3-emulating-production-workload-apache-hadoop-450.html) - Hadoop cluster benchmarking from Yahoo engineer team.
 
@@ -417,7 +430,7 @@ Related projects:
 * [Google Omega](https://www.youtube.com/watch?v=0ZFMlO98Jkc) - job scheduling and monitoring system.
 * [Hannibal](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting..
 * [Hortonworks HOYA](http://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
-* [Jumbune](https://github.com/impetus-opensource/jumbune) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs..
+* [Jumbune](http://www.jumbune.org/) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs..
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
 
 ## Applications
@@ -509,6 +522,7 @@ Related projects:
 
 ## Business Intelligence
 
+* [ActivePivot](http://quartetfs.com/products/activepivot) - Java In-Memory OLAP cube stored in columns, with clearly decoupled pre/post processing.
 * [Adatao](http://adatao.com/pinsights.html) - business intelligence and data science platform.
 * [Apama analytics](http://www.softwareag.com/corporate/products/bigdata/apama_analytics/overview/) - platform for streaming analytics and intelligent automated action.
 * [Atigeo xPatterns](http://xpatterns.com/) - data analytics platform.
@@ -541,7 +555,7 @@ Related projects:
 * [DC.js](http://dc-js.github.io/dc.js/) - Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
 * [Freeboard](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
-* [Gephi](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X..
+* [Gephi](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections.
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
 * [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
