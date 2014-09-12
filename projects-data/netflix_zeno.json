@@ -1,0 +1,15 @@
+{
+  "name": "Netflix Zeno",
+  "description": "Netflix's In-Memory Data Propagation Framework",
+  "abstract": "Netflix's In-Memory Data Propagation Framework",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/zeno"
+    }
+  ]
+}

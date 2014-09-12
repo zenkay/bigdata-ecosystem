@@ -1,0 +1,15 @@
+{
+  "name": "Kyro",
+  "description": "Java serialization and cloning: fast, efficient, automatic",
+  "abstract": "Java serialization and cloning: fast, efficient, automatic",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/EsotericSoftware/kryo"
+    }
+  ]
+}

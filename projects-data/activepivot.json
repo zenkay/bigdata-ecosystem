@@ -1,0 +1,15 @@
+{
+  "name": "ActivePivot",
+  "description": "Java In-Memory OLAP cube stored in columns, with clearly decoupled pre/post processing",
+  "abstract": "Java In-Memory OLAP cube stored in columns, with clearly decoupled pre/post processing",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://quartetfs.com/products/activepivot"
+    }
+  ]
+}

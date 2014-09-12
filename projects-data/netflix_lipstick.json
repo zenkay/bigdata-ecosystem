@@ -1,0 +1,15 @@
+{
+  "name": "Netflix Lipstick",
+  "description": "Pig Visualization framework",
+  "abstract": "Pig Visualization framework",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/Lipstick"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Netflix Priam",
+  "description": "Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra",
+  "abstract": "Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra",
+  "category": "Key-Map Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/Priam"
+    }
+  ]
+}

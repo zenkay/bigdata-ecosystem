@@ -1,0 +1,15 @@
+{
+  "name": "Netflix S3mper",
+  "description": "library that provides an additional layer of consistency checking on top of Amazon's S3 index through use of a consistent, secondary index",
+  "abstract": "library that provides an additional layer of consistency checking on top of Amazon's S3 index through use of a consistent, secondary index",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/s3mper"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SigmoidAnalytics Spork",
+  "description": "Pig on Apache Spark",
+  "abstract": "Pig on Apache Spark",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/sigmoidanalytics/spork"
+    }
+  ]
+}

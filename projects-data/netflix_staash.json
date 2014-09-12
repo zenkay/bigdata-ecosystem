@@ -1,0 +1,15 @@
+{
+  "name": "Netflix STAASH",
+  "description": "language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems",
+  "abstract": "language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/staash"
+    }
+  ]
+}

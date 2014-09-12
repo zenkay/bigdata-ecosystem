@@ -1,0 +1,15 @@
+{
+  "name": "Netflix Inviso",
+  "description": "performance focused Big Data tool",
+  "abstract": "performance focused Big Data tool",
+  "category": "Benchmarking",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://hadoopsummit.uservoice.com/forums/242807-hadoop-deployment-operations-track/suggestions/5568461-inviso-maximizing-big-data-performance-at-netflix"
+    }
+  ]
+}
