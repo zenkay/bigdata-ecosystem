@@ -1,0 +1,15 @@
+{
+  "title": "Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code",
+  "year": "2013",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://www.scs.stanford.edu/~stutsman/papers/stutsman-dcft-hotos13.pdf"
+    }
+  ]
+}

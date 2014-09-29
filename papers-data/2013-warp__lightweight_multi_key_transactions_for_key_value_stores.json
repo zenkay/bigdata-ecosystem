@@ -1,0 +1,15 @@
+{
+  "title": "Warp: Lightweight Multi-Key Transactions for Key-Value Stores",
+  "year": "2013",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://hyperdex.org/papers/warp.pdf"
+    }
+  ]
+}

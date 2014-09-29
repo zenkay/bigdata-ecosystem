@@ -1,0 +1,15 @@
+{
+  "title": "Fast Crash Recovery in RAMCloud",
+  "year": "2011",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://web.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf"
+    }
+  ]
+}

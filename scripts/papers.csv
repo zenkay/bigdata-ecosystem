@@ -1,0 +1,11 @@
+2011;Fast Crash Recovery in RAMCloud;http://web.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf;
+2013;Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code;http://www.scs.stanford.edu/~stutsman/papers/stutsman-dcft-hotos13.pdf;
+2014;In Search of an Understandable Consensus Algorithm;https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf;
+2014;Log-structured Memory for DRAM-based Storage;https://www.usenix.org/system/files/conference/fast14/fast14-paper_rumble.pdf;
+2012;ImageNet Classification with Deep Convolutional Neural Networks;http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf;
+2014;Scalable Object Detection using Deep Neural Networks;http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf;
+2013;Some Improvements on Deep Convolutional Neural Network Based Image Classification;http://arxiv.org/pdf/1312.5402v1.pdf;
+2013;Rich feature hierarchies for accurate object detection and semantic segmentation;http://arxiv.org/pdf/1311.2524v4.pdf;
+2014;First-person Hyper-lapse Videos;http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/paper/hyperlapse.pdf;
+2013;Warp: Lightweight Multi-Key Transactions for Key-Value Stores;http://hyperdex.org/papers/warp.pdf;
+2012;HyperDex: A Distributed, Searchable Key-Value Store;http://hyperdex.org/papers/hyperdex.pdf
