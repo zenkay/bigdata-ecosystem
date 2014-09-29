@@ -15,17 +15,7 @@
 </ul>
 <% end %>
 
-<% papers.reverse_each do |year, papers_by_year| %>
-
-<strong>Papers of <%= year %></strong>
-<ul>
-<% papers_by_year.each do |paper| %>
-<% if paper["links"].any? %>
-<li><strong><%= paper["year"] %></strong> - <a href="<%= paper["links"][0]["url"] %>"><%= paper["title"] %></a></li>
-<% end %>
-<% end %>
-</ul>
-<% end %>
+<em>If you like this list you are probably interested in my list of <strong><a href="http://blog.andreamostosi.name/papers/">big-data related papers</a></strong>.</em>
 
 <strong>Related projects</strong>
 <ul>

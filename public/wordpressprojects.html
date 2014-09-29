@@ -1,0 +1,1973 @@
+"<em><strong>Big-data</strong></em>" is one of the most inflated buzzword of the last years. Technologies born to handle huge datasets and overcome limits of previous products are gaining popularity outside the research environment. The following list would be a reference of this world. It's still incomplete and always will be.
+
+
+<strong>Frameworks</strong>
+<ul>
+
+
+
+<li><a href="http://hadoop.apache.org/"><strong>Apache Hadoop</strong></a>: framework for distributed processing. Integrates MapReduce (parallel processing), YARN (job scheduling) and HDFS (distributed file system)</li>
+
+
+
+</ul>
+
+<strong>Distributed Programming</strong>
+<ul>
+
+
+
+<li><a href="https://github.com/addthis/hydra"><strong>AddThis Hydra</strong></a>: distributed data processing and storage system originally developed at AddThis</li>
+
+
+
+<li><a href="https://github.com/mozilla-metrics/akela"><strong>Akela</strong></a>: Mozilla's utility library for Hadoop, HBase, Pig, etc.</li>
+
+
+
+<li><a href="http://databricks.github.io/simr/"><strong>AMPLab SIMR</strong></a>: run Spark on Hadoop MapReduce v1</li>
+
+
+
+<li><a href="http://succinct.cs.berkeley.edu/wp/wordpress/"><strong>AMPLab Succinct</strong></a>: Enabling Queries on Compressed Data</li>
+
+
+
+<li><a href="http://crunch.apache.org/"><strong>Apache Crunch</strong></a>: a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce</li>
+
+
+
+<li><a href="http://incubator.apache.org/projects/datafu.html"><strong>Apache DataFu</strong></a>: collection of user-defined functions for Hadoop and Pig developed by LinkedIn</li>
+
+
+
+<li><a href="http://flink.incubator.apache.org/"><strong>Apache Flink</strong></a>: high-performance runtime, and automatic program optimization</li>
+
+
+
+<li><a href="http://gora.apache.org/"><strong>Apache Gora</strong></a>: framework for in-memory data model and persistence</li>
+
+
+
+<li><a href="http://hama.apache.org/"><strong>Apache Hama</strong></a>: BSP (Bulk Synchronous Parallel) computing framework</li>
+
+
+
+<li><a href="http://wiki.apache.org/hadoop/MapReduce/"><strong>Apache MapReduce</strong></a>: programming model for processing large data sets with a parallel, distributed algorithm on a cluster</li>
+
+
+
+<li><a href="https://pig.apache.org/"><strong>Apache Pig</strong></a>: high level language to express data analysis programs for Hadoop</li>
+
+
+
+<li><a href="http://incubator.apache.org/s4/"><strong>Apache S4</strong></a>: framework for stream processing, implementation of S4</li>
+
+
+
+<li><a href="http://spark.incubator.apache.org/"><strong>Apache Spark</strong></a>: framework for in-memory cluster computing</li>
+
+
+
+<li><a href="http://spark.incubator.apache.org/docs/0.7.3/streaming-programming-guide.html"><strong>Apache Spark Streaming</strong></a>: framework for stream processing, part of Spark</li>
+
+
+
+<li><a href="http://storm-project.net/"><strong>Apache Storm</strong></a>: framework for stream processing by Twitter also on YARN</li>
+
+
+
+<li><a href="http://tez.incubator.apache.org/"><strong>Apache Tez</strong></a>: application framework for executing a complex DAG (directed acyclic graph) of tasks, built on YARN</li>
+
+
+
+<li><a href="https://incubator.apache.org/projects/twill.html"><strong>Apache Twill</strong></a>: abstraction over YARN that reduces the complexity of developing distributed applications</li>
+
+
+
+<li><a href="http://cascalog.org/"><strong>Cascalog</strong></a>: data processing and querying library</li>
+
+
+
+<li><a href="http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf"><strong>Cheetah</strong></a>: High Performance, Custom Data Warehouse on Top of MapReduce</li>
+
+
+
+<li><a href="http://www.cascading.org/"><strong>Concurrent Cascading</strong></a>: framework for data management/analytics on Hadoop</li>
+
+
+
+<li><a href="https://github.com/damballa/parkour"><strong>Damballa Parkour</strong></a>: MapReduce library for Clojure</li>
+
+
+
+<li><a href="https://github.com/datasalt/pangool"><strong>Datasalt Pangool</strong></a>: alternative MapReduce paradigm</li>
+
+
+
+<li><a href="https://www.datatorrent.com/"><strong>DataTorrent StrAM</strong></a>: real-time engine is designed to enable distributed, asynchronous, real time in-memory big-data computations in as unblocked a way as possible, with minimal overhead and impact on performance</li>
+
+
+
+<li><a href="http://www.vertica.com/distributedr/"><strong>DistributedR</strong></a>: scalable high-performance platform for the R language</li>
+
+
+
+<li><a href="https://github.com/eBay/oink"><strong>eBay Oink</strong></a>: REST based interface for PIG execution</li>
+
+
+
+<li><a href="https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920"><strong>Facebook Corona</strong></a>: Hadoop enhancement which removes single point of failure</li>
+
+
+
+<li><a href="http://peregrine_mapreduce.bitbucket.org/"><strong>Facebook Peregrine</strong></a>: Map Reduce framework</li>
+
+
+
+<li><a href="https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920"><strong>Facebook Scuba</strong></a>: distributed in-memory datastore</li>
+
+
+
+<li><a href="http://geotrellis.io/"><strong>Geotrellis</strong></a>: geographic data processing engine for high performance applications</li>
+
+
+
+<li><a href="http://esri.github.io/gis-tools-for-hadoop/"><strong>GIS Tools for Hadoop</strong></a>: Big Data Spatial Analytics for the Hadoop Framework</li>
+
+
+
+<li><a href="http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html"><strong>Google Dataflow</strong></a>: create data pipelines to help themæingest, transform and analyze data</li>
+
+
+
+<li><a href="http://research.google.com/archive/mapreduce.html"><strong>Google MapReduce</strong></a>: map reduce framework</li>
+
+
+
+<li><a href="http://research.google.com/pubs/pub41378.html"><strong>Google MillWheel</strong></a>: fault tolerant stream processing framework</li>
+
+
+
+<li><a href="http://www.informatica.com/us/products/big-data/hparser/"><strong>HParser</strong></a>: data parsing transformation environment optimized for Hadoop</li>
+
+
+
+<li><a href="http://www.ibm.com/software/products/en/infosphere-streams"><strong>IBM Streams</strong></a>: advanced analytic platform that allows user-developed applications to quickly ingest, analyze and correlate information as it arrives from thousands of real-time sources</li>
+
+
+
+<li><a href="https://code.google.com/p/jaql/"><strong>JAQL</strong></a>: declarative programming language for working with structured, semi-structured and unstructured data</li>
+
+
+
+<li><a href="http://kitesdk.org/docs/current/"><strong>Kite</strong></a>: is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem</li>
+
+
+
+<li><a href="https://github.com/EsotericSoftware/kryo"><strong>Kryo</strong></a>: Java serialization and cloning: fast, efficient, automatic</li>
+
+
+
+<li><a href="https://github.com/Netflix/Lipstick"><strong>Lipstick</strong></a>: Pig workflow visualization tool</li>
+
+
+
+<li><a href="http://druid.io/"><strong>Metamarkers Druid</strong></a>: framework for real-time analysis of large datasets</li>
+
+
+
+<li><a href="https://github.com/Netflix/aegisthus"><strong>Netflix Aegisthus</strong></a>: Bulk Data Pipeline out of Cassandra. implements a reader for the SSTable format and provides a map/reduce program to create a compacted snapshot of the data contained in a column family</li>
+
+
+
+<li><a href="https://github.com/Netflix/Lipstick"><strong>Netflix Lipstick</strong></a>: Pig Visualization framework</li>
+
+
+
+<li><a href="http://qconsf.com/presentation/mantis-netflixs-event-stream-processing-system"><strong>Netflix Mantis</strong></a>: Event Stream Processing System</li>
+
+
+
+<li><a href="https://github.com/Netflix/PigPen"><strong>Netflix PigPen</strong></a>: map-reduce for Clojure whiche compiles to Apache Pig</li>
+
+
+
+<li><a href="https://github.com/Netflix/staash"><strong>Netflix STAASH</strong></a>: language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems</li>
+
+
+
+<li><a href="https://github.com/Netflix/zeno"><strong>Netflix Zeno</strong></a>: Netflix's In-Memory Data Propagation Framework</li>
+
+
+
+<li><a href="http://www.nextflow.io"><strong>Nextflow</strong></a>: Dataflow oriented toolkit for parallel and distributed computational pipelines</li>
+
+
+
+<li><a href="http://discoproject.org/"><strong>Nokia Disco</strong></a>: MapReduce framework developed by Nokia</li>
+
+
+
+<li><a href="https://github.com/Netflix/PigPen"><strong>PigPen</strong></a>: PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it</li>
+
+
+
+<li><a href="http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system"><strong>Pinterest Pinlater</strong></a>: asynchronous job execution system</li>
+
+
+
+<li><a href="http://pydoop.sourceforge.net/docs/"><strong>Pydoop</strong></a>: Python MapReduce and HDFS API for Hadoop</li>
+
+
+
+<li><a href="http://www.scaleoutsoftware.com/"><strong>ScaleOut hServer</strong></a>: fast, scalable in-memory data grid for Hadoop</li>
+
+
+
+<li><a href="http://seqpig.sourceforge.net/"><strong>SeqPig</strong></a>: Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop </li>
+
+
+
+<li><a href="https://github.com/sigmoidanalytics/spork"><strong>SigmoidAnalytics Spork</strong></a>: Pig on Apache Spark</li>
+
+
+
+<li><a href="http://spatialhadoop.cs.umn.edu/"><strong>SpatialHadoop</strong></a>: SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. </li>
+
+
+
+<li><a href="http://projects.spring.io/spring-hadoop/"><strong>Spring for Apache Hadoop</strong></a>: unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive</li>
+
+
+
+<li><a href="http://www.sqlstream.com/blaze/"><strong>SQLStream Blaze</strong></a>: stream processing platform</li>
+
+
+
+<li><a href="http://www.openstratio.org/about/stratio-streaming/"><strong>Stratio Streaming</strong></a>: the union of a real-time messaging bus with a complex event processing engine using Spark Streaming</li>
+
+
+
+<li><a href="http://stratosphere.eu/"><strong>Stratosphere</strong></a>: general purpose cluster computing framework</li>
+
+
+
+<li><a href="https://streamdrill.com/"><strong>Streamdrill</strong></a>: usefull for counting activities of event streams over different time windows and finding the most active one</li>
+
+
+
+<li><a href="http://it.teradata.com/Teradata-QueryGrid/"><strong>Teradata QueryGrid</strong></a>: data-access layer that can orchestrate multiple modes of analysis across multiple databases plus Hadoop</li>
+
+
+
+<li><a href="http://www.tibco.com/products/automation/in-memory-computing/in-memory-data-grid/activespaces-enterprise-edition"><strong>TIBCO ActiveSpaces</strong></a>: in-memory data grid</li>
+
+
+
+<li><a href="http://torch.ch/"><strong>Torch</strong></a>: Scientific computing for LuaJIT</li>
+
+
+
+<li><a href="https://github.com/twitter/scalding"><strong>Twitter Scalding</strong></a>: Scala library for Map Reduce jobs, built on Cascading</li>
+
+
+
+<li><a href="https://github.com/twitter/summingbird"><strong>Twitter Summingbird</strong></a>: Streaming MapReduce with Scalding and Storm, by Twitter</li>
+
+
+
+<li><a href="https://blog.twitter.com/2014/tsar-a-timeseries-aggregator"><strong>Twitter TSAR</strong></a>: TimeSeries AggregatoR by Twitter</li>
+
+
+
+</ul>
+
+<strong>Distributed Filesystem</strong>
+<ul>
+
+
+
+<li><a href="http://hadoop.apache.org/"><strong>Apache HDFS</strong></a>: a way to store large files across multiple machines</li>
+
+
+
+<li><a href="http://www.fhgfs.com/cms/"><strong>BeeGFS</strong></a>: formerly FhGFS, parallel distributed file system</li>
+
+
+
+<li><a href="http://ceph.com/ceph-storage/file-system/"><strong>Ceph Filesystem</strong></a>: software storage platform designed</li>
+
+
+
+<li><a href="http://disco.readthedocs.org/en/latest/howto/ddfs.html"><strong>Disco DDFS</strong></a>: distributed filesystem</li>
+
+
+
+<li><a href="https://www.facebook.com/note.php?note_id=76191543919"><strong>Facebook Haystack</strong></a>: object storage system</li>
+
+
+
+<li><a href="https://google.com/"><strong>Google Colossus</strong></a>: distributed filesystem (GFS2)</li>
+
+
+
+<li><a href="https://google.com/"><strong>Google GFS</strong></a>: distributed filesystem</li>
+
+
+
+<li><a href="http://research.google.com/pubs/pub36971.html"><strong>Google Megastore</strong></a>: scalable, highly available storage</li>
+
+
+
+<li><a href="http://www.gridgain.org/"><strong>GridGain</strong></a>: GGFS, Hadoop compliant in-memory file system</li>
+
+
+
+<li><a href="https://github.com/twitter/hdfs-du"><strong>HDSF-DU</strong></a>: HDFS-DU is an interactive visualization of the Hadoop distributed file system. </li>
+
+
+
+<li><a href="http://wiki.lustre.org/"><strong>Lustre file system</strong></a>: high-performance distributed filesystem</li>
+
+
+
+<li><a href="https://github.com/Netflix/s3mper"><strong>Netflix S3mper</strong></a>: library that provides an additional layer of consistency checking on top of Amazon's S3 index through use of a consistent, secondary index</li>
+
+
+
+<li><a href="https://www.quantcast.com/engineering/qfs/"><strong>Quantcast File System QFS</strong></a>: open-source distributed file system</li>
+
+
+
+<li><a href="http://www.gluster.org/"><strong>Red Hat GlusterFS</strong></a>: scale-out network-attached storage file system</li>
+
+
+
+<li><a href="http://tachyon-project.org/"><strong>Tachyon</strong></a>: reliable file sharing at memory speed across cluster frameworks</li>
+
+
+
+</ul>
+
+<strong>Key-Map Data Model</strong>
+<ul>
+
+
+
+<li><a href="http://www.actian.com/"><strong>Actian Vector</strong></a>: column-oriented analytic database</li>
+
+
+
+<li><a href="http://accumulo.apache.org/"><strong>Apache Accumulo</strong></a>: distribuited key/value store, built on Hadoop</li>
+
+
+
+<li><a href="http://cassandra.apache.org/"><strong>Apache Cassandra</strong></a>: column-oriented distribuited datastore, inspired by BigTable</li>
+
+
+
+<li><a href="http://hbase.apache.org/"><strong>Apache HBase</strong></a>: column-oriented distribuited datastore, inspired by BigTable</li>
+
+
+
+<li><a href="https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/"><strong>Facebook HydraBase</strong></a>: evolution of HBase made by Facebook</li>
+
+
+
+<li><a href="http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf"><strong>Google BigTable</strong></a>: column-oriented distributed datastore</li>
+
+
+
+<li><a href="https://developers.google.com/datastore/"><strong>Google Cloud Datastore</strong></a>: is a fully managed, schemaless database for storing non-relational data over BigTable</li>
+
+
+
+<li><a href="http://hypertable.org/"><strong>Hypertable</strong></a>: column-oriented distribuited datastore, inspired by BigTable</li>
+
+
+
+<li><a href="http://infinidb.co/"><strong>InfiniDB</strong></a>: is accessed through a MySQL interface and use massive parallel processing to parallelize queries</li>
+
+
+
+<li><a href="https://github.com/Netflix/Priam"><strong>Netflix Priam</strong></a>: Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra</li>
+
+
+
+<li><a href="http://ohmdata.com/"><strong>OhmData C5</strong></a>: improved version of HBase</li>
+
+
+
+<li><a href="http://sqrrl.com/product/sqrrl-enterprise/"><strong>Sqrrl</strong></a>: NoSQL databases on top of Apache Accumulo</li>
+
+
+
+<li><a href="https://github.com/continuuity/tephra"><strong>Tephra</strong></a>: Transactions for HBase</li>
+
+
+
+<li><a href="https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale"><strong>Twitter Manhattan</strong></a>: real-time, multi-tenant distributed database for Twitter scale</li>
+
+
+
+</ul>
+
+<strong>Document Data Model</strong>
+<ul>
+
+
+
+<li><a href="http://www.actian.com/products/operational-databases/"><strong>Actian Versant</strong></a>: commercial object-oriented database management systems </li>
+
+
+
+<li><a href="https://crate.io/"><strong>Crate Data</strong></a>: is an open source massively scalable data store. It requires zero administration</li>
+
+
+
+<li><a href="http://www.infoq.com/news/2014/06/facebook-apollo"><strong>Facebook Apollo</strong></a>: Facebook’s Paxos-like NoSQL database</li>
+
+
+
+<li><a href="http://comsysto.github.io/jumbodb/"><strong>jumboDB</strong></a>: document oriented datastore over Hadoop</li>
+
+
+
+<li><a href="http://data.linkedin.com/projects/espresso"><strong>LinkedIn Espresso</strong></a>: horizontally scalable document-oriented NoSQL data store</li>
+
+
+
+<li><a href="http://www.marklogic.com/"><strong>MarkLogic</strong></a>: Schema-agnostic Enterprise NoSQL database technology</li>
+
+
+
+<li><a href="http://azure.microsoft.com/en-us/services/documentdb/"><strong>Microsoft DocumentDB</strong></a>: fully-managed, highly-scalable, NoSQL document database service</li>
+
+
+
+<li><a href="http://www.mongodb.org/"><strong>MongoDB</strong></a>: Document-oriented database system</li>
+
+
+
+<li><a href="http://www.ravendb.net/"><strong>RavenDB</strong></a>: A transactional, open-source Document Database</li>
+
+
+
+<li><a href="http://www.rethinkdb.com/"><strong>RethinkDB</strong></a>: document database that supports queries like table joins and group by</li>
+
+
+
+<li><a href="http://www.tokutek.com/products/tokumx-for-mongodb/"><strong>TokuMX</strong></a>: High-Performance MongoDB Distribution</li>
+
+
+
+</ul>
+
+<strong>Key-value Data Model</strong>
+<ul>
+
+
+
+<li><a href="http://www.aerospike.com/"><strong>Aerospike</strong></a>: NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies.</li>
+
+
+
+<li><a href="http://aws.amazon.com/dynamodb/"><strong>Amazon DynamoDB</strong></a>: distributed key/value store, implementation of Dynamo paper</li>
+
+
+
+<li><a href="http://inaka.github.io/edis/"><strong>Edis</strong></a>: is a protocol-compatible Server replacement for Redis</li>
+
+
+
+<li><a href="https://github.com/nathanmarz/elephantdb"><strong>ElephantDB</strong></a>: Distributed database specialized in exporting data from Hadoop</li>
+
+
+
+<li><a href="http://geteventstore.com"><strong>EventStore</strong></a>: distributed time series database</li>
+
+
+
+<li><a href="http://hyperdex.org/"><strong>HyperDex</strong></a>: next generation key-value store</li>
+
+
+
+<li><a href="https://github.com/linkedin-sna/sna-page/tree/master/krati"><strong>LinkedIn Krati</strong></a>: is a simple persistent data store with very low latency and high throughput</li>
+
+
+
+<li><a href="http://www.project-voldemort.com/voldemort/"><strong>Linkedin Voldemort</strong></a>: distributed key/value storage system</li>
+
+
+
+<li><a href="http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html"><strong>Oracle NoSQL Database</strong></a>: distributed key-value database by Oracle Corporation</li>
+
+
+
+<li><a href="http://redis.io"><strong>Redis</strong></a>: in memory key value datastore</li>
+
+
+
+<li><a href="http://redis.io/topics/sentinel"><strong>Redis Sentinel</strong></a>: system designed to help managing Redis instances</li>
+
+
+
+<li><a href="https://github.com/basho/riak"><strong>Riak</strong></a>: a decentralized datastore</li>
+
+
+
+<li><a href="https://github.com/twitter/storehaus"><strong>Storehaus</strong></a>: library to work with asynchronous key value stores, by Twitter</li>
+
+
+
+<li><a href="https://github.com/tarantool/tarantool"><strong>Tarantool</strong></a>: an efficient NoSQL database and a Lua application server</li>
+
+
+
+<li><a href="https://github.com/Treode/store"><strong>TreodeDB</strong></a>: key-value store that's replicated and sharded and provides atomic multirow writes</li>
+
+
+
+</ul>
+
+<strong>Graph Data Model</strong>
+<ul>
+
+
+
+<li><a href="http://giraph.apache.org/"><strong>Apache Giraph</strong></a>: implementation of Pregel, based on Hadoop</li>
+
+
+
+<li><a href="http://spark.incubator.apache.org/docs/0.7.3/bagel-programming-guide.html"><strong>Apache Spark Bagel</strong></a>: implementation of Pregel, part of Spark</li>
+
+
+
+<li><a href="https://www.arangodb.org/"><strong>ArangoDB</strong></a>: multi model distribuited database</li>
+
+
+
+<li><a href="https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920"><strong>Facebook TAO</strong></a>: TAO is the distributed data store that is widely used at facebook to store and serve the social graph</li>
+
+
+
+<li><a href="http://thinkaurelius.github.io/faunus/"><strong>Faunus</strong></a>: Hadoop-based graph analytics engine for analyzing graphs represented across a multi-machine compute cluster</li>
+
+
+
+<li><a href="https://github.com/google/cayley"><strong>Google Cayley</strong></a>: open-source graph database</li>
+
+
+
+<li><a href="http://kowshik.github.io/JPregel/pregel_paper.pdf"><strong>Google Pregel</strong></a>: graph processing framework</li>
+
+
+
+<li><a href="http://graphlab.org/projects/source.html"><strong>GraphLab PowerGraph</strong></a>: a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API</li>
+
+
+
+<li><a href="https://amplab.cs.berkeley.edu/publication/graphx-grades/"><strong>GraphX</strong></a>: resilient Distributed Graph System on Spark</li>
+
+
+
+<li><a href="https://github.com/tinkerpop/gremlin"><strong>Gremlin</strong></a>: graph traversal Language</li>
+
+
+
+<li><a href="http://www.objectivity.com/infinitegraph"><strong>InfiniteGraph</strong></a>: distributed graph database</li>
+
+
+
+<li><a href="https://github.com/paulhoule/infovore"><strong>Infovore</strong></a>: RDF-centric Map/Reduce framework</li>
+
+
+
+<li><a href="https://01.org/graphbuilder/"><strong>Intel GraphBuilder</strong></a>: tools to construct large-scale graphs on top of Hadoop</li>
+
+
+
+<li><a href="http://mapgraph.io/"><strong>MapGraph</strong></a>: Massively Parallel Graph processing on GPUs</li>
+
+
+
+<li><a href="http://www.neo4j.org/"><strong>Neo4j</strong></a>: graph database writting entirely in Java</li>
+
+
+
+<li><a href="http://www.orientechnologies.com/"><strong>OrientDB</strong></a>: document and graph database</li>
+
+
+
+<li><a href="https://github.com/xslogic/phoebus"><strong>Phoebus</strong></a>: framework for large scale graph processing</li>
+
+
+
+<li><a href="http://www.sparsity-technologies.com/"><strong>Sparksee</strong></a>: scalable high-performance graph database</li>
+
+
+
+<li><a href="http://thinkaurelius.github.io/titan/"><strong>Titan</strong></a>: distributed graph database, built over Cassandra</li>
+
+
+
+<li><a href="https://github.com/twitter/flockdb"><strong>Twitter FlockDB</strong></a>: distribuited graph database</li>
+
+
+
+</ul>
+
+<strong>NewSQL Databases</strong>
+<ul>
+
+
+
+<li><a href="http://www.actian.com/products/operational-databases/"><strong>Actian Ingres</strong></a>: commercially supported, open-source SQL relational database management system</li>
+
+
+
+<li><a href="http://probcomp.csail.mit.edu/bayesdb/index.html"><strong>BayesDB</strong></a>: statistic oriented SQL database</li>
+
+
+
+<li><a href="https://github.com/cockroachdb/cockroach"><strong>Cockroach</strong></a>: Scalable, Geo-Replicated, Transactional Datastore</li>
+
+
+
+<li><a href="http://www.datomic.com/"><strong>Datomic</strong></a>: distributed database designed to enable scalable, flexible and intelligent applications</li>
+
+
+
+<li><a href="https://foundationdb.com/"><strong>FoundationDB</strong></a>: distributed database, inspired by F1</li>
+
+
+
+<li><a href="http://research.google.com/pubs/pub41344.html"><strong>Google F1</strong></a>: distributed SQL database built on Spanner</li>
+
+
+
+<li><a href="http://research.google.com/archive/spanner.html"><strong>Google Spanner</strong></a>: globally distributed semi-relational database</li>
+
+
+
+<li><a href="http://hstore.cs.brown.edu/"><strong>H-Store</strong></a>: is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications</li>
+
+
+
+<li><a href="http://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html"><strong>HandlerSocket</strong></a>: NoSQL plugin for MySQL/MariaDB</li>
+
+
+
+<li><a href="http://www.ibm.com/software/data/db2/"><strong>IBM DB2</strong></a>: object-relational database management system</li>
+
+
+
+<li><a href="http://www.infinisql.org/"><strong>InfiniSQL</strong></a>: infinity scalable RDBMS</li>
+
+
+
+<li><a href="http://www.memsql.com/"><strong>MemSQL</strong></a>: in memory SQL database witho optimized columnar storage on flash</li>
+
+
+
+<li><a href="http://www.nuodb.com/"><strong>NuoDB</strong></a>: SQL/ACID compliant distributed database</li>
+
+
+
+<li><a href="http://www.oracle.com/us/corporate/features/database-12c/index.html"><strong>Oracle Database</strong></a>: object-relational database management system</li>
+
+
+
+<li><a href="http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html"><strong>Oracle TimesTen in-Memory Database</strong></a>: in-memory, relational database management system with persistence and recoverability</li>
+
+
+
+<li><a href="http://gemfirexd.docs.gopivotal.com/latest/userguide/index.html?q=about_users_guide.html/"><strong>Pivotal GemFire XD</strong></a>: Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS</li>
+
+
+
+<li><a href="http://www.saphana.com/welcome"><strong>SAP HANA</strong></a>: is an in-memory, column-oriented, relational database management system</li>
+
+
+
+<li><a href="http://senseidb.com/"><strong>SenseiDB</strong></a>: distributed, realtime, semi-structured database</li>
+
+
+
+<li><a href="http://skydb.io/"><strong>Sky</strong></a>: database used for flexible, high performance analysis of behavioral data</li>
+
+
+
+<li><a href="http://www.symmetricds.org/"><strong>SymmetricDS</strong></a>: open source software for both file and database synchronization</li>
+
+
+
+<li><a href="http://it.teradata.com/products-and-services/Teradata-Database/"><strong>Teradata Database</strong></a>: complete relational database management system</li>
+
+
+
+<li><a href="http://voltdb.com/"><strong>VoltDB</strong></a>: in-memory NewSQL database</li>
+
+
+
+</ul>
+
+<strong>Columnar Databases</strong>
+<ul>
+
+
+
+<li><a href="http://aws.amazon.com/redshift/"><strong>Amazon RedShift</strong></a>: data warehouse service, based on PostgreSQL</li>
+
+
+
+<li><a href="http://db.lcs.mit.edu/projects/cstore/"><strong>C-Store</strong></a>: column oriented DBMS</li>
+
+
+
+<li><a href="http://research.google.com/pubs/pub36632.html"><strong>Google BigQuery</strong></a>: framework for interactive analysis, implementation of Dremel</li>
+
+
+
+<li><a href="http://research.google.com/pubs/pub36632.html"><strong>Google Dremel</strong></a>: framework for interactive analysis, implementation of Dremel</li>
+
+
+
+<li><a href="https://www.monetdb.org/"><strong>MonetDB</strong></a>: column store database</li>
+
+
+
+<li><a href="http://parquet.io/"><strong>Parquet</strong></a>: columnar storage format for Hadoop</li>
+
+
+
+<li><a href="https://www.pivotal.io/big-data/pivotal-greenplum-database"><strong>Pivotal Greenplum</strong></a>: purpose-built, dedicated analytic data warehouse</li>
+
+
+
+<li><a href="http://www.vertica.com/"><strong>Vertica</strong></a>: is designed to manage large, fast-growing volumes of data and provide very fast query performance when used for data warehouses</li>
+
+
+
+</ul>
+
+<strong>Time-Series Databases</strong>
+<ul>
+
+
+
+<li><a href="http://square.github.io/cube/"><strong>Cube</strong></a>: uses MongoDB to store time series data</li>
+
+
+
+<li><a href="http://influxdb.com/"><strong>InfluxDB</strong></a>: distributed time series database</li>
+
+
+
+<li><a href="https://code.google.com/p/kairosdb/"><strong>Kairosdb</strong></a>: similar to OpenTSDB but allows for Cassandra</li>
+
+
+
+<li><a href="http://opentsdb.net"><strong>OpenTSDB</strong></a>: distributed time series database on top of HBase</li>
+
+
+
+</ul>
+
+<strong>SQL-like processing</strong>
+<ul>
+
+
+
+<li><a href="http://www.actian.com/products/analytics-platform/"><strong>Actian SQL for Hadoop</strong></a>: high performance interactive SQL access to all Hadoop data</li>
+
+
+
+<li><a href="https://github.com/amplab/shark/"><strong>AMPLAB Shark</strong></a>: data warehouse system for Spark</li>
+
+
+
+<li><a href="http://incubator.apache.org/drill/"><strong>Apache Drill</strong></a>: framework for interactive analysis, inspired by Dremel</li>
+
+
+
+<li><a href="http://hive.apache.org/docs/hcat_r0.5.0/"><strong>Apache HCatalog</strong></a>: table and storage management layer for Hadoop</li>
+
+
+
+<li><a href="http://hive.apache.org/"><strong>Apache Hive</strong></a>: SQL-like data warehouse system for Hadoop</li>
+
+
+
+<li><a href="https://wiki.apache.org/incubator/OptiqProposal"><strong>Apache Optiq</strong></a>: framework that allows efficient translation of queries involving heterogeneous and federated data</li>
+
+
+
+<li><a href="http://phoenix.incubator.apache.org/index.html"><strong>Apache Phoenix</strong></a>: SQL skin over HBase</li>
+
+
+
+<li><a href="http://blinkdb.org/"><strong>BlinkDB</strong></a>: massively parallel, approximate query engine</li>
+
+
+
+<li><a href="http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html"><strong>Cloudera Impala</strong></a>: framework for interactive analysis, Inspired by Dremel</li>
+
+
+
+<li><a href="http://www.cascading.org/lingual/"><strong>Concurrent Lingual</strong></a>: SQL-like query language for Cascading</li>
+
+
+
+<li><a href="http://www.datasalt.com/products/splout-sql/"><strong>Datasalt Splout SQL</strong></a>: full SQL query engine for big datasets</li>
+
+
+
+<li><a href="http://prestodb.io/"><strong>Facebook PrestoDB</strong></a>: distributed SQL query engine</li>
+
+
+
+<li><a href="http://jethrodata.com/product-2/product/"><strong>JethroData</strong></a>: index-based SQL engine for Hadoop</li>
+
+
+
+<li><a href="https://metanautix.com/product/"><strong>Metanautix Quest</strong></a>: data compute engine</li>
+
+
+
+<li><a href="http://www.gopivotal.com/pivotal-products/data/pivotal-hd"><strong>Pivotal HAWQ</strong></a>: SQL-like data warehouse system for Hadoop</li>
+
+
+
+<li><a href="http://rainstor.com/products/rainstor-database/"><strong>RainstorDB</strong></a>: database for storing petabyte-scale volumes of structured and semi-structured data</li>
+
+
+
+<li><a href="https://github.com/apache/spark/tree/master/sql"><strong>Spark Catalyst</strong></a>: is a Query Optimization Framework for Spark and Shark</li>
+
+
+
+<li><a href="http://databricks.com/blog/2014/03/26/Spark-SQL-manipulating-structured-data-using-Spark.html"><strong>SparkSQL</strong></a>: Manipulating Structured Data Using Spark</li>
+
+
+
+<li><a href="http://www.splicemachine.com/"><strong>Splice Machine</strong></a>: a full-featured SQL-on-Hadoop RDBMS with ACID transactions</li>
+
+
+
+<li><a href="http://hortonworks.com/labs/stinger/"><strong>Stinger</strong></a>: interactive query for Hive</li>
+
+
+
+<li><a href="http://tajo.incubator.apache.org/"><strong>Tajo</strong></a>: distributed data warehouse system on Hadoop</li>
+
+
+
+<li><a href="https://wiki.trafodion.org/wiki/index.php/Main_Page"><strong>Trafodion</strong></a>: enterprise-class SQL-on-HBase solution targeting big data transactional or operational workloads</li>
+
+
+
+</ul>
+
+<strong>Integrated Development Environments</strong>
+<ul>
+
+
+
+<li><a href="https://github.com/rstudio/rstudio"><strong>R-Studio</strong></a>: IDE for R</li>
+
+
+
+</ul>
+
+<strong>Data Ingestion</strong>
+<ul>
+
+
+
+<li><a href="http://aws.amazon.com/kinesis/"><strong>Amazon Kinesis</strong></a>: real-time processing of streaming data at massive scale</li>
+
+
+
+<li><a href="http://incubator.apache.org/chukwa/"><strong>Apache Chukwa</strong></a>: data collection system</li>
+
+
+
+<li><a href="http://flume.apache.org/"><strong>Apache Flume</strong></a>: service to manage large amount of log data</li>
+
+
+
+<li><a href="http://samza.incubator.apache.org/"><strong>Apache Samza</strong></a>: stream processing framework, based on Kafla and YARN</li>
+
+
+
+<li><a href="http://sqoop.apache.org/"><strong>Apache Sqoop</strong></a>: tool to transfer data between Hadoop and a structured datastore</li>
+
+
+
+<li><a href="https://uima.apache.org/"><strong>Apache UIMA</strong></a>: Unstructured Information Management applications are software systems that analyze large volumes of unstructured information in order to discover knowledge that is relevant to an end user</li>
+
+
+
+<li><a href="https://github.com/cloudera/cdk/tree/master/cdk-morphlines"><strong>Cloudera Morphlines</strong></a>: framework that help ETL to Solr, HBase and HDFS</li>
+
+
+
+<li><a href="https://github.com/facebook/scribe"><strong>Facebook Scribe</strong></a>: streamed log data aggregator</li>
+
+
+
+<li><a href="http://fluentd.org/"><strong>Fluentd</strong></a>: tool to collect events and logs</li>
+
+
+
+<li><a href="http://research.google.com/pubs/pub41318.html"><strong>Google Photon</strong></a>: geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency</li>
+
+
+
+<li><a href="https://github.com/mozilla-services/heka"><strong>Heka</strong></a>: open source stream processing software system</li>
+
+
+
+<li><a href="https://github.com/sonalgoyal/hiho"><strong>HIHO</strong></a>: framework for connecting disparate data sources with Hadoop</li>
+
+
+
+<li><a href="http://data.linkedin.com/projects/databus"><strong>LinkedIn Databus</strong></a>: stream of change capture events for a database</li>
+
+
+
+<li><a href="https://github.com/linkedin/kamikaze"><strong>LinkedIn Kamikaze</strong></a>: utility package for compressing sorted integer arrays</li>
+
+
+
+<li><a href="https://github.com/linkedin/white-elephant"><strong>LinkedIn White Elephant</strong></a>: log aggregator and dashboard</li>
+
+
+
+<li><a href="http://logstash.net"><strong>Logstash</strong></a>: a tool for managing events and logs</li>
+
+
+
+<li><a href="https://github.com/Netflix/suro"><strong>Netflix Suro</strong></a>: data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data based on Chukwa</li>
+
+
+
+<li><a href="https://github.com/pinterest/secor"><strong>Pinterest Secor</strong></a>: is a service implementing Kafka log persistance</li>
+
+
+
+<li><a href="http://cloudera.github.io/RecordBreaker/"><strong>Record Breaker</strong></a>: Automatic structure for your text-formatted data</li>
+
+
+
+<li><a href="http://www.tibco.com/products/automation/enterprise-messaging/enterprise-message-service"><strong>TIBCO Enterprise Message Service</strong></a>: standards-based messaging middleware</li>
+
+
+
+<li><a href="https://github.com/twitter/zipkin"><strong>Twitter Zipkin</strong></a>: distributed tracing system that helps us gather timing data for all the disparate services at Twitter</li>
+
+
+
+<li><a href="http://www.informatica.com/us/products/big-data/vibe-data-stream/"><strong>Vibe Data Stream</strong></a>: streaming data collection for real-time Big Data analytics</li>
+
+
+
+</ul>
+
+<strong>Message-oriented middleware</strong>
+<ul>
+
+
+
+<li><a href="http://activemq.apache.org/"><strong>ActiveMQ</strong></a>: open source messaging and Integration Patterns server</li>
+
+
+
+<li><a href="http://aws.amazon.com/sqs/"><strong>Amazon Simple Queue Service</strong></a>: fast, reliable, scalable, fully managed queue service</li>
+
+
+
+<li><a href="http://kafka.apache.org/"><strong>Apache Kafka</strong></a>: distributed publish-subscribe messaging system</li>
+
+
+
+<li><a href="http://qpid.apache.org/"><strong>Apache Qpid</strong></a>: messaging tools that speak AMQP and support many languages and platforms</li>
+
+
+
+<li><a href="http://activemq.apache.org/apollo/"><strong>Apollo</strong></a>: ActiveMQ's next generation of messaging</li>
+
+
+
+<li><a href="http://kr.github.io/beanstalkd/"><strong>Beanstalkd</strong></a>: simple, fast work queue</li>
+
+
+
+<li><a href="https://github.com/bitly/nsq"><strong>Bit.ly NSQ</strong></a>: realtime distributed message processing at scale</li>
+
+
+
+<li><a href="http://www.celeryproject.org/"><strong>Celery</strong></a>: Distributed Task Queue</li>
+
+
+
+<li><a href="http://www.crossroads.io/"><strong>Crossroads I/O</strong></a>: library for building scalable and high performance distributed applications</li>
+
+
+
+<li><a href="https://github.com/wavii/darner"><strong>Darner</strong></a>: simple, lightweight message queue</li>
+
+
+
+<li><a href="http://gearman.org"><strong>Gearman</strong></a>: Job Server</li>
+
+
+
+<li><a href="http://www.jboss.org/hornetq"><strong>HornetQ</strong></a>: open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system</li>
+
+
+
+<li><a href="http://www.iron.io/mq"><strong>IronMQ</strong></a>: easy-to-use highly available message queuing service</li>
+
+
+
+<li><a href="http://robey.github.io/kestrel/"><strong>Kestrel</strong></a>: distributed message queue system</li>
+
+
+
+<li><a href="https://wiki.openstack.org/wiki/Marconi"><strong>Marconi</strong></a>: queuing and notification service made by and for OpenStack, but not only for it</li>
+
+
+
+<li><a href="http://www.rabbitmq.com/"><strong>RabbitMQ</strong></a>: Robust messaging for applications</li>
+
+
+
+<li><a href="http://restmq.com/"><strong>RestMQ</strong></a>: message queue which uses HTTP as transport, JSON to format a minimalist protocol and is organized as REST resources</li>
+
+
+
+<li><a href="http://python-rq.org/"><strong>RQ</strong></a>: simple Python library for queueing jobs and processing them in the background with workers</li>
+
+
+
+<li><a href="http://sidekiq.org/"><strong>Sidekiq</strong></a>: Simple, efficient background processing for Ruby</li>
+
+
+
+<li><a href="http://www.zeromq.org/"><strong>ZeroMQ</strong></a>: The Intelligent Transport Layer</li>
+
+
+
+</ul>
+
+<strong>Service Programming</strong>
+<ul>
+
+
+
+<li><a href="http://akka.io/"><strong>Akka Toolkit</strong></a>: runtime for distributed, and fault tolerant event-driven applications on the JVM</li>
+
+
+
+<li><a href="http://avro.apache.org/"><strong>Apache Avro</strong></a>: data serialization system</li>
+
+
+
+<li><a href="http://curator.apache.org/"><strong>Apache Curator</strong></a>: Java libaries for Apache ZooKeeper</li>
+
+
+
+<li><a href="http://karaf.apache.org/"><strong>Apache Karaf</strong></a>: OSGi runtime that runs on top of any OSGi framework</li>
+
+
+
+<li><a href="http://thrift.apache.org//"><strong>Apache Thrift</strong></a>: framework to build binary protocols</li>
+
+
+
+<li><a href="http://zookeeper.apache.org/"><strong>Apache Zookeeper</strong></a>: centralized service for process management</li>
+
+
+
+<li><a href="http://research.google.com/archive/chubby.html"><strong>Google Chubby</strong></a>: a lock service for loosely-coupled distributed systems</li>
+
+
+
+<li><a href="http://data.linkedin.com/opensource/norbert"><strong>Linkedin Norbert</strong></a>: cluster manager</li>
+
+
+
+<li><a href="http://www.mpich.org/"><strong>MPICH</strong></a>: high performance and widely portable implementation of the Message Passing Interface (MPI) standard</li>
+
+
+
+<li><a href="http://www.open-mpi.org/"><strong>OpenMPI</strong></a>: message passing framework</li>
+
+
+
+<li><a href="http://www.serfdom.io/"><strong>Serf</strong></a>: decentralized solution for service discovery and orchestration</li>
+
+
+
+<li><a href="https://github.com/spotify/luigi"><strong>Spotify Luigi</strong></a>: a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more</li>
+
+
+
+<li><a href="https://github.com/spring-projects/spring-xd"><strong>Spring XD</strong></a>: distributed and extensible system for data ingestion, real time analytics, batch processing, and data export</li>
+
+
+
+<li><a href="https://github.com/kevinweil/elephant-bird"><strong>Twitter Elephant Bird</strong></a>: libraries for working with LZOP-compressed data</li>
+
+
+
+<li><a href="https://twitter.github.io/finagle/"><strong>Twitter Finagle</strong></a>: asynchronous network stack for the JVM</li>
+
+
+
+</ul>
+
+<strong>Scheduling</strong>
+<ul>
+
+
+
+<li><a href="http://aurora.incubator.apache.org/"><strong>Apache Aurora</strong></a>: is a service scheduler that runs on top of Apache Mesos</li>
+
+
+
+<li><a href="http://falcon.incubator.apache.org/"><strong>Apache Falcon</strong></a>: data management framework</li>
+
+
+
+<li><a href="http://oozie.apache.org/"><strong>Apache Oozie</strong></a>: workflow job scheduler</li>
+
+
+
+<li><a href="http://airbnb.github.io/chronos/"><strong>Chronos</strong></a>: distributed and fault-tolerant scheduler</li>
+
+
+
+<li><a href="http://azkaban.github.io/azkaban2/"><strong>Linkedin Azkaban</strong></a>: batch workflow job scheduler</li>
+
+
+
+<li><a href="http://engineering.pinterest.com/post/74429563460/pinball-building-workflow-management"><strong>Pinterest Pinball</strong></a>: customizable platform for creating workflow managers</li>
+
+
+
+<li><a href="https://github.com/radlab/sparrow"><strong>Sparrow</strong></a>: scheduling platform</li>
+
+
+
+</ul>
+
+<strong>Machine Learning</strong>
+<ul>
+
+
+
+<li><a href="http://mahout.apache.org/"><strong>Apache Mahout</strong></a>: machine learning library for Hadoop</li>
+
+
+
+<li><a href="http://www.ayasdi.com/"><strong>Ayasdi Core</strong></a>: tool for topological data analysis</li>
+
+
+
+<li><a href="https://github.com/harthur/brain"><strong>brain</strong></a>: Neural networks in JavaScript</li>
+
+
+
+<li><a href="https://github.com/cloudera/oryx"><strong>Cloudera Oryx</strong></a>: real-time large-scale machine learning</li>
+
+
+
+<li><a href="http://www.cascading.org/pattern/"><strong>Concurrent Pattern</strong></a>: machine learning library for Cascading</li>
+
+
+
+<li><a href="https://github.com/karpathy/convnetjs"><strong>convnetjs</strong></a>: Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser</li>
+
+
+
+<li><a href="https://github.com/danielsdeleo/Decider"><strong>Decider</strong></a>: Flexible and Extensible Machine Learning in Ruby</li>
+
+
+
+<li><a href="http://www.etcml.com/"><strong>etcML</strong></a>: text classification with machine learning</li>
+
+
+
+<li><a href="https://github.com/etsy/Conjecture"><strong>Etsy Conjecture</strong></a>: scalable Machine Learning in Scalding</li>
+
+
+
+<li><a href="http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf"><strong>Google Sibyl</strong></a>: System for Large Scale Machine Learning at Google</li>
+
+
+
+<li><a href="http://0xdata.github.io/h2o/"><strong>H2O</strong></a>: statistical, machine learning and math runtime for Hadoop</li>
+
+
+
+<li><a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/"><strong>IBM Watson</strong></a>: cognitive computing system</li>
+
+
+
+<li><a href="http://www.mlbase.org/"><strong>MLbase</strong></a>: distributed machine learning libraries for the BDAS stack</li>
+
+
+
+<li><a href="https://github.com/nikolaypavlov/MLPNeuralNet"><strong>MLPNeuralNet</strong></a>: Fast multilayer perceptron neural network library for iOS and Mac OS X</li>
+
+
+
+<li><a href="https://github.com/numenta/nupic"><strong>nupic</strong></a>: Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms</li>
+
+
+
+<li><a href="http://prediction.io/"><strong>PredictionIO</strong></a>: machine learning server buit on Hadoop, Mahout and Cascading</li>
+
+
+
+<li><a href="https://github.com/scikit-learn/scikit-learn"><strong>scikit-learn</strong></a>: scikit-learn: machine learning in Python</li>
+
+
+
+<li><a href="http://spark.apache.org/docs/0.9.0/mllib-guide.html"><strong>Spark MLlib</strong></a>: a Spark implementation of some common machine learning (ML) functionality</li>
+
+
+
+<li><a href="http://databricks.com/blog/2014/06/30/sparkling-water-h20-spark.html"><strong>Sparkling Water</strong></a>: combine H2OÕs Machine Learning capabilities with the power of the Spark platform</li>
+
+
+
+<li><a href="https://github.com/Ganglion/varaha"><strong>Vahara</strong></a>: Machine learning and natural language processing with Apache Pig</li>
+
+
+
+<li><a href="http://viv.ai/"><strong>Viv</strong></a>: global platform that enables developers to plug into and create an intelligent, conversational interface to anything</li>
+
+
+
+<li><a href="https://github.com/JohnLangford/vowpal_wabbit/wiki"><strong>Vowpal Wabbit</strong></a>: learning system sponsored by Microsoft and Yahoo!</li>
+
+
+
+<li><a href="http://www.cs.waikato.ac.nz/ml/weka/"><strong>WEKA</strong></a>: suite of machine learning software</li>
+
+
+
+<li><a href="https://wit.ai/"><strong>Wit</strong></a>: Natural Language for the Internet of Things</li>
+
+
+
+<li><a href="http://www.wolframalpha.com/"><strong>Wolfram Alpha</strong></a>: computational knowledge engine</li>
+
+
+
+</ul>
+
+<strong>Benchmarking</strong>
+<ul>
+
+
+
+<li><a href="https://issues.apache.org/jira/browse/MAPREDUCE-3561"><strong>Apache Hadoop Benchmarking</strong></a>: micro-benchmarks for testing Hadoop performances</li>
+
+
+
+<li><a href="https://github.com/SWIMProjectUCB/SWIM/wiki"><strong>Berkeley SWIM Benchmark</strong></a>: real-world big data workload benchmark</li>
+
+
+
+<li><a href="https://github.com/intel-hadoop/Big-Bench"><strong>Big-Bench</strong></a>: Big Bench Workload Development</li>
+
+
+
+<li><a href="https://github.com/yhuai/hive-benchmarks"><strong>Hive-benchmarks</strong></a>: some benchmarking queries for Apache Hive</li>
+
+
+
+<li><a href="https://github.com/cartershanklin/hive-testbench"><strong>Hive-testbench</strong></a>: Testbench for experimenting with Apache Hive at any data scale.</li>
+
+
+
+<li><a href="https://github.com/intel-hadoop/HiBench"><strong>Intel HiBench</strong></a>: a Hadoop benchmark suite</li>
+
+
+
+<li><a href="https://hadoopsummit.uservoice.com/forums/242807-hadoop-deployment-operations-track/suggestions/5568461-inviso-maximizing-big-data-performance-at-netflix"><strong>Netflix Inviso</strong></a>: performance focused Big Data tool</li>
+
+
+
+<li><a href="https://issues.apache.org/jira/browse/MAPREDUCE-5116"><strong>PUMA Benchmarking</strong></a>: benchmark suite for MapReduce applications</li>
+
+
+
+<li><a href="https://developer.yahoo.com/blogs/hadoop/gridmix3-emulating-production-workload-apache-hadoop-450.html"><strong>Yahoo Gridmix3</strong></a>: Hadoop cluster benchmarking from Yahoo engineer team</li>
+
+
+
+</ul>
+
+<strong>Security</strong>
+<ul>
+
+
+
+<li><a href="http://argus.incubator.apache.org/"><strong>Apache Argus</strong></a>: framework to enable, monitor and manage comprehensive data security across the Hadoop platform</li>
+
+
+
+<li><a href="http://knox.apache.org/"><strong>Apache Knox Gateway</strong></a>: single point of secure access for Hadoop clusters</li>
+
+
+
+<li><a href="http://incubator.apache.org/projects/sentry.html"><strong>Apache Sentry</strong></a>: security module for data stored in Hadoop</li>
+
+
+
+<li><a href="https://github.com/packetloop/packetpig"><strong>PacketPig</strong></a>: Open Source Big Data Security Analytics</li>
+
+
+
+<li><a href="http://www.voltage.com/products/securedata-enterprise/"><strong>Voltage SecureData</strong></a>: data protection framework</li>
+
+
+
+</ul>
+
+<strong>System Deployment</strong>
+<ul>
+
+
+
+<li><a href="https://github.com/impetus-opensource/ankush"><strong>Ankush</strong></a>: A big data cluster management tool that creates and manages clusters of different technologies.</li>
+
+
+
+<li><a href="http://ambari.apache.org/"><strong>Apache Ambari</strong></a>: operational framework for Hadoop mangement</li>
+
+
+
+<li><a href="http://bigtop.apache.org//"><strong>Apache Bigtop</strong></a>: system deployment framework for the Hadoop ecosystem</li>
+
+
+
+<li><a href="http://helix.apache.org/"><strong>Apache Helix</strong></a>: cluster management framework</li>
+
+
+
+<li><a href="http://mesos.apache.org/"><strong>Apache Mesos</strong></a>: cluster manager</li>
+
+
+
+<li><a href="https://github.com/hortonworks/slider"><strong>Apache Slider</strong></a>: is a YARN application to deploy existing distributed applications on YARN</li>
+
+
+
+<li><a href="http://whirr.apache.org/"><strong>Apache Whirr</strong></a>: set of libraries for running cloud services</li>
+
+
+
+<li><a href="http://hortonworks.com/hadoop/yarn/"><strong>Apache YARN</strong></a>: Cluster manager</li>
+
+
+
+<li><a href="http://brooklyncentral.github.io/"><strong>Brooklyn</strong></a>: library that simplifies application deployment and management</li>
+
+
+
+<li><a href="http://buildoop.github.io/"><strong>Buildoop</strong></a>: Similar to Apache BigTop based on Groovy language</li>
+
+
+
+<li><a href="http://gethue.com/"><strong>Cloudera HUE</strong></a>: web application for interacting with Hadoop</li>
+
+
+
+<li><a href="https://github.com/mesosphere/deimos"><strong>Deimos</strong></a>: Mesos containerizer hooks for Docker</li>
+
+
+
+<li><a href="http://deploop.github.io/"><strong>Develoop</strong></a>: tool for provisioning, managing and monitoring Apache Hadoop</li>
+
+
+
+<li><a href="https://code.facebook.com/posts/816473015039157/making-facebook-s-software-infrastructure-more-energy-efficient-with-autoscale/"><strong>Facebook Autoscale</strong></a>: the load balancer will concentrate workload to a server until it has at least a medium-level workload</li>
+
+
+
+<li><a href="http://www.wired.com/2012/08/facebook-prism/"><strong>Facebook Prism</strong></a>: multi datacenters replication system</li>
+
+
+
+<li><a href="http://ganglia.sourceforge.net/"><strong>Ganglia Monitoring System</strong></a>: scalable distributed monitoring system for high-performance computing systems such as clusters and Grids</li>
+
+
+
+<li><a href="https://github.com/Netflix/genie"><strong>Genie</strong></a>: Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.</li>
+
+
+
+<li><a href="http://www.wired.com/wiredenterprise/2013/03/google-borg-twitter-mesos/all/"><strong>Google Borg</strong></a>: job scheduling and monitoring system</li>
+
+
+
+<li><a href="https://www.youtube.com/watch?v=0ZFMlO98Jkc"><strong>Google Omega</strong></a>: job scheduling and monitoring system</li>
+
+
+
+<li><a href="https://github.com/sentric/hannibal"><strong>Hannibal</strong></a>: Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.</li>
+
+
+
+<li><a href="http://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/"><strong>Hortonworks HOYA</strong></a>: application that can deploy HBase cluster on YARN</li>
+
+
+
+<li><a href="http://www.jumbune.org/"><strong>Jumbune</strong></a>: Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs.</li>
+
+
+
+<li><a href="https://github.com/mesosphere/marathon"><strong>Marathon</strong></a>: Mesos framework for long-running services</li>
+
+
+
+</ul>
+
+<strong>Applications</strong>
+<ul>
+
+
+
+<li><a href="https://github.com/adobe-research/spindle"><strong>Adobe Spindle</strong></a>: Next-generation web analytics processing with Scala, Spark, and Parquet</li>
+
+
+
+<li><a href="http://www.kiji.org/"><strong>Apache Kiji</strong></a>: framework to collect and analyze data in real-time, based on HBase</li>
+
+
+
+<li><a href="http://nutch.apache.org/"><strong>Apache Nutch</strong></a>: open source web crawler</li>
+
+
+
+<li><a href="http://oodt.apache.org/"><strong>Apache OODT</strong></a>: capturing, processing and sharing of data for NASA's scientific archives</li>
+
+
+
+<li><a href="https://tika.apache.org/"><strong>Apache Tika</strong></a>: content analysis toolkit</li>
+
+
+
+<li><a href="http://www.dominoup.com/"><strong>Domino</strong></a>: Run, scale, share, and deploy models Ñ without any infrastructure.</li>
+
+
+
+<li><a href="http://www.eclipse.org/birt/"><strong>Eclipse BIRT</strong></a>: Eclipse-based reporting system</li>
+
+
+
+<li><a href="https://github.com/Codecademy/EventHub"><strong>Eventhub</strong></a>: open source event analytics platform</li>
+
+
+
+<li><a href="http://hipi.cs.virginia.edu/"><strong>HIPI Library</strong></a>: API for performing image processing tasks on Hadoop's MapReduce</li>
+
+
+
+<li><a href="http://www.splunk.com/download/hunk"><strong>Hunk</strong></a>: Splunk analytics for Hadoop</li>
+
+
+
+<li><a href="http://madlib.net/community/"><strong>MADlib</strong></a>: data-processing library of an RDBMS to analyze data</li>
+
+
+
+<li><a href="https://github.com/gopivotal/PivotalR"><strong>PivotalR</strong></a>: R on Pivotal HD / HAWQ and PostgreSQL</li>
+
+
+
+<li><a href="http://www.qubole.com/"><strong>Qubole</strong></a>: auto-scaling Hadoop cluster, built-in data connectors</li>
+
+
+
+<li><a href="https://senseplatform.com/"><strong>Sense</strong></a>: Cloud Platform for Data Science and Big Data Analytics</li>
+
+
+
+<li><a href="https://github.com/snowplow/snowplow"><strong>Snowplow</strong></a>: enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres</li>
+
+
+
+<li><a href="http://amplab-extras.github.io/SparkR-pkg/"><strong>SparkR</strong></a>: R frontend for Spark</li>
+
+
+
+<li><a href="http://www.splunk.com/"><strong>Splunk</strong></a>: analyzer for machine-generated date</li>
+
+
+
+<li><a href="http://www.talend.com/products/big-data"><strong>Talend</strong></a>: unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig</li>
+
+
+
+</ul>
+
+<strong>Data Warehouse</strong>
+<ul>
+
+
+
+<li><a href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf"><strong>Google Mesa</strong></a>: highly scalable analytic data warehousing system</li>
+
+
+
+<li><a href="http://www.ibm.com/software/data/infosphere/biginsights/"><strong>IBM BigInsights</strong></a>: data processing, warehousing and analytics</li>
+
+
+
+<li><a href="http://research.microsoft.com/en-us/events/fs2011/helland_cosmos_big_data_and_big_challenges.pdf"><strong>Microsoft Cosmos</strong></a>: Microsoft's internal BigData analysis platform</li>
+
+
+
+</ul>
+
+<strong>Search engine and framework</strong>
+<ul>
+
+
+
+<li><a href="http://lucene.apache.org/"><strong>Apache Lucene</strong></a>: Search engine library</li>
+
+
+
+<li><a href="http://lucene.apache.org/solr/"><strong>Apache Solr</strong></a>: Search platform for Apache Lucene</li>
+
+
+
+<li><a href="http://www.elasticsearch.org/"><strong>ElasticSearch</strong></a>: Search and analytics engine based on Apache Lucene</li>
+
+
+
+<li><a href="https://github.com/elasticsearch/elasticsearch-hadoop"><strong>Elasticsearch Hadoop</strong></a>: Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.</li>
+
+
+
+<li><a href="http://enigma.io"><strong>Enigma.io</strong></a>: Freemium robust web application for exploring, filtering, analyzing, searching and exporting massive datasets scraped from across the Web</li>
+
+
+
+<li><a href="https://www.facebook.com/publications/219621248185635/"><strong>Facebook Unicorn</strong></a>: social graph search platform</li>
+
+
+
+<li><a href="http://googleblog.blogspot.it/2010/06/our-new-search-index-caffeine.html"><strong>Google Caffeine</strong></a>: continuous indexing system</li>
+
+
+
+<li><a href="http://research.google.com/pubs/pub36726.html"><strong>Google Percolator</strong></a>: continuous indexing system</li>
+
+
+
+<li><a href=""><strong>TeraGoogle</strong></a>: large search index</li>
+
+
+
+<li><a href="https://github.com/VCNC/haeinsa"><strong>Haeinsa</strong></a>: linearly scalable multi-row, multi-table transaction library for HBase based on Percolator</li>
+
+
+
+<li><a href="https://blogs.apache.org/hbase/entry/coprocessor_introduction"><strong>HBase Coprocessor</strong></a>: implementation of Percolator, part of HBase</li>
+
+
+
+<li><a href="https://github.com/Huawei-Hadoop/hindex"><strong>hIndex</strong></a>: Secondary Index for HBase</li>
+
+
+
+<li><a href="http://ngdata.github.io/hbase-indexer/"><strong>Lily HBase Indexer</strong></a>: quickly and easily search for any content stored in HBase</li>
+
+
+
+<li><a href="http://senseidb.github.io/bobo/"><strong>LinkedIn Bobo</strong></a>: is a Faceted Search implementation written purely in Java, an extension to Apache Lucene</li>
+
+
+
+<li><a href="https://github.com/linkedin/cleo"><strong>LinkedIn Cleo</strong></a>: is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search</li>
+
+
+
+<li><a href="http://engineering.linkedin.com/search/did-you-mean-galene"><strong>LinkedIn Galene</strong></a>: search architecture at LinkedIn</li>
+
+
+
+<li><a href="https://github.com/senseidb/zoie"><strong>LinkedIn Zoie</strong></a>: is a realtime search/indexing system written in Java</li>
+
+
+
+<li><a href="http://sphinxsearch.com/"><strong>Sphnix Search Server</strong></a>: fulltext search engine</li>
+
+
+
+</ul>
+
+<strong>MySQL forks and evolutions</strong>
+<ul>
+
+
+
+<li><a href="http://aws.amazon.com/rds/"><strong>Amazon RDS</strong></a>: MySQL databases in Amazon's cloud</li>
+
+
+
+<li><a href="http://www.drizzle.org/"><strong>Drizzle</strong></a>: evolution of MySQL 6.0</li>
+
+
+
+<li><a href="https://developers.google.com/cloud-sql/"><strong>Google Cloud SQL</strong></a>: MySQL databases in Google's cloud</li>
+
+
+
+<li><a href="https://mariadb.org/"><strong>MariaDB</strong></a>: enhanced, drop-in replacement for MySQL</li>
+
+
+
+<li><a href="http://www.mysql.com/products/cluster/"><strong>MySQL Cluster</strong></a>: MySQL implementation using NDB Cluster storage engine</li>
+
+
+
+<li><a href="http://www.percona.com/software/percona-server"><strong>Percona Server</strong></a>: enhanced, drop-in replacement for MySQL</li>
+
+
+
+<li><a href="https://github.com/renecannao/proxysql"><strong>ProxySQL</strong></a>: High Performance Proxy for MySQL</li>
+
+
+
+<li><a href="http://www.tokutek.com/products/tokudb-for-mysql/"><strong>TokuDB</strong></a>: TokuDB is a storage engine for MySQL and MariaDB</li>
+
+
+
+<li><a href="http://webscalesql.org/"><strong>WebScaleSQL</strong></a>: is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale</li>
+
+
+
+</ul>
+
+<strong>PostgreSQL forks and evolutions</strong>
+<ul>
+
+
+
+<li><a href="http://db.cs.yale.edu/hadoopdb/hadoopdb.html"><strong>HadoopDB</strong></a>: hybrid of MapReduce and DBMS</li>
+
+
+
+<li><a href="http://www-01.ibm.com/software/data/netezza/"><strong>IBM Netezza</strong></a>: high-performance data warehouse appliances</li>
+
+
+
+<li><a href="http://www.postgres-xl.org/"><strong>Postgres-XL</strong></a>: Scalable Open Source PostgreSQL-based Database Cluster</li>
+
+
+
+<li><a href="http://www-users.cs.umn.edu/~sarwat/RecDB/"><strong>RecDB</strong></a>: Open Source Recommendation Engine Built Entirely Inside PostgreSQL</li>
+
+
+
+<li><a href="http://www.stormdb.com/community/stado"><strong>Stado</strong></a>: open source MPP database system solely targeted at data warehousing and data mart applications</li>
+
+
+
+<li><a href="http://www.scribd.com/doc/3159239/70-Everest-PGCon-RT"><strong>Yahoo Everest</strong></a>: multi-peta-byte database / MPP derived by PostgreSQL</li>
+
+
+
+</ul>
+
+<strong>Memcached forks and evolutions</strong>
+<ul>
+
+
+
+<li><a href="https://www.facebook.com/notes/facebook-engineering/mcdipper-a-key-value-cache-for-flash-storage/10151347090423920"><strong>Facebook McDipper</strong></a>: key/value cache for flash storage</li>
+
+
+
+<li><a href="https://www.facebook.com/notes/facebook-engineering/scaling-memcache-at-facebook/10151411410803920"><strong>Facebook Memcached</strong></a>: fork of Memcache</li>
+
+
+
+<li><a href="https://github.com/twitter/twemproxy"><strong>Twemproxy</strong></a>: A fast, light-weight proxy for memcached and redis</li>
+
+
+
+<li><a href="https://github.com/twitter/fatcache"><strong>Twitter Fatcache</strong></a>: key/value cache for flash storage</li>
+
+
+
+<li><a href="https://github.com/twitter/twemcache"><strong>Twitter Twemcache</strong></a>: fork of Memcache</li>
+
+
+
+</ul>
+
+<strong>Embedded Databases</strong>
+<ul>
+
+
+
+<li><a href="http://www.actian.com/products/operational-databases/"><strong>Actian PSQL</strong></a>: ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications</li>
+
+
+
+<li><a href="http://www.oracle.com/us/products/database/berkeley-db/overview/index.html"><strong>BerkeleyDB</strong></a>: a software library that provides a high-performance embedded database for key/value data</li>
+
+
+
+<li><a href="http://hamsterdb.com/"><strong>HamsterDB</strong></a>: transactional key-value database</li>
+
+
+
+<li><a href="https://github.com/krestenkrab/hanoidb"><strong>HanoiDB</strong></a>: Erlang LSM BTree Storage</li>
+
+
+
+<li><a href="https://code.google.com/p/leveldb/"><strong>LevelDB</strong></a>: a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values</li>
+
+
+
+<li><a href="http://symas.com/mdb/"><strong>LMDB</strong></a>: ultra-fast, ultra-compact key-value embedded data store developed by Symas</li>
+
+
+
+<li><a href="http://rocksdb.org/"><strong>RocksDB</strong></a>: embeddable persistent key-value store for fast storage based on LevelDB</li>
+
+
+
+</ul>
+
+<strong>Business Intelligence</strong>
+<ul>
+
+
+
+<li><a href="http://quartetfs.com/products/activepivot"><strong>ActivePivot</strong></a>: Java In-Memory OLAP cube stored in columns, with clearly decoupled pre/post processing</li>
+
+
+
+<li><a href="http://adatao.com/pinsights.html"><strong>Adatao</strong></a>: business intelligence and data science platform</li>
+
+
+
+<li><a href="http://www.softwareag.com/corporate/products/bigdata/apama_analytics/overview/"><strong>Apama analytics</strong></a>: platform for streaming analytics and intelligent automated action</li>
+
+
+
+<li><a href="http://xpatterns.com/"><strong>Atigeo xPatterns</strong></a>: data analytics platform</li>
+
+
+
+<li><a href="http://www.bimeanalytics.com/"><strong>BIME Analytics</strong></a>: business intelligence platform in the cloud</li>
+
+
+
+<li><a href="https://chartio.com"><strong>Chartio</strong></a>: lean business intelligence platform to visualize and explore your data</li>
+
+
+
+<li><a href="http://www.datapine.com/"><strong>Datapine</strong></a>: self-service business intelligence tool in the cloud</li>
+
+
+
+<li><a href="https://www.jaspersoft.com/"><strong>Jaspersoft</strong></a>: powerful business intelligence suite</li>
+
+
+
+<li><a href="http://www.jedox.com/"><strong>Jedox Palo</strong></a>: customisable Business Intelligence platform</li>
+
+
+
+<li><a href="http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx"><strong>Microsoft</strong></a>: business intelligence software and platform</li>
+
+
+
+<li><a href="http://www.microstrategy.com/"><strong>Microstrategy</strong></a>: software platforms for business intelligence, mobile intelligence, and network applications</li>
+
+
+
+<li><a href="http://www.pentaho.com/"><strong>Pentaho</strong></a>: business intelligence platform</li>
+
+
+
+<li><a href="http://www.qlik.com/"><strong>Qlik</strong></a>: business intelligence and analytics platform</li>
+
+
+
+<li><a href="http://www.spagoworld.org/xwiki/bin/view/SpagoBI/"><strong>SpagoBI</strong></a>: open source business intelligence platform</li>
+
+
+
+<li><a href="http://spotfire.tibco.com/"><strong>Spotfire</strong></a>: business intelligence platform</li>
+
+
+
+<li><a href="https://www.tableausoftware.com/"><strong>Tableau</strong></a>: business intelligence platform</li>
+
+
+
+<li><a href="http://it.teradata.com/Teradata-Aster-Database/"><strong>Teradata Aster</strong></a>: Big Data Analytics</li>
+
+
+
+<li><a href="http://tesseradata.org/"><strong>Tessera</strong></a>: Environment for Deep Analysis of Large Complex Data</li>
+
+
+
+<li><a href="http://zeppelin-project.org/"><strong>Zeppelin</strong></a>: open source data analysis environment on top of Hadoop.</li>
+
+
+
+<li><a href="http://www.zoomdata.com/"><strong>Zoomdata</strong></a>: Big Data Analytics</li>
+
+
+
+</ul>
+
+<strong>Data Visualization</strong>
+<ul>
+
+
+
+<li><a href="https://github.com/samizdatco/arbor"><strong>Arbor</strong></a>: graph visualization library using web workers and jQuery</li>
+
+
+
+<li><a href="https://github.com/CartoDB/cartodb"><strong>CartoDB</strong></a>: open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API</li>
+
+
+
+<li><a href="http://www.chartjs.org/"><strong>Chart.js</strong></a>: open source HTML5 Charts visualizations</li>
+
+
+
+<li><a href="http://square.github.io/crossfilter/"><strong>Crossfilter</strong></a>: avaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js</li>
+
+
+
+<li><a href="https://github.com/square/cubism"><strong>Cubism</strong></a>: JavaScript library for time series visualization</li>
+
+
+
+<li><a href="http://cytoscape.github.io/"><strong>Cytoscape</strong></a>: JavaScript library for visualizing complex networks</li>
+
+
+
+<li><a href="http://d3js.org/"><strong>D3</strong></a>: javaScript library for manipulating documents</li>
+
+
+
+<li><a href="http://dc-js.github.io/dc.js/"><strong>DC.js</strong></a>: Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3</li>
+
+
+
+<li><a href="https://github.com/HumbleSoftware/envisionjs"><strong>Envisionjs</strong></a>: dynamic HTML5 visualization</li>
+
+
+
+<li><a href="https://github.com/Freeboard/freeboard"><strong>Freeboard</strong></a>: pen source real-time dashboard builder for IOT and other web mashups</li>
+
+
+
+<li><a href="https://github.com/gephi/gephi"><strong>Gephi</strong></a>: An award-winning open-source platform for visualizing and manipulating large graphs and network connections</li>
+
+
+
+<li><a href="https://developers.google.com/chart/"><strong>Google Charts</strong></a>: simple charting API</li>
+
+
+
+<li><a href="http://grafana.org/"><strong>Grafana</strong></a>: graphite dashboard frontend, editor and graph composer</li>
+
+
+
+<li><a href="http://graphite.wikidot.com/"><strong>Graphite</strong></a>: scalable Realtime Graphing</li>
+
+
+
+<li><a href="http://www.highcharts.com/"><strong>Highcharts</strong></a>: simple and flexible charting API</li>
+
+
+
+<li><a href="http://ipython.org/"><strong>IPython</strong></a>: provides a rich architecture for interactive computing</li>
+
+
+
+<li><a href="http://keylines.com/"><strong>Keylines</strong></a>: toolkit for visualizing the networks in your data</li>
+
+
+
+<li><a href="https://github.com/matplotlib/matplotlib"><strong>Matplotlib</strong></a>: plotting with Python</li>
+
+
+
+<li><a href="http://nvd3.org/"><strong>NVD3</strong></a>: chart components for d3.js</li>
+
+
+
+<li><a href="https://github.com/benpickles/peity"><strong>Peity</strong></a>: Progressive SVG bar, line and pie charts</li>
+
+
+
+<li><a href="http://plot.ly"><strong>Plot.ly</strong></a>: Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.</li>
+
+
+
+<li><a href="https://github.com/okfn/recline"><strong>Recline</strong></a>: simple but powerful library for building data applications in pure Javascript and HTML</li>
+
+
+
+<li><a href="https://github.com/everythingme/redash"><strong>Redash</strong></a>: open-source platform to query and visualize data</li>
+
+
+
+<li><a href="https://github.com/jacomyal/sigma.js"><strong>Sigma.js</strong></a>: JavaScript library dedicated to graph drawing</li>
+
+
+
+<li><a href="https://github.com/trifacta/vega"><strong>Vega</strong></a>: a visualization grammar</li>
+
+
+
+</ul>
+
+<strong>Internet of things and sensor data</strong>
+<ul>
+
+
+
+<li><a href="https://tempoiq.com/"><strong>TempoIQ</strong></a>: Cloud-based sensor analytics</li>
+
+
+
+</ul>
+
+
+<em>If you like this list you are probably interested in my list of <strong><a href="http://blog.andreamostosi.name/papers/">big-data related papers</a></strong>.</em>
+
+<strong>Related projects</strong>
+<ul>
+  <li><strong><a href="http://bigdata.andreamostosi.name/">Big data Ecosystem Table</a></strong></li>
+  <li><a href="http://hadoopecosystemtable.github.io/">Hadoop Ecosystem Table</a> by <a href="https://github.com/javiroman">Javi Roman</a></li>
+  <li><a href="https://github.com/onurakpolat/awesome-bigdata">Awesome Big Data</a> by <a href="https://github.com/onurakpolat">Onur Akpolat</a></li>
+  <li><a href="https://github.com/bayandin/awesome-awesomeness">Awesome Awesomeness</a> by <a href="https://github.com/bayandin">Alexander Bayandin</a></li>
+  <li><a href="https://github.com/youngwookim/awesome-hadoop">Awesome Hadoop</a> by <a href="https://github.com/youngwookim">Youngwoo Kim</a></li>
+  <li><a href="https://github.com/strzalek/queues.io">Queues.io</a> by <a href="https://github.com/strzalek">Łukasz Strzałkowski</a></li>
+</ul>

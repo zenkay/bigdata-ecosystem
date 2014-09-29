@@ -1,4 +1,5 @@
-ruby generator/andreamostosiwordpress.rb
+ruby generator/wordpressprojects.rb
+ruby generator/wordpresspapers.rb
 ruby generator/awesomebigdata.rb
 ruby generator/bigdataecosystemraw.rb
 ruby generator/bigdataecosystemtable.rb

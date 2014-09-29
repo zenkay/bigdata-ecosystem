@@ -32,18 +32,7 @@ end
 
 puts "Data succesfully grouped."
 
-papers = {}
-
-Dir.glob("#{File.dirname(__FILE__)}/../papers-data/*.json").sort.each do |file|
-  # read content
-  data = JSON.parse(File.read(file))
-  papers[data["year"]] ||= []
-  papers[data["year"]] << data
-end
-
-puts "Paper Data succesfully loaded."
-
 # write result
-File.open("#{File.dirname(__FILE__)}/../public/andreamostosiwordpress.html", 'w') { |file| file.write(ERB.new(File.read("#{File.dirname(__FILE__)}/templates/andreamostosiwordpress.html")).result(binding)) } 
+File.open("#{File.dirname(__FILE__)}/../public/wordpressprojects.html", 'w') { |file| file.write(ERB.new(File.read("#{File.dirname(__FILE__)}/templates/wordpressprojects.html")).result(binding)) } 
 
 puts "Destination file written."

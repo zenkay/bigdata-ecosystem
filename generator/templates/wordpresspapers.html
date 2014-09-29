@@ -1,0 +1,25 @@
+<em>Researcher are always publishing new papers about processing data and scaling architecture. Here is a incomplete but useful list of relevant paper published in the <strong>VLDB/big-data</strong> environment starting from 1997 with the paper from NASA that mention the word "big-data" fro the first time.</em>
+
+<% papers.reverse_each do |year, papers_by_year| %>
+
+<strong>Papers of <%= year %></strong>
+<ul>
+<% papers_by_year.each do |paper| %>
+<% if paper["links"].any? %>
+<li><strong><%= paper["year"] %></strong> - <a href="<%= paper["links"][0]["url"] %>"><%= paper["title"] %></a></li>
+<% end %>
+<% end %>
+</ul>
+<% end %>
+
+<em>If you like this list you are probably interested in my list of <strong><a href="http://blog.andreamostosi.name/big-data/">big-data related projects</a></strong>.</em>
+
+<strong>Related projects</strong>
+<ul>
+  <li><strong><a href="http://bigdata.andreamostosi.name/">Big data Ecosystem Table</a></strong></li>
+  <li><a href="http://hadoopecosystemtable.github.io/">Hadoop Ecosystem Table</a> by <a href="https://github.com/javiroman">Javi Roman</a></li>
+  <li><a href="https://github.com/onurakpolat/awesome-bigdata">Awesome Big Data</a> by <a href="https://github.com/onurakpolat">Onur Akpolat</a></li>
+  <li><a href="https://github.com/bayandin/awesome-awesomeness">Awesome Awesomeness</a> by <a href="https://github.com/bayandin">Alexander Bayandin</a></li>
+  <li><a href="https://github.com/youngwookim/awesome-hadoop">Awesome Hadoop</a> by <a href="https://github.com/youngwookim">Youngwoo Kim</a></li>
+  <li><a href="https://github.com/strzalek/queues.io">Queues.io</a> by <a href="https://github.com/strzalek">Łukasz Strzałkowski</a></li>
+</ul>
