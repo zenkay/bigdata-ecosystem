@@ -1,0 +1,19 @@
+{
+  "name": "Facebook Mcrouter",
+  "description": "a memcached protocol router for scaling memcached deployments",
+  "abstract": "a memcached protocol router for scaling memcached deployments",
+  "category": "Memcached forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/facebook/mcrouter"
+    },
+    {
+      "text": "Facebook Note",
+      "url": "https://code.facebook.com/posts/296442737213493/introducing-mcrouter-a-memcached-protocol-router-for-scaling-memcached-deployments/"
+    }
+  ]
+}

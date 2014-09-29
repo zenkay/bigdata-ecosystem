@@ -1,0 +1,15 @@
+{
+  "name": "RAMCloud",
+  "description": "storage system that provides large-scale low-latency storage by keeping all data in DRAM all the time and aggregating the main memories of thousands of servers",
+  "abstract": "storage system that provides large-scale low-latency storage by keeping all data in DRAM all the time and aggregating the main memories of thousands of servers",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://ramcloud.atlassian.net/wiki/display/RAM/RAMCloud"
+    }
+  ]
+}

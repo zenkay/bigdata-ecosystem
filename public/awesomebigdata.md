@@ -34,7 +34,7 @@ Your contributions are always welcome!
     - [Embedded Databases](#embedded-databases)
     - [Business Intelligence](#business-intelligence)
     - [Data Visualization](#data-visualization)
-    - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
+    - [Time series database](#time-series-database)
 
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -141,6 +141,7 @@ Your contributions are always welcome!
 * [Google Cloud Datastore](https://developers.google.com/datastore/) - is a fully managed, schemaless database for storing non-relational data over BigTable.
 * [Hypertable](http://hypertable.org/) - column-oriented distribuited datastore, inspired by BigTable.
 * [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
+* [MapR-DB](http://content.dataversity.net/rs/wilshireconferences/images/MapR-DB_Product_Preview_for_NoSQL_Now.pdf) - fast, scalable, and enterprise-ready in-Hadoop database architected to manage big data.
 * [Netflix Priam](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 * [OhmData C5](http://ohmdata.com/) - improved version of HBase.
 * [Sqrrl](http://sqrrl.com/product/sqrrl-enterprise/) - NoSQL databases on top of Apache Accumulo.
@@ -171,7 +172,9 @@ Your contributions are always welcome!
 * [HyperDex](http://hyperdex.org/) - next generation key-value store.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
+* [Netflix Dynomite](http://techblog.netflix.com/2014/03/netflixoss-season-2-episode-1.html) - thin Dynamo-based replication for cached data.
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
+* [RAMCloud](https://ramcloud.atlassian.net/wiki/display/RAM/RAMCloud) - storage system that provides large-scale low-latency storage by keeping all data in DRAM all the time and aggregating the main memories of thousands of servers.
 * [Redis](http://redis.io) - in memory key value datastore.
 * [Redis Sentinel](http://redis.io/topics/sentinel) - system designed to help managing Redis instances.
 * [Riak](https://github.com/basho/riak) - a decentralized datastore.
@@ -358,12 +361,14 @@ Your contributions are always welcome!
 * [Cloudera Oryx](https://github.com/cloudera/oryx) - real-time large-scale machine learning.
 * [Concurrent Pattern](http://www.cascading.org/pattern/) - machine learning library for Cascading.
 * [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+* [cuDNN](http://devblogs.nvidia.com/parallelforall/accelerate-machine-learning-cudnn-deep-neural-network-library/) - GPU-accelerated library of primitives for deep neural networks.
 * [Decider](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) - cognitive computing system.
+* [LinkedIn ml-ease](https://github.com/linkedin/ml-ease) - ADMM based large scale logistic regression.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
@@ -371,6 +376,7 @@ Your contributions are always welcome!
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Sparkling Water](http://databricks.com/blog/2014/06/30/sparkling-water-h20-spark.html) - combine H2OÕs Machine Learning capabilities with the power of the Spark platform.
+* [Thunder](http://thefreemanlab.com/thunder/) - Large-scale analysis of neural data.
 * [Vahara](https://github.com/Ganglion/varaha) - Machine learning and natural language processing with Apache Pig.
 * [Viv](http://viv.ai/) - global platform that enables developers to plug into and create an intelligent, conversational interface to anything.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
@@ -483,6 +489,7 @@ Your contributions are always welcome!
 * [ProxySQL](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
 * [TokuDB](http://www.tokutek.com/products/tokudb-for-mysql/) - TokuDB is a storage engine for MySQL and MariaDB.
 * [WebScaleSQL](http://webscalesql.org/) - is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale.
+* [Youtube Vitess](https://github.com/youtube/vitess) - provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 
 ## PostgreSQL forks and evolutions
 
@@ -495,7 +502,9 @@ Your contributions are always welcome!
 
 ## Memcached forks and evolutions
 
+* [Box Tron](http://engineering.opendns.com/2014/09/16/caching-scale/) - proxy to memcached servers.
 * [Facebook McDipper](https://www.facebook.com/notes/facebook-engineering/mcdipper-a-key-value-cache-for-flash-storage/10151347090423920) - key/value cache for flash storage.
+* [Facebook Mcrouter](https://github.com/facebook/mcrouter) - a memcached protocol router for scaling memcached deployments.
 * [Facebook Memcached](https://www.facebook.com/notes/facebook-engineering/scaling-memcache-at-facebook/10151411410803920) - fork of Memcache.
 * [Twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis.
 * [Twitter Fatcache](https://github.com/twitter/fatcache) - key/value cache for flash storage.
@@ -522,6 +531,7 @@ Your contributions are always welcome!
 * [Datapine](http://www.datapine.com/) - self-service business intelligence tool in the cloud.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
+* [LinkedIn GoSpeed](http://engineering.linkedin.com/performance/monitor-and-improve-web-performance-using-rum-data-visualization) - provides RUM data processing, visualization, monitoring, and analyses data daily, hourly, or on a near real-time basis.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
@@ -560,8 +570,11 @@ Your contributions are always welcome!
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
+* [Square Cubism.js](http://square.github.io/cubism/) - aÊD3Êplugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data fromÊGraphite,ÊCubeÊand other sources.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
 
-## Internet of things and sensor data
+## Time series database
 
+* [Etsy StatsD](https://github.com/etsy/statsd/) - simple daemon for easy stats aggregation.
+* [Square Cube](http://square.github.io/cube/) - system for collecting timestamped events and deriving metrics.
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.

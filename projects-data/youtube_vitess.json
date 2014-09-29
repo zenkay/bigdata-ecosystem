@@ -1,0 +1,15 @@
+{
+  "name": "Youtube Vitess",
+  "description": "provides servers and tools which facilitate scaling of MySQL databases for large scale web services",
+  "abstract": "provides servers and tools which facilitate scaling of MySQL databases for large scale web services",
+  "category": "MySQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/youtube/vitess"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cuDNN",
+  "description": "GPU-accelerated library of primitives for deep neural networks",
+  "abstract": "GPU-accelerated library of primitives for deep neural networks",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://devblogs.nvidia.com/parallelforall/accelerate-machine-learning-cudnn-deep-neural-network-library/"
+    }
+  ]
+}

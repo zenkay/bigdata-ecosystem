@@ -1,0 +1,15 @@
+{
+  "name": "Thunder",
+  "description": "Large-scale analysis of neural data",
+  "abstract": "Large-scale analysis of neural data",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://thefreemanlab.com/thunder/"
+    }
+  ]
+}

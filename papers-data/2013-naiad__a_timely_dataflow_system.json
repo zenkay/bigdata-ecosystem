@@ -1,0 +1,15 @@
+{
+  "title": "Naiad: A Timely Dataflow System",
+  "year": "2013",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://research.microsoft.com/pubs/201100/naiad_sosp2013.pdf"
+    }
+  ]
+}

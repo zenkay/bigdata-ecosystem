@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn GoSpeed",
+  "description": "provides RUM data processing, visualization, monitoring, and analyses data daily, hourly, or on a near real-time basis",
+  "abstract": "provides RUM data processing, visualization, monitoring, and analyses data daily, hourly, or on a near real-time basis",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://engineering.linkedin.com/performance/monitor-and-improve-web-performance-using-rum-data-visualization"
+    }
+  ]
+}

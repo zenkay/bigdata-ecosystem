@@ -45,7 +45,7 @@ Related projects:
 - [Embedded Databases](#embedded-databases)
 - [Business Intelligence](#business-intelligence)
 - [Data Visualization](#data-visualization)
-- [Internet of things and sensor data](#internet-of-things-and-sensor-data)
+- [Time series database](#time-series-database)
 
 
 
@@ -151,6 +151,7 @@ Related projects:
 * [Google Cloud Datastore](https://developers.google.com/datastore/) - is a fully managed, schemaless database for storing non-relational data over BigTable.
 * [Hypertable](http://hypertable.org/) - column-oriented distribuited datastore, inspired by BigTable.
 * [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
+* [MapR-DB](http://content.dataversity.net/rs/wilshireconferences/images/MapR-DB_Product_Preview_for_NoSQL_Now.pdf) - fast, scalable, and enterprise-ready in-Hadoop database architected to manage big data.
 * [Netflix Priam](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 * [OhmData C5](http://ohmdata.com/) - improved version of HBase.
 * [Sqrrl](http://sqrrl.com/product/sqrrl-enterprise/) - NoSQL databases on top of Apache Accumulo.
@@ -181,7 +182,9 @@ Related projects:
 * [HyperDex](http://hyperdex.org/) - next generation key-value store.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
+* [Netflix Dynomite](http://techblog.netflix.com/2014/03/netflixoss-season-2-episode-1.html) - thin Dynamo-based replication for cached data.
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
+* [RAMCloud](https://ramcloud.atlassian.net/wiki/display/RAM/RAMCloud) - storage system that provides large-scale low-latency storage by keeping all data in DRAM all the time and aggregating the main memories of thousands of servers.
 * [Redis](http://redis.io) - in memory key value datastore.
 * [Redis Sentinel](http://redis.io/topics/sentinel) - system designed to help managing Redis instances.
 * [Riak](https://github.com/basho/riak) - a decentralized datastore.
@@ -368,12 +371,14 @@ Related projects:
 * [Cloudera Oryx](https://github.com/cloudera/oryx) - real-time large-scale machine learning.
 * [Concurrent Pattern](http://www.cascading.org/pattern/) - machine learning library for Cascading.
 * [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+* [cuDNN](http://devblogs.nvidia.com/parallelforall/accelerate-machine-learning-cudnn-deep-neural-network-library/) - GPU-accelerated library of primitives for deep neural networks.
 * [Decider](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) - cognitive computing system.
+* [LinkedIn ml-ease](https://github.com/linkedin/ml-ease) - ADMM based large scale logistic regression.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
@@ -381,6 +386,7 @@ Related projects:
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Sparkling Water](http://databricks.com/blog/2014/06/30/sparkling-water-h20-spark.html) - combine H2OÕs Machine Learning capabilities with the power of the Spark platform.
+* [Thunder](http://thefreemanlab.com/thunder/) - Large-scale analysis of neural data.
 * [Vahara](https://github.com/Ganglion/varaha) - Machine learning and natural language processing with Apache Pig.
 * [Viv](http://viv.ai/) - global platform that enables developers to plug into and create an intelligent, conversational interface to anything.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
@@ -493,6 +499,7 @@ Related projects:
 * [ProxySQL](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
 * [TokuDB](http://www.tokutek.com/products/tokudb-for-mysql/) - TokuDB is a storage engine for MySQL and MariaDB.
 * [WebScaleSQL](http://webscalesql.org/) - is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale.
+* [Youtube Vitess](https://github.com/youtube/vitess) - provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 
 ## PostgreSQL forks and evolutions
 
@@ -505,7 +512,9 @@ Related projects:
 
 ## Memcached forks and evolutions
 
+* [Box Tron](http://engineering.opendns.com/2014/09/16/caching-scale/) - proxy to memcached servers.
 * [Facebook McDipper](https://www.facebook.com/notes/facebook-engineering/mcdipper-a-key-value-cache-for-flash-storage/10151347090423920) - key/value cache for flash storage.
+* [Facebook Mcrouter](https://github.com/facebook/mcrouter) - a memcached protocol router for scaling memcached deployments.
 * [Facebook Memcached](https://www.facebook.com/notes/facebook-engineering/scaling-memcache-at-facebook/10151411410803920) - fork of Memcache.
 * [Twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis.
 * [Twitter Fatcache](https://github.com/twitter/fatcache) - key/value cache for flash storage.
@@ -532,6 +541,7 @@ Related projects:
 * [Datapine](http://www.datapine.com/) - self-service business intelligence tool in the cloud.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
+* [LinkedIn GoSpeed](http://engineering.linkedin.com/performance/monitor-and-improve-web-performance-using-rum-data-visualization) - provides RUM data processing, visualization, monitoring, and analyses data daily, hourly, or on a near real-time basis.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
@@ -570,10 +580,13 @@ Related projects:
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
+* [Square Cubism.js](http://square.github.io/cubism/) - aÊD3Êplugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data fromÊGraphite,ÊCubeÊand other sources.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
 
-## Internet of things and sensor data
+## Time series database
 
+* [Etsy StatsD](https://github.com/etsy/statsd/) - simple daemon for easy stats aggregation.
+* [Square Cube](http://square.github.io/cube/) - system for collecting timestamped events and deriving metrics.
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
 
 # Papers
@@ -585,24 +598,29 @@ Related projects:
 * **2014** - [A Partitioning Framework for Aggressive Data Skipping](http://www.vldb.org/pvldb/vol7/p1617-sun.pdf)
 * **2014** - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](http://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 * **2014** - [Fastpass: A Centralized "Zero-Queue" Datacenter Network](http://fastpass.mit.edu/Fastpass-SIGCOMM14-Perry.pdf)
+* **2014** - [Guess Who Rated This Movie: Identifying Users Through Subspace Clustering](http://arxiv.org/pdf/1408.2055v1.pdf)
 * **2014** - [In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
 * **2014** - [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](http://www.cse.buffalo.edu/tech-reports/2014-04.pdf)
 * **2014** - [MapGraph: A High Level API for Fast Development of High Performance Graph Analytics on GPUs](http://mapgraph.io/papers/MapGraph-SIGMOD-2014.pdf)
 * **2014** - [Mesa: Geo-Replicated, Near Real-Time, Scalable Data Warehousing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42851.pdf)
 * **2014** - [Orca A Modular Query Optimizer Architecture for Big Data](http://www.pivotal.io/sites/default/files/SIGMODMay2014HAWQAdvantages.pdf)
 * **2014** - [Pigeon: A Spatial MapReduce Language](http://spatialhadoop.cs.umn.edu/publications/ICDE14_demo_763.pdf)
+* **2014** - [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v1.pdf)
 
 ## 2013
 
 * **2013** - [A Demonstration of SpatailHadoop: An Efficient MapReduce Framework for Spatial Data](http://spatialhadoop.cs.umn.edu/publications/p744-eldawy.pdf)
 * **2013** - [CG_Hadoop: Computational Geometry in MapReduce](http://spatialhadoop.cs.umn.edu/publications/p0144_Eldawy.pdf)
+* **2013** - [Dimension Independent Matrix Square using MapReduce](http://arxiv.org/pdf/1304.1467v2.pdf)
 * **2013** - [Druid A Real-time Analytical Data Store](http://static.druid.io/docs/druid.pdf)
+* **2013** - [Event labeling combining ensemble detectors and background knowledge](http://link.springer.com/content/pdf/10.1007%2Fs13748-013-0040-3.pdf)
 * **2013** - [Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask](http://sigops.org/sosp/sosp13/papers/p33-david.pdf)
 * **2013** - [F1: A Distributed SQL Database That Scales ](http://stevereads.com/papers_to_read/f1_a_distributed_sql_database_that_scales.pdf)
 * **2013** - [GraphX: A Resilient Distributed Graph System on Spark](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/05/grades-graphx_with_fonts.pdf)
 * **2013** - [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality 2013 Estimation Algorithm](http://stefanheule.com/papers/edbt2013-hyperloglog.pdf)
 * **2013** - [MillWheel: Fault-Tolerant Stream Processing at Internet Scale](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41378.pdf)
 * **2013** - [MLbase: A Distributed Machine-learning System](http://cidrdb.org/cidr2013/Papers/CIDR13_Paper118.pdf)
+* **2013** - [Naiad: A Timely Dataflow System](http://research.microsoft.com/pubs/201100/naiad_sosp2013.pdf)
 * **2013** - [Online, Asynchronous Schema Change in F1](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p764-rae.pdf)
 * **2013** - [Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices](http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Venkataraman.pdf)
 * **2013** - [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
@@ -615,12 +633,14 @@ Related projects:
 ## 2012
 
 * **2012** - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+* **2012** - [A Sublinear Time Algorithm for PageRank Computations](http://research.microsoft.com/en-us/um/people/borgs/Papers/SublinearPR.pdf)
 * **2012** - [Blink and It's Done. Interactive Queries on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_vldb12_demo.pdf)
 * **2012** - [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](https://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf)
 * **2012** - [Dimension Independent Similarity Computation](http://arxiv.org/pdf/1206.2082.pdf)
 * **2012** - [Fast and Interactive Analytics over Hadoop Data with Spark](https://www.usenix.org/system/files/login/articles/zaharia.pdf)
 * **2012** - [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
 * **2012** - [Large:Scale Machine Learning at Twitter](http://www.umiacs.umd.edu/~jimmylin/publications/Lin_Kolcz_SIGMOD2012.pdf)
+* **2012** - [Multi-Scale Matrix Sampling and Sublinear-Time PageRank Computation](http://arxiv.org/pdf/1202.2771v5.pdf)
 * **2012** - [Paxos Made Parallel](http://research.microsoft.com/pubs/178045/ppaoxs-paper29.pdf)
 * **2012** - [Paxos Replicated State Machines as the Basis of a High-Performance  Data Store](https://www.usenix.org/legacy/events/nsdi11/tech/full_papers/Bolosky.pdf)
 * **2012** - [Processing a Trillion Cells per Mouse Click](http://vldb.org/pvldb/vol5/p1436_alexanderhall_vldb2012.pdf)
@@ -634,6 +654,7 @@ Related projects:
 * **2011** - [CrowdDB: Answering Queries with Crowdsourcing](http://csce.uark.edu/~tingxiny/courses/5013spring13/readingList/crowddb_sigmod2011.pdf)
 * **2011** - [CrowdDB: Query Processing with the VLDB Crowd](http://cs.brown.edu/~kraskat/pub/vldb11-crowddb_demo.pdf)
 * **2011** - [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://www.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
+* **2011** - [It's Time for Low Latency](http://www.scs.stanford.edu/~rumble/papers/latency_hotos11.pdf)
 * **2011** - [Matching Unstructured Product Offers to Structured Product Specifications](http://research.microsoft.com/pubs/144534/matching_tr.pdf)
 * **2011** - [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)
 * **2011** - [Resilient Distributed Datasets- A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
@@ -642,6 +663,7 @@ Related projects:
 ## 2010
 
 * **2010** - [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf)
+* **2010** - [Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers](http://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf)
 * **2010** - [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 * **2010** - [Finding a needle in Haystack- Facebook's photo storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 * **2010** - [FlumeJava: Easy, Eff¥cient Data-Parallel Pipelines](http://pages.cs.wisc.edu/~akella/CS838/F12/838-CloudPapers/FlumeJava.pdf)
@@ -706,3 +728,7 @@ Related projects:
 
 * **1999** - [Pasting Small Votes for Classification in Large Databases and On-Line](http://link.springer.com/content/pdf/10.1023%2FA%3A1007563306331.pdf)
 * **1999** - [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
+
+## 1997
+
+* **1997** - [Application-Controlled Demand Paging for Out-of-Core Visualization](http://www.nas.nasa.gov/assets/pdf/techreports/1997/nas-97-010.pdf)

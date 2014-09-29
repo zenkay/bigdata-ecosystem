@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn ml-ease",
+  "description": "ADMM based large scale logistic regression",
+  "abstract": "ADMM based large scale logistic regression",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/linkedin/ml-ease"
+    }
+  ]
+}

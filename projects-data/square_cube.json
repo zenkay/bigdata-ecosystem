@@ -1,0 +1,15 @@
+{
+  "name": "Square Cube",
+  "description": "system for collecting timestamped events and deriving metrics",
+  "abstract": "system for collecting timestamped events and deriving metrics",
+  "category": "Time series database",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://square.github.io/cube/"
+    }
+  ]
+}

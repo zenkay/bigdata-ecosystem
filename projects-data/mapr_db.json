@@ -1,0 +1,15 @@
+{
+  "name": "MapR-DB",
+  "description": "fast, scalable, and enterprise-ready in-Hadoop database architected to manage big data",
+  "abstract": "fast, scalable, and enterprise-ready in-Hadoop database architected to manage big data",
+  "category": "Key-Map Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://content.dataversity.net/rs/wilshireconferences/images/MapR-DB_Product_Preview_for_NoSQL_Now.pdf"
+    }
+  ]
+}

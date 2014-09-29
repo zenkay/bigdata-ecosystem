@@ -1,0 +1,15 @@
+{
+  "name": "Netflix Dynomite",
+  "description": "thin Dynamo-based replication for cached data",
+  "abstract": "thin Dynamo-based replication for cached data",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://techblog.netflix.com/2014/03/netflixoss-season-2-episode-1.html"
+    }
+  ]
+}
