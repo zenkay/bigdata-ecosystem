@@ -1,0 +1,15 @@
+{
+  "name": "Nextflow",
+  "description": "Dataflow oriented toolkit for parallel and distributed computational pipelines",
+  "abstract": "Dataflow oriented toolkit for parallel and distributed computational pipelines",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.nextflow.io"
+    }
+  ]
+}
