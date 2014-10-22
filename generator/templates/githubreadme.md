@@ -66,7 +66,7 @@ Data
 ## Papers
 
 <% Time.now.year.downto(1997).each do |year| -%>
-- [<%= year %>](#<%= year %>)
+- [Published in <%= year %>](#<%= year %>)
 <% end %>
 
 <% papers.reverse_each do |year, papers_by_year| -%>
