@@ -7,12 +7,11 @@ Incomplete-but-useful list of big-data related projects packed into a JSON datas
 
 **Related projects**: [Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/) by [Javi Roman](https://github.com/javiroman), [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) by [Onur Akpolat](https://github.com/onurakpolat), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) by [Alexander Bayandin](https://github.com/bayandin), [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop) by [Youngwoo Kim](https://github.com/youngwookim), [Queues.io](https://github.com/strzalek/queues.io) by [Łukasz Strzałkowski](https://github.com/strzalek)
 
-How to contribute 
------------------
+## How to contribute 
 
-#### Projects
+### Projects
 
-Add a new JSON file to ```projects``` directory. Here is a [example](projects-data/apache_hadoop.json):
+Add a new JSON file to ```projects-data``` directory. Here is an [example](projects-data/apache_hadoop.json):
 
 ```
 {
@@ -25,9 +24,9 @@ Add a new JSON file to ```projects``` directory. Here is a [example](projects-da
 }
 ```
 
-#### Papers
+### Papers
 
-Add a new JSON file to ```papers``` directory. Here is a [example](papers-data/2003-the_google_file_system.json):
+Add a new JSON file to ```papers-data``` directory. Here is an [example](papers-data/2003-the_google_file_system.json):
 
 ```
 {
@@ -40,7 +39,10 @@ Add a new JSON file to ```papers``` directory. Here is a [example](papers-data/2
 }
 ```
 
-## Categories
+Data 
+==========================
+
+## Projects
 
 - [Frameworks](#frameworks)
 - [Distributed Programming](#distributed-programming)
@@ -616,6 +618,26 @@ Add a new JSON file to ```papers``` directory. Here is a [example](papers-data/2
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
 
 # Papers
+
+- [2014](#2014) %>)
+- [2013](#2013) %>)
+- [2012](#2012) %>)
+- [2011](#2011) %>)
+- [2010](#2010) %>)
+- [2009](#2009) %>)
+- [2008](#2008) %>)
+- [2007](#2007) %>)
+- [2006](#2006) %>)
+- [2005](#2005) %>)
+- [2004](#2004) %>)
+- [2003](#2003) %>)
+- [2002](#2002) %>)
+- [2001](#2001) %>)
+- [2000](#2000) %>)
+- [1999](#1999) %>)
+- [1998](#1998) %>)
+- [1997](#1997) %>)
+
 
 
 ## 2014

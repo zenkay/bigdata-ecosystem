@@ -7,12 +7,11 @@ Incomplete-but-useful list of big-data related projects packed into a JSON datas
 
 **Related projects**: [Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/) by [Javi Roman](https://github.com/javiroman), [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) by [Onur Akpolat](https://github.com/onurakpolat), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) by [Alexander Bayandin](https://github.com/bayandin), [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop) by [Youngwoo Kim](https://github.com/youngwookim), [Queues.io](https://github.com/strzalek/queues.io) by [Łukasz Strzałkowski](https://github.com/strzalek)
 
-How to contribute 
------------------
+## How to contribute 
 
 ### Projects
 
-Add a new JSON file to ```projects-data``` directory. Here is a [example](projects-data/apache_hadoop.json):
+Add a new JSON file to ```projects-data``` directory. Here is an [example](projects-data/apache_hadoop.json):
 
 ```
 {
@@ -27,7 +26,7 @@ Add a new JSON file to ```projects-data``` directory. Here is a [example](projec
 
 ### Papers
 
-Add a new JSON file to ```papers-data``` directory. Here is a [example](papers-data/2003-the_google_file_system.json):
+Add a new JSON file to ```papers-data``` directory. Here is an [example](papers-data/2003-the_google_file_system.json):
 
 ```
 {
@@ -40,7 +39,10 @@ Add a new JSON file to ```papers-data``` directory. Here is a [example](papers-d
 }
 ```
 
-## Categories
+Data 
+==========================
+
+## Projects
 
 <% categories.each do |category| -%>
 - [<%= category["name"] %>](#<%= category["name"].downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '') %>)
@@ -62,6 +64,10 @@ Add a new JSON file to ```papers-data``` directory. Here is a [example](papers-d
 <% end -%>
 
 # Papers
+
+<% Time.now.year.downto(1997).each do |year| -%>
+- [<%= year %>](#<%= year %>) %>)
+<% end %>
 
 <% papers.reverse_each do |year, papers_by_year| -%>
 
