@@ -50,7 +50,7 @@ Data
 
 <% categories.each do |category| -%>
 
-## <%= category["name"] %>
+### <%= category["name"] %>
 
 <% unless category["items"].nil? -%>
 <%- category["items"].each do |item| -%>
@@ -63,15 +63,15 @@ Data
 <% end -%>
 <% end -%>
 
-# Papers
+## Papers
 
 <% Time.now.year.downto(1997).each do |year| -%>
-- [<%= year %>](#<%= year %>) %>)
+- [<%= year %>](#<%= year %>)
 <% end %>
 
 <% papers.reverse_each do |year, papers_by_year| -%>
 
-## <%= year %>
+### <%= year %>
 
 <%- papers_by_year.each do |paper| -%>
 <% if paper["links"].any? -%>

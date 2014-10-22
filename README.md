@@ -77,11 +77,11 @@ Data
 
 
 
-## Frameworks
+### Frameworks
 
 * [Apache Hadoop](http://hadoop.apache.org/) - framework for distributed processing. Integrates MapReduce (parallel processing), YARN (job scheduling) and HDFS (distributed file system).
 
-## Distributed Programming
+### Distributed Programming
 
 * [AddThis Hydra](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
 * [Akela](https://github.com/mozilla-metrics/akela) - Mozilla's utility library for Hadoop, HBase, Pig, etc..
@@ -150,7 +150,7 @@ Data
 * [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 * [Twitter TSAR](https://blog.twitter.com/2014/tsar-a-timeseries-aggregator) - TimeSeries AggregatoR by Twitter.
 
-## Distributed Filesystem
+### Distributed Filesystem
 
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [BeeGFS](http://www.fhgfs.com/cms/) - formerly FhGFS, parallel distributed file system.
@@ -168,7 +168,7 @@ Data
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
 * [Tachyon](http://tachyon-project.org/) - reliable file sharing at memory speed across cluster frameworks.
 
-## Key-Map Data Model
+### Key-Map Data Model
 
 * [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
 * [Apache Accumulo](http://accumulo.apache.org/) - distribuited key/value store, built on Hadoop.
@@ -186,7 +186,7 @@ Data
 * [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
 
-## Document Data Model
+### Document Data Model
 
 * [Actian Versant](http://www.actian.com/products/operational-databases/) - commercial object-oriented database management systems .
 * [Crate Data](https://crate.io/) - is an open source massively scalable data store. It requires zero administration.
@@ -200,7 +200,7 @@ Data
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
 * [TokuMX](http://www.tokutek.com/products/tokumx-for-mongodb/) - High-Performance MongoDB Distribution.
 
-## Key-value Data Model
+### Key-value Data Model
 
 * [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies..
 * [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
@@ -220,7 +220,7 @@ Data
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TreodeDB](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
 
-## Graph Data Model
+### Graph Data Model
 
 * [Apache Giraph](http://giraph.apache.org/) - implementation of Pregel, based on Hadoop.
 * [Apache Spark Bagel](http://spark.incubator.apache.org/docs/0.7.3/bagel-programming-guide.html) - implementation of Pregel, part of Spark.
@@ -243,7 +243,7 @@ Data
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
 * [Twitter FlockDB](https://github.com/twitter/flockdb) - distribuited graph database.
 
-## NewSQL Databases
+### NewSQL Databases
 
 * [Actian Ingres](http://www.actian.com/products/operational-databases/) - commercially supported, open-source SQL relational database management system.
 * [BayesDB](http://probcomp.csail.mit.edu/bayesdb/index.html) - statistic oriented SQL database.
@@ -268,7 +268,7 @@ Data
 * [Teradata Database](http://it.teradata.com/products-and-services/Teradata-Database/) - complete relational database management system.
 * [VoltDB](http://voltdb.com/) - in-memory NewSQL database.
 
-## Columnar Databases
+### Columnar Databases
 
 * [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
 * [C-Store](http://db.lcs.mit.edu/projects/cstore/) - column oriented DBMS.
@@ -279,14 +279,14 @@ Data
 * [Pivotal Greenplum](https://www.pivotal.io/big-data/pivotal-greenplum-database) - purpose-built, dedicated analytic data warehouse.
 * [Vertica](http://www.vertica.com/) - is designed to manage large, fast-growing volumes of data and provide very fast query performance when used for data warehouses.
 
-## Time-Series Databases
+### Time-Series Databases
 
 * [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [InfluxDB](http://influxdb.com/) - distributed time series database.
 * [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
 
-## SQL-like processing
+### SQL-like processing
 
 * [Actian SQL for Hadoop](http://www.actian.com/products/analytics-platform/) - high performance interactive SQL access to all Hadoop data.
 * [AMPLAB Shark](https://github.com/amplab/shark/) - data warehouse system for Spark.
@@ -311,11 +311,11 @@ Data
 * [Tajo](http://tajo.incubator.apache.org/) - distributed data warehouse system on Hadoop.
 * [Trafodion](https://wiki.trafodion.org/wiki/index.php/Main_Page) - enterprise-class SQL-on-HBase solution targeting big data transactional or operational workloads.
 
-## Integrated Development Environments
+### Integrated Development Environments
 
 * [R-Studio](https://github.com/rstudio/rstudio) - IDE for R.
 
-## Data Ingestion
+### Data Ingestion
 
 * [Amazon Kinesis](http://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
 * [Apache Chukwa](http://incubator.apache.org/chukwa/) - data collection system.
@@ -340,7 +340,7 @@ Data
 * [Twitter Zipkin](https://github.com/twitter/zipkin) - distributed tracing system that helps us gather timing data for all the disparate services at Twitter.
 * [Vibe Data Stream](http://www.informatica.com/us/products/big-data/vibe-data-stream/) - streaming data collection for real-time Big Data analytics.
 
-## Message-oriented middleware
+### Message-oriented middleware
 
 * [ActiveMQ](http://activemq.apache.org/) - open source messaging and Integration Patterns server.
 * [Amazon Simple Queue Service](http://aws.amazon.com/sqs/) - fast, reliable, scalable, fully managed queue service.
@@ -363,7 +363,7 @@ Data
 * [Sidekiq](http://sidekiq.org/) - Simple, efficient background processing for Ruby.
 * [ZeroMQ](http://www.zeromq.org/) - The Intelligent Transport Layer.
 
-## Service Programming
+### Service Programming
 
 * [Akka Toolkit](http://akka.io/) - runtime for distributed, and fault tolerant event-driven applications on the JVM.
 * [Apache Avro](http://avro.apache.org/) - data serialization system.
@@ -381,7 +381,7 @@ Data
 * [Twitter Elephant Bird](https://github.com/kevinweil/elephant-bird) - libraries for working with LZOP-compressed data.
 * [Twitter Finagle](https://twitter.github.io/finagle/) - asynchronous network stack for the JVM.
 
-## Scheduling
+### Scheduling
 
 * [Apache Aurora](http://aurora.incubator.apache.org/) - is a service scheduler that runs on top of Apache Mesos.
 * [Apache Falcon](http://falcon.incubator.apache.org/) - data management framework.
@@ -391,7 +391,7 @@ Data
 * [Pinterest Pinball](http://engineering.pinterest.com/post/74429563460/pinball-building-workflow-management) - customizable platform for creating workflow managers.
 * [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
 
-## Machine Learning
+### Machine Learning
 
 * [Apache Mahout](http://mahout.apache.org/) - machine learning library for Hadoop.
 * [Ayasdi Core](http://www.ayasdi.com/) - tool for topological data analysis.
@@ -422,7 +422,7 @@ Data
 * [Wit](https://wit.ai/) - Natural Language for the Internet of Things.
 * [Wolfram Alpha](http://www.wolframalpha.com/) - computational knowledge engine.
 
-## Benchmarking
+### Benchmarking
 
 * [Apache Hadoop Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-3561) - micro-benchmarks for testing Hadoop performances.
 * [Berkeley SWIM Benchmark](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
@@ -434,7 +434,7 @@ Data
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce applications.
 * [Yahoo Gridmix3](https://developer.yahoo.com/blogs/hadoop/gridmix3-emulating-production-workload-apache-hadoop-450.html) - Hadoop cluster benchmarking from Yahoo engineer team.
 
-## Security
+### Security
 
 * [Apache Argus](http://argus.incubator.apache.org/) - framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
 * [Apache Knox Gateway](http://knox.apache.org/) - single point of secure access for Hadoop clusters.
@@ -442,7 +442,7 @@ Data
 * [PacketPig](https://github.com/packetloop/packetpig) - Open Source Big Data Security Analytics.
 * [Voltage SecureData](http://www.voltage.com/products/securedata-enterprise/) - data protection framework.
 
-## System Deployment
+### System Deployment
 
 * [Ankush](https://github.com/impetus-opensource/ankush) - A big data cluster management tool that creates and manages clusters of different technologies..
 * [Apache Ambari](http://ambari.apache.org/) - operational framework for Hadoop mangement.
@@ -468,7 +468,7 @@ Data
 * [Jumbune](http://www.jumbune.org/) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs..
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
 
-## Applications
+### Applications
 
 * [Adobe Spindle](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 * [Apache Kiji](http://www.kiji.org/) - framework to collect and analyze data in real-time, based on HBase.
@@ -489,13 +489,13 @@ Data
 * [Splunk](http://www.splunk.com/) - analyzer for machine-generated date.
 * [Talend](http://www.talend.com/products/big-data) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
 
-## Data Warehouse
+### Data Warehouse
 
 * [Google Mesa](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf) - highly scalable analytic data warehousing system.
 * [IBM BigInsights](http://www.ibm.com/software/data/infosphere/biginsights/) - data processing, warehousing and analytics.
 * [Microsoft Cosmos](http://research.microsoft.com/en-us/events/fs2011/helland_cosmos_big_data_and_big_challenges.pdf) - Microsoft's internal BigData analysis platform.
 
-## Search engine and framework
+### Search engine and framework
 
 * [Apache Lucene](http://lucene.apache.org/) - Search engine library.
 * [Apache Solr](http://lucene.apache.org/solr/) - Search platform for Apache Lucene.
@@ -516,7 +516,7 @@ Data
 * [LinkedIn Zoie](https://github.com/senseidb/zoie) - is a realtime search/indexing system written in Java.
 * [Sphnix Search Server](http://sphinxsearch.com/) - fulltext search engine.
 
-## MySQL forks and evolutions
+### MySQL forks and evolutions
 
 * [Amazon RDS](http://aws.amazon.com/rds/) - MySQL databases in Amazon's cloud.
 * [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
@@ -529,7 +529,7 @@ Data
 * [WebScaleSQL](http://webscalesql.org/) - is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale.
 * [Youtube Vitess](https://github.com/youtube/vitess) - provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 
-## PostgreSQL forks and evolutions
+### PostgreSQL forks and evolutions
 
 * [HadoopDB](http://db.cs.yale.edu/hadoopdb/hadoopdb.html) - hybrid of MapReduce and DBMS.
 * [IBM Netezza](http://www-01.ibm.com/software/data/netezza/) - high-performance data warehouse appliances.
@@ -538,7 +538,7 @@ Data
 * [Stado](http://www.stormdb.com/community/stado) - open source MPP database system solely targeted at data warehousing and data mart applications.
 * [Yahoo Everest](http://www.scribd.com/doc/3159239/70-Everest-PGCon-RT) - multi-peta-byte database / MPP derived by PostgreSQL.
 
-## Memcached forks and evolutions
+### Memcached forks and evolutions
 
 * [Box Tron](http://engineering.opendns.com/2014/09/16/caching-scale/) - proxy to memcached servers.
 * [Facebook McDipper](https://www.facebook.com/notes/facebook-engineering/mcdipper-a-key-value-cache-for-flash-storage/10151347090423920) - key/value cache for flash storage.
@@ -548,7 +548,7 @@ Data
 * [Twitter Fatcache](https://github.com/twitter/fatcache) - key/value cache for flash storage.
 * [Twitter Twemcache](https://github.com/twitter/twemcache) - fork of Memcache.
 
-## Embedded Databases
+### Embedded Databases
 
 * [Actian PSQL](http://www.actian.com/products/operational-databases/) - ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications.
 * [BerkeleyDB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.html) - a software library that provides a high-performance embedded database for key/value data.
@@ -558,7 +558,7 @@ Data
 * [LMDB](http://symas.com/mdb/) - ultra-fast, ultra-compact key-value embedded data store developed by Symas.
 * [RocksDB](http://rocksdb.org/) - embeddable persistent key-value store for fast storage based on LevelDB.
 
-## Business Intelligence
+### Business Intelligence
 
 * [ActivePivot](http://quartetfs.com/products/activepivot) - Java In-Memory OLAP cube stored in columns, with clearly decoupled pre/post processing.
 * [Adatao](http://adatao.com/pinsights.html) - business intelligence and data science platform.
@@ -582,7 +582,7 @@ Data
 * [Zeppelin](http://zeppelin-project.org/) - open source data analysis environment on top of Hadoop..
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
 
-## Data Visualization
+### Data Visualization
 
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
@@ -611,36 +611,36 @@ Data
 * [Square Cubism.js](http://square.github.io/cubism/) - aÊD3Êplugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data fromÊGraphite,ÊCubeÊand other sources.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
 
-## Time series database
+### Time series database
 
 * [Etsy StatsD](https://github.com/etsy/statsd/) - simple daemon for easy stats aggregation.
 * [Square Cube](http://square.github.io/cube/) - system for collecting timestamped events and deriving metrics.
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
 
-# Papers
+## Papers
 
-- [2014](#2014) %>)
-- [2013](#2013) %>)
-- [2012](#2012) %>)
-- [2011](#2011) %>)
-- [2010](#2010) %>)
-- [2009](#2009) %>)
-- [2008](#2008) %>)
-- [2007](#2007) %>)
-- [2006](#2006) %>)
-- [2005](#2005) %>)
-- [2004](#2004) %>)
-- [2003](#2003) %>)
-- [2002](#2002) %>)
-- [2001](#2001) %>)
-- [2000](#2000) %>)
-- [1999](#1999) %>)
-- [1998](#1998) %>)
-- [1997](#1997) %>)
+- [2014](#2014)
+- [2013](#2013)
+- [2012](#2012)
+- [2011](#2011)
+- [2010](#2010)
+- [2009](#2009)
+- [2008](#2008)
+- [2007](#2007)
+- [2006](#2006)
+- [2005](#2005)
+- [2004](#2004)
+- [2003](#2003)
+- [2002](#2002)
+- [2001](#2001)
+- [2000](#2000)
+- [1999](#1999)
+- [1998](#1998)
+- [1997](#1997)
 
 
 
-## 2014
+### 2014
 
 * **2014** - [3D Object Manipulation in a Single Photograph using Stock 3D Models](https://www.cs.cmu.edu/~om3d/papers/SIGGRAPH2014.pdf)
 * **2014** - [A Partitioning Framework for Aggressive Data Skipping](http://www.vldb.org/pvldb/vol7/p1617-sun.pdf)
@@ -658,7 +658,7 @@ Data
 * **2014** - [Scalable Object Detection using Deep Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf)
 * **2014** - [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v1.pdf)
 
-## 2013
+### 2013
 
 * **2013** - [A Demonstration of SpatailHadoop: An Efficient MapReduce Framework for Spatial Data](http://spatialhadoop.cs.umn.edu/publications/p744-eldawy.pdf)
 * **2013** - [CG_Hadoop: Computational Geometry in MapReduce](http://spatialhadoop.cs.umn.edu/publications/p0144_Eldawy.pdf)
@@ -685,7 +685,7 @@ Data
 * **2013** - [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)
 * **2013** - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores](http://hyperdex.org/papers/warp.pdf)
 
-## 2012
+### 2012
 
 * **2012** - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * **2012** - [A Sublinear Time Algorithm for PageRank Computations](http://research.microsoft.com/en-us/um/people/borgs/Papers/SublinearPR.pdf)
@@ -705,7 +705,7 @@ Data
 * **2012** - [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf)
 * **2012** - [The Vertica Analytic Database- C-Store 7 Years Later](http://vldb.org/pvldb/vol5/p1790_andrewlamb_vldb2012.pdf)
 
-## 2011
+### 2011
 
 * **2011** - [CrowdDB: Answering Queries with Crowdsourcing](http://csce.uark.edu/~tingxiny/courses/5013spring13/readingList/crowddb_sigmod2011.pdf)
 * **2011** - [CrowdDB: Query Processing with the VLDB Crowd](http://cs.brown.edu/~kraskat/pub/vldb11-crowddb_demo.pdf)
@@ -717,7 +717,7 @@ Data
 * **2011** - [Resilient Distributed Datasets- A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
 * **2011** - [Scarlett: Coping with Skewed Content Popularity in MapReduce Clusters](http://research.microsoft.com/en-us/um/people/srikanth/data/scarlett_eurosys11.pdf)
 
-## 2010
+### 2010
 
 * **2010** - [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf)
 * **2010** - [Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers](http://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf)
@@ -731,61 +731,61 @@ Data
 * **2010** - [Spark: Cluster Computing with Working Sets](http://www.cs.berkeley.edu/~matei/papers/2010/hotcloud_spark.pdf)
 * **2010** - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 
-## 2009
+### 2009
 
 * **2009** - [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 * **2009** - [HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads](http://www.vldb.org/pvldb/2/vldb09-861.pdf)
 * **2009** - [Vertical Paxos and Primary-Backup Replication](http://research.microsoft.com/en-us/um/people/lamport/pubs/vertical-paxos.pdf)
 
-## 2008
+### 2008
 
 * **2008** - [Chukwa: A large-scale monitoring system](http://mmm.csd.uwo.ca/courses/CS9842/papers/Paper-13-Ariel-Rabkin.pdf)
 * **2008** - [Column:Stores vs. Row-Stores- How Different Are They Really?](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
 * **2008** - [PNUTS: Yahoo!Õs Hosted Data Serving Platform](http://www.mpi-sws.org/~druschel/courses/ds/papers/cooper-pnuts.pdf)
 * **2008** - [Top 10 algorithms in data mining](http://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
 
-## 2007
+### 2007
 
 * **2007** - [Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](http://cs.brown.edu/~debrabant/cis570-website/papers/dryad.pdf)
 * **2007** - [Dynamo: Amazon's Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * **2007** - [Life beyond Distributed Transactions: an ApostateÕs Opinion](http://www.ics.uci.edu/~cs223/papers/cidr07p15.pdf)
 * **2007** - [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 
-## 2006
+### 2006
 
 * **2006** - [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * **2006** - [Ceph: A Scalable, High-Performance Distributed File System](http://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf)
 * **2006** - [Map-Reduce for Machine Learning on Multicore](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2006_725.pdf)
 * **2006** - [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 
-## 2005
+### 2005
 
 * **2005** - [Fast Paxos](http://research.microsoft.com/pubs/64624/tr-2005-112.pdf)
 
-## 2004
+### 2004
 
 * **2004** - [Cheap Paxos](http://research.microsoft.com/en-us/um/people/lamport/pubs/web-dsn-submission.pdf)
 * **2004** - [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
-## 2003
+### 2003
 
 * **2003** - [The Google File System](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
-## 2002
+### 2002
 
 * **2002** - [Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](http://lpd.epfl.ch/sgilbert/pubs/BrewersConjecture-SigAct.pdf)
 
-## 2001
+### 2001
 
 * **2001** - [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 * **2001** - [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 * **2001** - [Random Forrest](http://oz.berkeley.edu/~breiman/randomforest2001.pdf)
 
-## 1999
+### 1999
 
 * **1999** - [Pasting Small Votes for Classification in Large Databases and On-Line](http://link.springer.com/content/pdf/10.1023%2FA%3A1007563306331.pdf)
 * **1999** - [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
 
-## 1997
+### 1997
 
 * **1997** - [Application-Controlled Demand Paging for Out-of-Core Visualization](http://www.nas.nasa.gov/assets/pdf/techreports/1997/nas-97-010.pdf)
