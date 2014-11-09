@@ -1,0 +1,15 @@
+{
+  "name": "SF1R Search Engine",
+  "description": "distributed high performance massive data engine for enterprise/vertical search",
+  "abstract": "distributed search engine written in c++",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "SF1R",
+      "url": "http://github.com/izenecloud/sf1r-lite"
+    }
+  ]
+}
