@@ -471,6 +471,7 @@ Your contributions are always welcome!
 * [Haeinsa](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 * [HBase Coprocessor](https://blogs.apache.org/hbase/entry/coprocessor_introduction) - implementation of Percolator, part of HBase.
 * [hIndex](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase.
+* [SF1R Search Engine](http://github.com/izenecloud/sf1r-lite) - distributed search engine written in c++.
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - quickly and easily search for any content stored in HBase.
 * [LinkedIn Bobo](http://senseidb.github.io/bobo/) - is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.
 * [LinkedIn Cleo](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
