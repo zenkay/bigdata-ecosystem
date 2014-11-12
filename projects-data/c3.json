@@ -1,0 +1,15 @@
+{
+  "name": "C3",
+  "description": "D3-based reusable chart library",
+  "abstract": "D3-based reusable chart library",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://c3js.org/"
+    }
+  ]
+}

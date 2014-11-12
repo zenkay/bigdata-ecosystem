@@ -1,0 +1,15 @@
+{
+  "name": "Myria",
+  "description": "scalable Analytics-as-a-Service platform based on relational algebra",
+  "abstract": "scalable Analytics-as-a-Service platform based on relational algebra",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://myria.cs.washington.edu/"
+    }
+  ]
+}

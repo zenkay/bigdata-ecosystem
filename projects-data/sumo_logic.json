@@ -1,0 +1,15 @@
+{
+  "name": "Sumo Logic",
+  "description": "cloud based analyzer for machine-generated data.",
+  "abstract": "cloud based analyzer for machine-generated data.",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.sumologic.com/"
+    }
+  ]
+}

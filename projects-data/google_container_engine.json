@@ -1,0 +1,15 @@
+{
+  "name": "Google Container Engine",
+  "description": "Run Docker containers on Google Cloud Platform, powered by Kubernetes",
+  "abstract": "Run Docker containers on Google Cloud Platform, powered by Kubernetes",
+  "category": "Container Manager",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://cloud.google.com/container-engine/"
+    }
+  ]
+}

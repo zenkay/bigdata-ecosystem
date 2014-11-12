@@ -2,7 +2,7 @@
   "name": "TempoIQ",
   "description": "Cloud-based sensor analytics",
   "abstract": "Cloud-based sensor analytics",
-  "category": "Time series database",
+  "category": "Time-Series Databases",
   "tags": [
 
   ],

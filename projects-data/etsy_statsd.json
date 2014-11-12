@@ -2,7 +2,7 @@
   "name": "Etsy StatsD",
   "description": "simple daemon for easy stats aggregation",
   "abstract": "simple daemon for easy stats aggregation",
-  "category": "Time series database",
+  "category": "Time-Series Databases",
   "tags": [
 
   ],

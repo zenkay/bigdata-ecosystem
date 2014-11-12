@@ -1,0 +1,15 @@
+{
+  "name": "Kubernetes",
+  "description": "open source implementation of container cluster management",
+  "abstract": "open source implementation of container cluster management",
+  "category": "Container Manager",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/GoogleCloudPlatform/kubernetes"
+    }
+  ]
+}

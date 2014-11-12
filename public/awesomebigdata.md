@@ -25,16 +25,18 @@ Your contributions are always welcome!
     - [Benchmarking](#benchmarking)
     - [Security](#security)
     - [System Deployment](#system-deployment)
+    - [Container Manager](#container-manager)
     - [Applications](#applications)
-    - [Data Warehouse](#data-warehouse)
     - [Search engine and framework](#search-engine-and-framework)
     - [MySQL forks and evolutions](#mysql-forks-and-evolutions)
     - [PostgreSQL forks and evolutions](#postgresql-forks-and-evolutions)
     - [Memcached forks and evolutions](#memcached-forks-and-evolutions)
     - [Embedded Databases](#embedded-databases)
     - [Business Intelligence](#business-intelligence)
+    - [Data Analysis](#data-analysis)
+    - [Data Warehouse](#data-warehouse)
     - [Data Visualization](#data-visualization)
-    - [Time series database](#time-series-database)
+    - [Internet of Things](#internet-of-things)
 
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -95,6 +97,7 @@ Your contributions are always welcome!
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
 * [PigPen](https://github.com/Netflix/PigPen) - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
 * [Pinterest Pinlater](http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system) - asynchronous job execution system.
+* [Pubnub](http://www.pubnub.com/) - Data stream network.
 * [Pydoop](http://pydoop.sourceforge.net/docs/) - Python MapReduce and HDFS API for Hadoop.
 * [ScaleOut hServer](http://www.scaleoutsoftware.com/) - fast, scalable in-memory data grid for Hadoop.
 * [SeqPig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop .
@@ -105,6 +108,7 @@ Your contributions are always welcome!
 * [Stratio Streaming](http://www.openstratio.org/about/stratio-streaming/) - the union of a real-time messaging bus with a complex event processing engine using Spark Streaming.
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - usefull for counting activities of event streams over different time windows and finding the most active one.
+* [Sumo Logic](http://www.sumologic.com/) - cloud based analyzer for machine-generated data..
 * [Teradata QueryGrid](http://it.teradata.com/Teradata-QueryGrid/) - data-access layer that can orchestrate multiple modes of analysis across multiple databases plus Hadoop.
 * [TIBCO ActiveSpaces](http://www.tibco.com/products/automation/in-memory-computing/in-memory-data-grid/activespaces-enterprise-edition) - in-memory data grid.
 * [Torch](http://torch.ch/) - Scientific computing for LuaJIT.
@@ -166,6 +170,7 @@ Your contributions are always welcome!
 
 * [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies..
 * [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
+* [Couchbase ForestDB](https://github.com/couchbaselabs/forestdb) - Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie.
 * [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](http://geteventstore.com) - distributed time series database.
@@ -176,11 +181,13 @@ Your contributions are always welcome!
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
 * [RAMCloud](https://ramcloud.atlassian.net/wiki/display/RAM/RAMCloud) - storage system that provides large-scale low-latency storage by keeping all data in DRAM all the time and aggregating the main memories of thousands of servers.
 * [Redis](http://redis.io) - in memory key value datastore.
+* [Redis Cluster](http://redis.io/topics/cluster-spec) - distributed implementation of Redis.
 * [Redis Sentinel](http://redis.io/topics/sentinel) - system designed to help managing Redis instances.
 * [Riak](https://github.com/basho/riak) - a decentralized datastore.
 * [Storehaus](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TreodeDB](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
+* [Yahoo Sherpa](http://en.wikipedia.org/wiki/Yahoo_Sherpa) - hosted, distributed and geographically replicated key-valueÊcloud storage platform.
 
 ## Graph Data Model
 
@@ -194,6 +201,7 @@ Your contributions are always welcome!
 * [GraphLab PowerGraph](http://graphlab.org/projects/source.html) - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
 * [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
 * [Gremlin](https://github.com/tinkerpop/gremlin) - graph traversal Language.
+* [HyperGraphDB](http://www.hypergraphdb.org/) - general purpose, open-source data storage mechanism based on a powerful knowledge management formalism known as directed hypergraphs.
 * [InfiniteGraph](http://www.objectivity.com/infinitegraph) - distributed graph database.
 * [Infovore](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
@@ -244,9 +252,12 @@ Your contributions are always welcome!
 ## Time-Series Databases
 
 * [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
+* [Etsy StatsD](https://github.com/etsy/statsd/) - simple daemon for easy stats aggregation.
 * [InfluxDB](http://influxdb.com/) - distributed time series database.
 * [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
+* [Square Cube](http://square.github.io/cube/) - system for collecting timestamped events and deriving metrics.
+* [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
 
 ## SQL-like processing
 
@@ -261,6 +272,7 @@ Your contributions are always welcome!
 * [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html) - framework for interactive analysis, Inspired by Dremel.
 * [Concurrent Lingual](http://www.cascading.org/lingual/) - SQL-like query language for Cascading.
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
+* [eBay Kylin](http://www.kylin.io/) - Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets.
 * [Facebook PrestoDB](http://prestodb.io/) - distributed SQL query engine.
 * [JethroData](http://jethrodata.com/product-2/product/) - index-based SQL engine for Hadoop.
 * [Metanautix Quest](https://metanautix.com/product/) - data compute engine.
@@ -314,6 +326,7 @@ Your contributions are always welcome!
 * [Celery](http://www.celeryproject.org/) - Distributed Task Queue.
 * [Crossroads I/O](http://www.crossroads.io/) - library for building scalable and high performance distributed applications.
 * [Darner](https://github.com/wavii/darner) - simple, lightweight message queue.
+* [Facebook Iris](https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/) - a totally ordered queue of messaging updates with separate pointers into the queue indicating the last update sent to your Messenger app and the traditional storage tier.
 * [Gearman](http://gearman.org) - Job Server.
 * [HornetQ](http://www.jboss.org/hornetq) - open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
 * [IronMQ](http://www.iron.io/mq) - easy-to-use highly available message queuing service.
@@ -376,6 +389,7 @@ Your contributions are always welcome!
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Sparkling Water](http://databricks.com/blog/2014/06/30/sparkling-water-h20-spark.html) - combine H2OÕs Machine Learning capabilities with the power of the Spark platform.
+* [Theano](http://deeplearning.net/software/theano/) - Python package for deep learning that can utilize NVIDIA's CUDA toolkit to run on the GPU.
 * [Thunder](http://thefreemanlab.com/thunder/) - Large-scale analysis of neural data.
 * [Vahara](https://github.com/Ganglion/varaha) - Machine learning and natural language processing with Apache Pig.
 * [Viv](http://viv.ai/) - global platform that enables developers to plug into and create an intelligent, conversational interface to anything.
@@ -383,6 +397,7 @@ Your contributions are always welcome!
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
 * [Wit](https://wit.ai/) - Natural Language for the Internet of Things.
 * [Wolfram Alpha](http://www.wolframalpha.com/) - computational knowledge engine.
+* [YHat ScienceOps](https://yhathq.com/products/scienceops) - platform for deploying, managing, and scaling predictive models in production applications.
 
 ## Benchmarking
 
@@ -416,6 +431,7 @@ Your contributions are always welcome!
 * [Apache YARN](http://hortonworks.com/hadoop/yarn/) - Cluster manager.
 * [Brooklyn](http://brooklyncentral.github.io/) - library that simplifies application deployment and management.
 * [Buildoop](http://buildoop.github.io/) - Similar to Apache BigTop based on Groovy language.
+* [Cloudera Director](http://www.cloudera.com/content/cloudera/en/products-and-services/director.html) - a comprehensive data management platform with the flexibility and power to evolve with your business.
 * [Cloudera HUE](http://gethue.com/) - web application for interacting with Hadoop.
 * [Deimos](https://github.com/mesosphere/deimos) - Mesos containerizer hooks for Docker.
 * [Develoop](http://deploop.github.io/) - tool for provisioning, managing and monitoring Apache Hadoop.
@@ -429,6 +445,14 @@ Your contributions are always welcome!
 * [Hortonworks HOYA](http://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
 * [Jumbune](http://www.jumbune.org/) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs..
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
+* [Myriad](https://github.com/mesos/myriad) - a mesos framework designed for scaling YARN clusters on Mesos. Myriad can expand or shrink one or more YARN clusters in response to events as per configured rules and policies..
+* [Neflix SimianArmy](https://github.com/Netflix/SimianArmy) - a suite of tools for keeping your cloud operating in top form.
+
+## Container Manager
+
+* [Docker](https://www.docker.com/) - an open platform for developers and sysadmins to build, ship, and run distributed applications.
+* [Google Container Engine](https://cloud.google.com/container-engine/) - Run Docker containers on Google Cloud Platform, powered by Kubernetes.
+* [Kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) - open source implementation of container cluster management.
 
 ## Applications
 
@@ -450,12 +474,6 @@ Your contributions are always welcome!
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 * [Splunk](http://www.splunk.com/) - analyzer for machine-generated date.
 * [Talend](http://www.talend.com/products/big-data) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
-
-## Data Warehouse
-
-* [Google Mesa](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf) - highly scalable analytic data warehousing system.
-* [IBM BigInsights](http://www.ibm.com/software/data/infosphere/biginsights/) - data processing, warehousing and analytics.
-* [Microsoft Cosmos](http://research.microsoft.com/en-us/events/fs2011/helland_cosmos_big_data_and_big_challenges.pdf) - Microsoft's internal BigData analysis platform.
 
 ## Search engine and framework
 
@@ -485,7 +503,8 @@ Your contributions are always welcome!
 * [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
 * [Google Cloud SQL](https://developers.google.com/cloud-sql/) - MySQL databases in Google's cloud.
 * [MariaDB](https://mariadb.org/) - enhanced, drop-in replacement for MySQL.
-* [MySQL Cluster](http://www.mysql.com/products/cluster/) - MySQL implementation using NDB Cluster storage engine.
+* [MariaDB Galera](https://mariadb.com/kb/en/mariadb/documentation/replication/galera/) - a synchronous multi-master cluster for MariaDB.
+* [MySQL Cluster](http://www.mysql.com/products/cluster/) - MySQL implementation using NDB Cluster storage engine providing shared-nothing clustering and auto-sharding.
 * [Percona Server](http://www.percona.com/software/percona-server) - enhanced, drop-in replacement for MySQL.
 * [ProxySQL](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
 * [TokuDB](http://www.tokutek.com/products/tokudb-for-mysql/) - TokuDB is a storage engine for MySQL and MariaDB.
@@ -533,6 +552,7 @@ Your contributions are always welcome!
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
 * [LinkedIn GoSpeed](http://engineering.linkedin.com/performance/monitor-and-improve-web-performance-using-rum-data-visualization) - provides RUM data processing, visualization, monitoring, and analyses data daily, hourly, or on a near real-time basis.
+* [Map-D](http://www.map-d.com/) - GPU in-memory database, big data analysis and visualization platform.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
@@ -545,11 +565,24 @@ Your contributions are always welcome!
 * [Zeppelin](http://zeppelin-project.org/) - open source data analysis environment on top of Hadoop..
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
 
+## Data Analysis
+
+* [Myria](http://myria.cs.washington.edu/) - scalable Analytics-as-a-Service platform based on relational algebra.
+* [Zillabyte](http://zillabyte.com/) - an API for distributed data computation. Scale with your data..
+
+## Data Warehouse
+
+* [Google Mesa](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf) - highly scalable analytic data warehousing system.
+* [IBM BigInsights](http://www.ibm.com/software/data/infosphere/biginsights/) - data processing, warehousing and analytics.
+* [Microsoft Cosmos](http://research.microsoft.com/en-us/events/fs2011/helland_cosmos_big_data_and_big_challenges.pdf) - Microsoft's internal BigData analysis platform.
+
 ## Data Visualization
 
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
+* [C3](http://c3js.org/) - D3-based reusable chart library.
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
+* [Chartist.js](https://github.com/gionkunz/chartist-js) - another open source HTML5 Charts visualization.
 * [Crossfilter](http://square.github.io/crossfilter/) - avaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js.
 * [Cubism](https://github.com/square/cubism) - JavaScript library for time series visualization.
 * [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks.
@@ -559,11 +592,12 @@ Your contributions are always welcome!
 * [Freeboard](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
 * [Gephi](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections.
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
-* [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
+* [Grafana](http://grafana.org/) - open source, feature rich metrics dashboard and graph editor for  Graphite, InfluxDB & OpenTSDB.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
 * [Keylines](http://keylines.com/) - toolkit for visualizing the networks in your data.
+* [Kibana](http://www.elasticsearch.org/overview/kibana/) - visualize logs and time-stamped data.
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
@@ -574,8 +608,8 @@ Your contributions are always welcome!
 * [Square Cubism.js](http://square.github.io/cubism/) - aÊD3Êplugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data fromÊGraphite,ÊCubeÊand other sources.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
 
-## Time series database
+## Internet of Things
 
-* [Etsy StatsD](https://github.com/etsy/statsd/) - simple daemon for easy stats aggregation.
-* [Square Cube](http://square.github.io/cube/) - system for collecting timestamped events and deriving metrics.
-* [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
+* [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
+* [Evrything](https://evrythng.com/) - Making products smart.
+* [ThingWorx](http://www.thingworx.com/) - Rapid development and connection of intelligent systems.

@@ -1,0 +1,15 @@
+{
+  "name": "Neflix SimianArmy",
+  "description": "a suite of tools for keeping your cloud operating in top form",
+  "abstract": "a suite of tools for keeping your cloud operating in top form",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/SimianArmy"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Kibana",
+  "description": "visualize logs and time-stamped data",
+  "abstract": "visualize logs and time-stamped data",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.elasticsearch.org/overview/kibana/"
+    }
+  ]
+}

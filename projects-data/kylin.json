@@ -1,0 +1,15 @@
+{
+  "name": "Kylin",
+  "description": "open source Distributed Analytics Engine from eBay",
+  "abstract": "open source Distributed Analytics Engine from eBay",
+  "category": null,
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.kylin.io/"
+    }
+  ]
+}

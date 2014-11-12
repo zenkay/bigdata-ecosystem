@@ -2,7 +2,7 @@
   "name": "Square Cube",
   "description": "system for collecting timestamped events and deriving metrics",
   "abstract": "system for collecting timestamped events and deriving metrics",
-  "category": "Time series database",
+  "category": "Time-Series Databases",
   "tags": [
 
   ],

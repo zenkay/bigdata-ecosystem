@@ -20,15 +20,17 @@
 		"Benchmarking",
 		"Security",
 		"System Deployment",
+		"Container Manager",
 		"Applications",
-		"Data Warehouse",
 		"Search engine and framework",
 		"MySQL forks and evolutions",
 		"PostgreSQL forks and evolutions",
 		"Memcached forks and evolutions",
 		"Embedded Databases",
 		"Business Intelligence",
+		"Data Analysis",
+		"Data Warehouse",
 		"Data Visualization",
-		"Time series database"
+		"Internet of Things"
 	]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Grafana",
-  "description": "graphite dashboard frontend, editor and graph composer.",
-  "abstract": "graphite dashboard frontend, editor and graph composer",
+  "description": "open source, feature rich metrics dashboard and graph editor for  Graphite, InfluxDB & OpenTSDB",
+  "abstract": "open source, feature rich metrics dashboard and graph editor for  Graphite, InfluxDB & OpenTSDB",
   "category": "Data Visualization",
   "tags": [
 

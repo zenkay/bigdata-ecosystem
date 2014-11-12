@@ -1,0 +1,15 @@
+{
+  "name": "Theano",
+  "description": "Python package for deep learning that can utilize NVIDIA's CUDA toolkit to run on the GPU",
+  "abstract": "Python package for deep learning that can utilize NVIDIA's CUDA toolkit to run on the GPU",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://deeplearning.net/software/theano/"
+    }
+  ]
+}

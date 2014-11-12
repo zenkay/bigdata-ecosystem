@@ -1,0 +1,15 @@
+{
+  "name": "Cloudera Director",
+  "description": "a comprehensive data management platform with the flexibility and power to evolve with your business",
+  "abstract": "a comprehensive data management platform with the flexibility and power to evolve with your business",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.cloudera.com/content/cloudera/en/products-and-services/director.html"
+    }
+  ]
+}

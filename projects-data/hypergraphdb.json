@@ -1,0 +1,15 @@
+{
+  "name": "HyperGraphDB",
+  "description": "general purpose, open-source data storage mechanism based on a powerful knowledge management formalism known as directed hypergraphs",
+  "abstract": "general purpose, open-source data storage mechanism based on a powerful knowledge management formalism known as directed hypergraphs",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.hypergraphdb.org/"
+    }
+  ]
+}

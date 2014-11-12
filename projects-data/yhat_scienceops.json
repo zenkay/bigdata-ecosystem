@@ -1,0 +1,15 @@
+{
+  "name": "YHat ScienceOps",
+  "description": "platform for deploying, managing, and scaling predictive models in production applications",
+  "abstract": "platform for deploying, managing, and scaling predictive models in production applications",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://yhathq.com/products/scienceops"
+    }
+  ]
+}

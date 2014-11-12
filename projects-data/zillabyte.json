@@ -1,0 +1,15 @@
+{
+  "name": "Zillabyte",
+  "description": "an API for distributed data computation. Scale with your data.",
+  "abstract": "an API for distributed data computation. Scale with your data.",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://zillabyte.com/"
+    }
+  ]
+}

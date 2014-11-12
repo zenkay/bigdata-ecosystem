@@ -1,7 +1,7 @@
 {
   "name": "MySQL Cluster",
-  "description": "MySQL implementation using NDB Cluster storage engine",
-  "abstract": "MySQL implementation using NDB Cluster storage engine",
+  "description": "MySQL implementation using NDB Cluster storage engine providing shared-nothing clustering and auto-sharding",
+  "abstract": "MySQL implementation using NDB Cluster storage engine providing shared-nothing clustering and auto-sharding",
   "category": "MySQL forks and evolutions",
   "tags": [
 

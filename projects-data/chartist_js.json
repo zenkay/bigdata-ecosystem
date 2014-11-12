@@ -1,0 +1,15 @@
+{
+  "name": "Chartist.js",
+  "description": "another open source HTML5 Charts visualization",
+  "abstract": "another open source HTML5 Charts visualization",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/gionkunz/chartist-js"
+    }
+  ]
+}

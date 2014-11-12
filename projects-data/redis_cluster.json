@@ -1,0 +1,15 @@
+{
+  "name": "Redis Cluster",
+  "description": "distributed implementation of Redis",
+  "abstract": "distributed implementation of Redis",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://redis.io/topics/cluster-spec"
+    }
+  ]
+}

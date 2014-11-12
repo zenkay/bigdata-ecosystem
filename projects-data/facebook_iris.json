@@ -1,0 +1,15 @@
+{
+  "name": "Facebook Iris",
+  "description": "a totally ordered queue of messaging updates with separate pointers into the queue indicating the last update sent to your Messenger app and the traditional storage tier",
+  "abstract": "a totally ordered queue of messaging updates with separate pointers into the queue indicating the last update sent to your Messenger app and the traditional storage tier",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/"
+    }
+  ]
+}
