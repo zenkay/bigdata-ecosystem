@@ -589,7 +589,8 @@ Your contributions are always welcome!
 * [D3](http://d3js.org/) - javaScript library for manipulating documents.
 * [DC.js](http://dc-js.github.io/dc.js/) - Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
-* [Freeboard](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
+* [FnordMetric ChartSQL](http://fnordmetric.io/chartsql/) - allows you to write SQL queries that return charts instead of tables. The charts are rendered as SVG vector graphics..
+* [Freeboard](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
 * [Gephi](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections.
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
 * [Grafana](http://grafana.org/) - open source, feature rich metrics dashboard and graph editor for  Graphite, InfluxDB & OpenTSDB.
