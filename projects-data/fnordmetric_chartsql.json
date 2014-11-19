@@ -1,0 +1,8 @@
+{
+  "name": "FnordMetric ChartSQL",
+  "description": "allows you to write SQL queries that return charts instead of tables.",
+  "abstract": "allows you to write SQL queries that return charts instead of tables. The charts are rendered as SVG vector graphics.",
+  "category": "Data Visualization",
+  "tags": ["sql", "timeseries", "svg"],
+  "links": [{"text": "FnordMetric ChartSQL", "url": "http://fnordmetric.io/chartsql/"}]
+}
