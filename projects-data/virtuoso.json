@@ -1,0 +1,15 @@
+{
+  "name": "Virtuoso",
+  "description": "a scalable cross-platform server that combines Relational, Graph, and Document Data Management with Web Application Server and Web Services Platform functionality",
+  "abstract": "a scalable cross-platform server that combines Relational, Graph, and Document Data Management with Web Application Server and Web Services Platform functionality",
+  "category": "http://virtuoso.openlinksw.com/",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "NewSQL Databases"
+    }
+  ]
+}

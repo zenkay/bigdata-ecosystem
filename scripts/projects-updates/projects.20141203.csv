@@ -1,0 +1,11 @@
+Amazon Aurora;https://aws.amazon.com/rds/aurora/;MySQL forks and evolutions;a MySQL-compatible, relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases;
+Amazon EC2 Container Service;https://aws.amazon.com/ecs/;Container Manager;a highly scalable, high performance container management service that supports Docker containers;
+IBM dashDB;https://cloudant.com/dashdb/;Data Warehouse;Data Warehousing and Analysis Needs, all in the Cloud;
+Google Firebase;https://www.firebase.com/;Embedded Databases;a powerful API to store and sync data in realtime;
+Clusterpoint;http://www.clusterpoint.com/;Document Data Model;a database software for high-speed storage and large-scale processing of XML and JSON data on clusters of commodity hardware;
+FairCom c-treeACE;http://www.faircom.com/ace/ace_t.php;Embedded Databases;a cross-platform database engine;
+Virtuoso;NewSQL Databases;http://virtuoso.openlinksw.com/;a scalable cross-platform server that combines Relational, Graph, and Document Data Management with Web Application Server and Web Services Platform functionality;
+Stardog;http://stardog.com/;Graph Data Model;graph database: search, query, reasoning, and constraints in a lightweight, pure Java system;
+Rocket;https://coreos.com/blog/rocket/;Container Manager;an alternative to the Docker runtime, designed for server environments with the most rigorous security and production requirements;
+Lavastorm Analytics;http://www.lavastorm.com/;Business Intelligence;used for audit analytics, revenue assurance, fraud management, and customer experience management;
+ParStream DB;Columnar Databases;https://www.parstream.com/product/parstream-db/;a distributed, massively parallel processing columnar database based on a shared nothing architecture

@@ -1,0 +1,15 @@
+{
+  "name": "IBM dashDB",
+  "description": "Data Warehousing and Analysis Needs, all in the Cloud",
+  "abstract": "Data Warehousing and Analysis Needs, all in the Cloud",
+  "category": "Data Warehouse",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://cloudant.com/dashdb/"
+    }
+  ]
+}

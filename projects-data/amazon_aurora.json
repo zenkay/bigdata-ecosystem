@@ -1,0 +1,15 @@
+{
+  "name": "Amazon Aurora",
+  "description": "a MySQL-compatible, relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases",
+  "abstract": "a MySQL-compatible, relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases",
+  "category": "MySQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://aws.amazon.com/rds/aurora/"
+    }
+  ]
+}

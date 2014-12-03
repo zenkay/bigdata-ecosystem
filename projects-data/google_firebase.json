@@ -1,0 +1,15 @@
+{
+  "name": "Google Firebase",
+  "description": "a powerful API to store and sync data in realtime",
+  "abstract": "a powerful API to store and sync data in realtime",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://www.firebase.com/"
+    }
+  ]
+}

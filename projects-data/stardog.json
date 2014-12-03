@@ -1,0 +1,15 @@
+{
+  "name": "Stardog",
+  "description": "graph database: search, query, reasoning, and constraints in a lightweight, pure Java system",
+  "abstract": "graph database: search, query, reasoning, and constraints in a lightweight, pure Java system",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://stardog.com/"
+    }
+  ]
+}

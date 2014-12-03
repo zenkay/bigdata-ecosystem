@@ -155,6 +155,7 @@ Your contributions are always welcome!
 ## Document Data Model
 
 * [Actian Versant](http://www.actian.com/products/operational-databases/) - commercial object-oriented database management systems .
+* [Clusterpoint](http://www.clusterpoint.com/) - a database software for high-speed storage and large-scale processing of XML and JSON data on clusters of commodity hardware.
 * [Crate Data](https://crate.io/) - is an open source massively scalable data store. It requires zero administration.
 * [Facebook Apollo](http://www.infoq.com/news/2014/06/facebook-apollo) - Facebook’s Paxos-like NoSQL database.
 * [jumboDB](http://comsysto.github.io/jumbodb/) - document oriented datastore over Hadoop.
@@ -210,6 +211,7 @@ Your contributions are always welcome!
 * [OrientDB](http://www.orientechnologies.com/) - document and graph database.
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
 * [Sparksee](http://www.sparsity-technologies.com/) - scalable high-performance graph database.
+* [Stardog](http://stardog.com/) - graph database: search, query, reasoning, and constraints in a lightweight, pure Java system.
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
 * [Twitter FlockDB](https://github.com/twitter/flockdb) - distribuited graph database.
 
@@ -450,9 +452,11 @@ Your contributions are always welcome!
 
 ## Container Manager
 
+* [Amazon EC2 Container Service](https://aws.amazon.com/ecs/) - a highly scalable, high performance container management service that supports Docker containers.
 * [Docker](https://www.docker.com/) - an open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [Google Container Engine](https://cloud.google.com/container-engine/) - Run Docker containers on Google Cloud Platform, powered by Kubernetes.
 * [Kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) - open source implementation of container cluster management.
+* [Rocket](https://coreos.com/blog/rocket/) - an alternative to the Docker runtime, designed for server environments with the most rigorous security and production requirements.
 
 ## Applications
 
@@ -499,6 +503,7 @@ Your contributions are always welcome!
 
 ## MySQL forks and evolutions
 
+* [Amazon Aurora](https://aws.amazon.com/rds/aurora/) - a MySQL-compatible, relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.
 * [Amazon RDS](http://aws.amazon.com/rds/) - MySQL databases in Amazon's cloud.
 * [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
 * [Google Cloud SQL](https://developers.google.com/cloud-sql/) - MySQL databases in Google's cloud.
@@ -534,6 +539,8 @@ Your contributions are always welcome!
 
 * [Actian PSQL](http://www.actian.com/products/operational-databases/) - ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications.
 * [BerkeleyDB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.html) - a software library that provides a high-performance embedded database for key/value data.
+* [FairCom c-treeACE](http://www.faircom.com/ace/ace_t.php) - a cross-platform database engine.
+* [Google Firebase](https://www.firebase.com/) - a powerful API to store and sync data in realtime.
 * [HamsterDB](http://hamsterdb.com/) - transactional key-value database.
 * [HanoiDB](https://github.com/krestenkrab/hanoidb) - Erlang LSM BTree Storage.
 * [LevelDB](https://code.google.com/p/leveldb/) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -551,6 +558,7 @@ Your contributions are always welcome!
 * [Datapine](http://www.datapine.com/) - self-service business intelligence tool in the cloud.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
+* [Lavastorm Analytics](http://www.lavastorm.com/) - used for audit analytics, revenue assurance, fraud management, and customer experience management.
 * [LinkedIn GoSpeed](http://engineering.linkedin.com/performance/monitor-and-improve-web-performance-using-rum-data-visualization) - provides RUM data processing, visualization, monitoring, and analyses data daily, hourly, or on a near real-time basis.
 * [Map-D](http://www.map-d.com/) - GPU in-memory database, big data analysis and visualization platform.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
@@ -574,6 +582,7 @@ Your contributions are always welcome!
 
 * [Google Mesa](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf) - highly scalable analytic data warehousing system.
 * [IBM BigInsights](http://www.ibm.com/software/data/infosphere/biginsights/) - data processing, warehousing and analytics.
+* [IBM dashDB](https://cloudant.com/dashdb/) - Data Warehousing and Analysis Needs, all in the Cloud.
 * [Microsoft Cosmos](http://research.microsoft.com/en-us/events/fs2011/helland_cosmos_big_data_and_big_challenges.pdf) - Microsoft's internal BigData analysis platform.
 
 ## Data Visualization

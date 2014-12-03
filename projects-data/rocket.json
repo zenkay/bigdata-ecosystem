@@ -1,0 +1,15 @@
+{
+  "name": "Rocket",
+  "description": "an alternative to the Docker runtime, designed for server environments with the most rigorous security and production requirements",
+  "abstract": "an alternative to the Docker runtime, designed for server environments with the most rigorous security and production requirements",
+  "category": "Container Manager",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://coreos.com/blog/rocket/"
+    }
+  ]
+}

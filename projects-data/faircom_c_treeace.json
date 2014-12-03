@@ -1,0 +1,15 @@
+{
+  "name": "FairCom c-treeACE",
+  "description": "a cross-platform database engine",
+  "abstract": "a cross-platform database engine",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.faircom.com/ace/ace_t.php"
+    }
+  ]
+}

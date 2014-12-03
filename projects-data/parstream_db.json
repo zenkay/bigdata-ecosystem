@@ -1,0 +1,15 @@
+{
+  "name": "ParStream DB",
+  "description": "a distributed, massively parallel processing columnar database based on a shared nothing architecture",
+  "abstract": "a distributed, massively parallel processing columnar database based on a shared nothing architecture",
+  "category": "https://www.parstream.com/product/parstream-db/",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Columnar Databases"
+    }
+  ]
+}

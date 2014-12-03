@@ -1,0 +1,15 @@
+{
+  "name": "Clusterpoint",
+  "description": "a database software for high-speed storage and large-scale processing of XML and JSON data on clusters of commodity hardware",
+  "abstract": "a database software for high-speed storage and large-scale processing of XML and JSON data on clusters of commodity hardware",
+  "category": "Document Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.clusterpoint.com/"
+    }
+  ]
+}

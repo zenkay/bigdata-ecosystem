@@ -1,0 +1,15 @@
+{
+  "name": "Amazon EC2 Container Service",
+  "description": "a highly scalable, high performance container management service that supports Docker containers",
+  "abstract": "a highly scalable, high performance container management service that supports Docker containers",
+  "category": "Container Manager",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://aws.amazon.com/ecs/"
+    }
+  ]
+}
