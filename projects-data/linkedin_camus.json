@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Camus",
+  "description": "Kafka to HDFS pipeline. It is a mapreduce job that does distributed data loads out of Kafka",
+  "abstract": "Kafka to HDFS pipeline. It is a mapreduce job that does distributed data loads out of Kafka",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/linkedin/camus"
+    }
+  ]
+}

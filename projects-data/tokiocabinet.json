@@ -1,0 +1,15 @@
+{
+  "name": "TokioCabinet",
+  "description": "a library of routines for managing a database",
+  "abstract": "a library of routines for managing a database",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://fallabs.com/tokyocabinet/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Pinalytics",
+  "description": "Pinterestâs data analytics engine",
+  "abstract": "Pinterestâs data analytics engine",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://engineering.pinterest.com/post/104418761649/building-pinalytics-pinterests-data-analytics"
+    }
+  ]
+}

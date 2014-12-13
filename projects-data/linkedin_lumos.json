@@ -1,0 +1,15 @@
+{
+  "name": "Linkedin Lumos",
+  "description": "bridge from OLTP to OLAP for use it on Hadoop",
+  "abstract": "bridge from OLTP to OLAP for use it on Hadoop",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.slideshare.net/Hadoop_Summit/th-220p230-cramachandranv1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Amazon Lambda",
+  "description": "a compute service that runs your code in response to events and automatically manages the compute resources for you",
+  "abstract": "a compute service that runs your code in response to events and automatically manages the compute resources for you",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://aws.amazon.com/lambda/"
+    }
+  ]
+}

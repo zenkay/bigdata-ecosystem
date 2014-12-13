@@ -1,0 +1,15 @@
+{
+  "name": "Hadapt",
+  "description": "a native implementation of SQL for the Apache Hadoop open-source project",
+  "abstract": "a native implementation of SQL for the Apache Hadoop open-source project",
+  "category": "SQL-like processing",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://hadapt.com/"
+    }
+  ]
+}

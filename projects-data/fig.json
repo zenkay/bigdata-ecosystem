@@ -1,0 +1,15 @@
+{
+  "name": "Fig",
+  "description": "fast, isolated development environments using Docker",
+  "abstract": "fast, isolated development environments using Docker",
+  "category": "Container Manager",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.fig.sh/"
+    }
+  ]
+}

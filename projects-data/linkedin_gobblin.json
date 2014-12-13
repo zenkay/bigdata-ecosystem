@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Gobblin",
+  "description": "a framework for Solving Big Data Ingestion Problem",
+  "abstract": "a framework for Solving Big Data Ingestion Problem",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://engineering.linkedin.com/data-ingestion/gobblin-big-data-ease"
+    }
+  ]
+}

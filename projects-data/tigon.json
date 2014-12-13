@@ -1,0 +1,15 @@
+{
+  "name": "Tigon",
+  "description": "a distributed framework built on Apache HadoopTM and Apache HBaseTM for real-time, high-throughput, low-latency data processing and analytics applications",
+  "abstract": "a distributed framework built on Apache HadoopTM and Apache HBaseTM for real-time, high-throughput, low-latency data processing and analytics applications",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://cask.co/products/tigon/"
+    }
+  ]
+}

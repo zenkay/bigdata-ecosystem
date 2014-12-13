@@ -1,0 +1,15 @@
+{
+  "title": "Execution Primitives for Scalable Joins and Aggregations in Map Reduce",
+  "year": "2014",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://www.vldb.org/pvldb/vol7/p1462-vemuri.pdf"
+    }
+  ]
+}

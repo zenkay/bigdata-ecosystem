@@ -1,0 +1,15 @@
+{
+  "name": "Amazon SimpleDB",
+  "description": "a highly available and flexible non-relational data store that offloads the work of database administration",
+  "abstract": "a highly available and flexible non-relational data store that offloads the work of database administration",
+  "category": "Document Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://aws.amazon.com/simpledb/"
+    }
+  ]
+}

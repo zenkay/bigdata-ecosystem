@@ -1,0 +1,15 @@
+{
+  "name": "MemcacheDB",
+  "description": "a distributed key-value storage system designed for persistent",
+  "abstract": "a distributed key-value storage system designed for persistent",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://memcachedb.org/"
+    }
+  ]
+}

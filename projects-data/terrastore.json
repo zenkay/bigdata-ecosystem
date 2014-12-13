@@ -1,0 +1,15 @@
+{
+  "name": "Terrastore",
+  "description": "a modern document store which provides advanced scalability and elasticity features without sacrificing consistency",
+  "abstract": "a modern document store which provides advanced scalability and elasticity features without sacrificing consistency",
+  "category": "Document Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://code.google.com/p/terrastore/"
+    }
+  ]
+}

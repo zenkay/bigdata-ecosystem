@@ -1,0 +1,20 @@
+Fig;http://www.fig.sh/;Container Manager;fast, isolated development environments using Docker
+LinkedIn Cubert;https://github.com/linkedin/Cubert;Distributed Programming;a fast and efficient batch computation engine for complex analysis and reporting of massive datasets on Hadoop
+LinkedIn Pinot;http://engineering.linkedin.com/analytics/real-time-analytics-massive-scale-pinot;Data Analysis;a distributed system that supports columnar indexes with the ability to add new types of indexes
+LinkedIn Gobblin;http://engineering.linkedin.com/data-ingestion/gobblin-big-data-ease;Data Ingestion;a framework for Solving Big Data Ingestion Problem
+LinkedIn Camus;https://github.com/linkedin/camus;Data Ingestion;Kafka to HDFS pipeline. It is a mapreduce job that does distributed data loads out of Kafka
+Linkedin Lumos;http://www.slideshare.net/Hadoop_Summit/th-220p230-cramachandranv1;Data Ingestion;bridge from OLTP to OLAP for use it on Hadoop
+Hazelcast;http://hazelcast.com/products/hazelcast/;Distributed Programming;In-Memory Data Grid
+Drools;http://www.drools.org/;Distributed Programming;a Business Rules Management System (BRMS) solution
+Amazon Lambda;http://aws.amazon.com/lambda/;Distributed Programming;a compute service that runs your code in response to events and automatically manages the compute resources for you
+TokioCabinet;http://fallabs.com/tokyocabinet/;Embedded Databases;a library of routines for managing a database
+Apache Blur;https://incubator.apache.org/blur/;Search engine and framework;a search engine capable of querying massive amounts of structured data at incredible speeds
+Scalaris;https://code.google.com/p/scalaris/;Key-value Data Model;a distributed transactional key-value store
+Amazon SimpleDB;http://aws.amazon.com/simpledb/;Document Data Model;a highly available and flexible non-relational data store that offloads the work of database administration
+Terrastore;https://code.google.com/p/terrastore/;Document Data Model;a modern document store which provides advanced scalability and elasticity features without sacrificing consistency
+KAI;http://sourceforge.net/projects/kai/;Key-value Data Model;a distributed key-value datastore
+MemcacheDB;http://memcachedb.org/;Key-value Data Model;a distributed key-value storage system designed for persistent
+Pinalytics;http://engineering.pinterest.com/post/104418761649/building-pinalytics-pinterests-data-analytics;Data Analysis;Pinterest’s data analytics engine
+Apache BookKeeper;http://zookeeper.apache.org/bookkeeper/;Data Ingestion;a distributed logging service called BookKeeper and a distributed publish/subscribe system built on top of BookKeeper called Hedwig
+Tigon;http://cask.co/products/tigon/;Distributed Programming;a distributed framework built on Apache HadoopTM and Apache HBaseTM for real-time, high-throughput, low-latency data processing and analytics applications
+Hadapt;http://hadapt.com/;SQL-like processing;a native implementation of SQL for the Apache Hadoop open-source project

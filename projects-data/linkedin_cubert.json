@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Cubert",
+  "description": "a fast and efficient batch computation engine for complex analysis and reporting of massive datasets on Hadoop",
+  "abstract": "a fast and efficient batch computation engine for complex analysis and reporting of massive datasets on Hadoop",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/linkedin/Cubert"
+    }
+  ]
+}

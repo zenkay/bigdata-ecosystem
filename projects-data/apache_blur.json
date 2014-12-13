@@ -1,0 +1,15 @@
+{
+  "name": "Apache Blur",
+  "description": "a search engine capable of querying massive amounts of structured data at incredible speeds",
+  "abstract": "a search engine capable of querying massive amounts of structured data at incredible speeds",
+  "category": "Search engine and framework",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://incubator.apache.org/blur/"
+    }
+  ]
+}

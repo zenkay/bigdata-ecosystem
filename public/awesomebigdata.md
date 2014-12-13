@@ -49,6 +49,7 @@ Your contributions are always welcome!
 
 * [AddThis Hydra](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
 * [Akela](https://github.com/mozilla-metrics/akela) - Mozilla's utility library for Hadoop, HBase, Pig, etc..
+* [Amazon Lambda](http://aws.amazon.com/lambda/) - a compute service that runs your code in response to events and automatically manages the compute resources for you.
 * [AMPLab SIMR](http://databricks.github.io/simr/) - run Spark on Hadoop MapReduce v1.
 * [AMPLab Succinct](http://succinct.cs.berkeley.edu/wp/wordpress/) - Enabling Queries on Compressed Data.
 * [Apache Crunch](http://crunch.apache.org/) - a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce.
@@ -71,6 +72,7 @@ Your contributions are always welcome!
 * [Datasalt Pangool](https://github.com/datasalt/pangool) - alternative MapReduce paradigm.
 * [DataTorrent StrAM](https://www.datatorrent.com/) - real-time engine is designed to enable distributed, asynchronous, real time in-memory big-data computations in as unblocked a way as possible, with minimal overhead and impact on performance.
 * [DistributedR](http://www.vertica.com/distributedr/) - scalable high-performance platform for the R language.
+* [Drools](http://www.drools.org/) - a Business Rules Management System (BRMS) solution.
 * [eBay Oink](https://github.com/eBay/oink) - REST based interface for PIG execution.
 * [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) - Hadoop enhancement which removes single point of failure.
 * [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
@@ -80,11 +82,13 @@ Your contributions are always welcome!
 * [Google Dataflow](http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
 * [Google MapReduce](http://research.google.com/archive/mapreduce.html) - map reduce framework.
 * [Google MillWheel](http://research.google.com/pubs/pub41378.html) - fault tolerant stream processing framework.
+* [Hazelcast](http://hazelcast.com/products/hazelcast/) - In-Memory Data Grid.
 * [HParser](http://www.informatica.com/us/products/big-data/hparser/) - data parsing transformation environment optimized for Hadoop.
 * [IBM Streams](http://www.ibm.com/software/products/en/infosphere-streams) - advanced analytic platform that allows user-developed applications to quickly ingest, analyze and correlate information as it arrives from thousands of real-time sources.
 * [JAQL](https://code.google.com/p/jaql/) - declarative programming language for working with structured, semi-structured and unstructured data.
 * [Kite](http://kitesdk.org/docs/current/) - is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
 * [Kryo](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
+* [LinkedIn Cubert](https://github.com/linkedin/Cubert) - a fast and efficient batch computation engine for complex analysis and reporting of massive datasets on Hadoop.
 * [Lipstick](https://github.com/Netflix/Lipstick) - Pig workflow visualization tool.
 * [Metamarkers Druid](http://druid.io/) - framework for real-time analysis of large datasets.
 * [Netflix Aegisthus](https://github.com/Netflix/aegisthus) - Bulk Data Pipeline out of Cassandra. implements a reader for the SSTable format and provides a map/reduce program to create a compacted snapshot of the data contained in a column family.
@@ -111,6 +115,7 @@ Your contributions are always welcome!
 * [Sumo Logic](http://www.sumologic.com/) - cloud based analyzer for machine-generated data..
 * [Teradata QueryGrid](http://it.teradata.com/Teradata-QueryGrid/) - data-access layer that can orchestrate multiple modes of analysis across multiple databases plus Hadoop.
 * [TIBCO ActiveSpaces](http://www.tibco.com/products/automation/in-memory-computing/in-memory-data-grid/activespaces-enterprise-edition) - in-memory data grid.
+* [Tigon](http://cask.co/products/tigon/) - a distributed framework built on Apache HadoopTM and Apache HBaseTM for real-time, high-throughput, low-latency data processing and analytics applications.
 * [Torch](http://torch.ch/) - Scientific computing for LuaJIT.
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
 * [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
@@ -155,6 +160,7 @@ Your contributions are always welcome!
 ## Document Data Model
 
 * [Actian Versant](http://www.actian.com/products/operational-databases/) - commercial object-oriented database management systems .
+* [Amazon SimpleDB](http://aws.amazon.com/simpledb/) - a highly available and flexible non-relational data store that offloads the work of database administration.
 * [Clusterpoint](http://www.clusterpoint.com/) - a database software for high-speed storage and large-scale processing of XML and JSON data on clusters of commodity hardware.
 * [Crate Data](https://crate.io/) - is an open source massively scalable data store. It requires zero administration.
 * [Facebook Apollo](http://www.infoq.com/news/2014/06/facebook-apollo) - Facebook’s Paxos-like NoSQL database.
@@ -165,6 +171,7 @@ Your contributions are always welcome!
 * [MongoDB](http://www.mongodb.org/) - Document-oriented database system.
 * [RavenDB](http://www.ravendb.net/) - A transactional, open-source Document Database.
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
+* [Terrastore](https://code.google.com/p/terrastore/) - a modern document store which provides advanced scalability and elasticity features without sacrificing consistency.
 * [TokuMX](http://www.tokutek.com/products/tokumx-for-mongodb/) - High-Performance MongoDB Distribution.
 
 ## Key-value Data Model
@@ -176,8 +183,10 @@ Your contributions are always welcome!
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](http://geteventstore.com) - distributed time series database.
 * [HyperDex](http://hyperdex.org/) - next generation key-value store.
+* [KAI](http://sourceforge.net/projects/kai/) - a distributed key-value datastore.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
+* [MemcacheDB](http://memcachedb.org/) - a distributed key-value storage system designed for persistent.
 * [Netflix Dynomite](http://techblog.netflix.com/2014/03/netflixoss-season-2-episode-1.html) - thin Dynamo-based replication for cached data.
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
 * [RAMCloud](https://ramcloud.atlassian.net/wiki/display/RAM/RAMCloud) - storage system that provides large-scale low-latency storage by keeping all data in DRAM all the time and aggregating the main memories of thousands of servers.
@@ -185,6 +194,7 @@ Your contributions are always welcome!
 * [Redis Cluster](http://redis.io/topics/cluster-spec) - distributed implementation of Redis.
 * [Redis Sentinel](http://redis.io/topics/sentinel) - system designed to help managing Redis instances.
 * [Riak](https://github.com/basho/riak) - a decentralized datastore.
+* [Scalaris](https://code.google.com/p/scalaris/) - a distributed transactional key-value store.
 * [Storehaus](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TreodeDB](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
@@ -276,6 +286,7 @@ Your contributions are always welcome!
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
 * [eBay Kylin](http://www.kylin.io/) - Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets.
 * [Facebook PrestoDB](http://prestodb.io/) - distributed SQL query engine.
+* [Hadapt](http://hadapt.com/) - a native implementation of SQL for the Apache Hadoop open-source project.
 * [JethroData](http://jethrodata.com/product-2/product/) - index-based SQL engine for Hadoop.
 * [Metanautix Quest](https://metanautix.com/product/) - data compute engine.
 * [Pivotal HAWQ](http://www.gopivotal.com/pivotal-products/data/pivotal-hd) - SQL-like data warehouse system for Hadoop.
@@ -294,6 +305,7 @@ Your contributions are always welcome!
 ## Data Ingestion
 
 * [Amazon Kinesis](http://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
+* [Apache BookKeeper](http://zookeeper.apache.org/bookkeeper/) - a distributed logging service called BookKeeper and a distributed publish/subscribe system built on top of BookKeeper called Hedwig.
 * [Apache Chukwa](http://incubator.apache.org/chukwa/) - data collection system.
 * [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 * [Apache Samza](http://samza.incubator.apache.org/) - stream processing framework, based on Kafla and YARN.
@@ -305,8 +317,11 @@ Your contributions are always welcome!
 * [Google Photon](http://research.google.com/pubs/pub41318.html) - geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency.
 * [Heka](https://github.com/mozilla-services/heka) - open source stream processing software system.
 * [HIHO](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
+* [LinkedIn Camus](https://github.com/linkedin/camus) - Kafka to HDFS pipeline. It is a mapreduce job that does distributed data loads out of Kafka.
 * [LinkedIn Databus](http://data.linkedin.com/projects/databus) - stream of change capture events for a database.
+* [LinkedIn Gobblin](http://engineering.linkedin.com/data-ingestion/gobblin-big-data-ease) - a framework for Solving Big Data Ingestion Problem.
 * [LinkedIn Kamikaze](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
+* [Linkedin Lumos](http://www.slideshare.net/Hadoop_Summit/th-220p230-cramachandranv1) - bridge from OLTP to OLAP for use it on Hadoop.
 * [LinkedIn White Elephant](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
 * [Logstash](http://logstash.net) - a tool for managing events and logs.
 * [Netflix Suro](https://github.com/Netflix/suro) - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data based on Chukwa.
@@ -454,6 +469,7 @@ Your contributions are always welcome!
 
 * [Amazon EC2 Container Service](https://aws.amazon.com/ecs/) - a highly scalable, high performance container management service that supports Docker containers.
 * [Docker](https://www.docker.com/) - an open platform for developers and sysadmins to build, ship, and run distributed applications.
+* [Fig](http://www.fig.sh/) - fast, isolated development environments using Docker.
 * [Google Container Engine](https://cloud.google.com/container-engine/) - Run Docker containers on Google Cloud Platform, powered by Kubernetes.
 * [Kubernetes](https://github.com/GoogleCloudPlatform/kubernetes) - open source implementation of container cluster management.
 * [Rocket](https://coreos.com/blog/rocket/) - an alternative to the Docker runtime, designed for server environments with the most rigorous security and production requirements.
@@ -481,6 +497,7 @@ Your contributions are always welcome!
 
 ## Search engine and framework
 
+* [Apache Blur](https://incubator.apache.org/blur/) - a search engine capable of querying massive amounts of structured data at incredible speeds.
 * [Apache Lucene](http://lucene.apache.org/) - Search engine library.
 * [Apache Solr](http://lucene.apache.org/solr/) - Search platform for Apache Lucene.
 * [ElasticSearch](http://www.elasticsearch.org/) - Search and analytics engine based on Apache Lucene.
@@ -546,6 +563,7 @@ Your contributions are always welcome!
 * [LevelDB](https://code.google.com/p/leveldb/) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 * [LMDB](http://symas.com/mdb/) - ultra-fast, ultra-compact key-value embedded data store developed by Symas.
 * [RocksDB](http://rocksdb.org/) - embeddable persistent key-value store for fast storage based on LevelDB.
+* [TokioCabinet](http://fallabs.com/tokyocabinet/) - a library of routines for managing a database.
 
 ## Business Intelligence
 
@@ -575,7 +593,9 @@ Your contributions are always welcome!
 
 ## Data Analysis
 
+* [LinkedIn Pinot](http://engineering.linkedin.com/analytics/real-time-analytics-massive-scale-pinot) - a distributed system that supports columnar indexes with the ability to add new types of indexes.
 * [Myria](http://myria.cs.washington.edu/) - scalable Analytics-as-a-Service platform based on relational algebra.
+* [Pinalytics](http://engineering.pinterest.com/post/104418761649/building-pinalytics-pinterests-data-analytics) - Pinterestâs data analytics engine.
 * [Zillabyte](http://zillabyte.com/) - an API for distributed data computation. Scale with your data..
 
 ## Data Warehouse

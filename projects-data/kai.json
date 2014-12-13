@@ -1,0 +1,15 @@
+{
+  "name": "KAI",
+  "description": "a distributed key-value datastore",
+  "abstract": "a distributed key-value datastore",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://sourceforge.net/projects/kai/"
+    }
+  ]
+}

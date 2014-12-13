@@ -1,0 +1,15 @@
+{
+  "name": "Drools",
+  "description": "a Business Rules Management System (BRMS) solution",
+  "abstract": "a Business Rules Management System (BRMS) solution",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.drools.org/"
+    }
+  ]
+}

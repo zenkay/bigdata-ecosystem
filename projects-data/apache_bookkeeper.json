@@ -1,0 +1,15 @@
+{
+  "name": "Apache BookKeeper",
+  "description": "a distributed logging service called BookKeeper and a distributed publish/subscribe system built on top of BookKeeper called Hedwig",
+  "abstract": "a distributed logging service called BookKeeper and a distributed publish/subscribe system built on top of BookKeeper called Hedwig",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://zookeeper.apache.org/bookkeeper/"
+    }
+  ]
+}

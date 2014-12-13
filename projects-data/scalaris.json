@@ -1,0 +1,15 @@
+{
+  "name": "Scalaris",
+  "description": "a distributed transactional key-value store",
+  "abstract": "a distributed transactional key-value store",
+  "category": "Key-value Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://code.google.com/p/scalaris/"
+    }
+  ]
+}

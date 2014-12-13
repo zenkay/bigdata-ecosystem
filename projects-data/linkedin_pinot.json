@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Pinot",
+  "description": "a distributed system that supports columnar indexes with the ability to add new types of indexes",
+  "abstract": "a distributed system that supports columnar indexes with the ability to add new types of indexes",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://engineering.linkedin.com/analytics/real-time-analytics-massive-scale-pinot"
+    }
+  ]
+}
