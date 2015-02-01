@@ -116,6 +116,7 @@ Data
 * [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
 * [Facebook Scuba](https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920) - distributed in-memory datastore.
 * [Geotrellis](http://geotrellis.io/) - geographic data processing engine for high performance applications.
+* [GetStream Stream Framework](https://github.com/tschellenbach/Stream-Framework) - a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework.
 * [Google Dataflow](http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
 * [Google MapReduce](http://research.google.com/archive/mapreduce.html) - map reduce framework.
@@ -129,11 +130,15 @@ Data
 * [LinkedIn Cubert](https://github.com/linkedin/Cubert) - a fast and efficient batch computation engine for complex analysis and reporting of massive datasets on Hadoop.
 * [Lipstick](https://github.com/Netflix/Lipstick) - Pig workflow visualization tool.
 * [Metamarkers Druid](http://druid.io/) - framework for real-time analysis of large datasets.
+* [Microsoft Azure Stream Analytics](http://azure.microsoft.com/en-us/services/stream-analytics/) - an event processing engine that helps uncover real-time insights from devices, sensors, infrastructure, applications and data.
+* [Microsoft Orleans](http://research.microsoft.com/en-us/projects/orleans/) - a straightforward approach to building distributed high-scale computing applications.
+* [Microsoft Trill](http://research.microsoft.com/en-us/projects/trill/) - a high-performance in-memory incremental analytics engine.
 * [Netflix Aegisthus](https://github.com/Netflix/aegisthus) - Bulk Data Pipeline out of Cassandra. implements a reader for the SSTable format and provides a map/reduce program to create a compacted snapshot of the data contained in a column family.
 * [Netflix Lipstick](https://github.com/Netflix/Lipstick) - Pig Visualization framework.
 * [Netflix Mantis](http://qconsf.com/presentation/mantis-netflixs-event-stream-processing-system) - Event Stream Processing System.
 * [Netflix PigPen](https://github.com/Netflix/PigPen) - map-reduce for Clojure whiche compiles to Apache Pig.
 * [Netflix STAASH](https://github.com/Netflix/staash) - language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems.
+* [Netflix Surus](https://github.com/Netflix/Surus) - a collection of tools for analysis in Pig and Hive.
 * [Netflix Zeno](https://github.com/Netflix/zeno) - Netflix's In-Memory Data Propagation Framework.
 * [Nextflow](http://www.nextflow.io) - Dataflow oriented toolkit for parallel and distributed computational pipelines.
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
@@ -144,6 +149,7 @@ Data
 * [ScaleOut hServer](http://www.scaleoutsoftware.com/) - fast, scalable in-memory data grid for Hadoop.
 * [SeqPig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop .
 * [SigmoidAnalytics Spork](https://github.com/sigmoidanalytics/spork) - Pig on Apache Spark.
+* [spark-dataflow](https://github.com/cloudera/spark-dataflow) - allows users to execute dataflow pipelines with Spark.
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. .
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/) - unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive.
 * [SQLStream Blaze](http://www.sqlstream.com/blaze/) - stream processing platform.
@@ -220,6 +226,7 @@ Data
 * [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](http://geteventstore.com) - distributed time series database.
+* [Exasolution](http://www.exasol.com/en/products/exasolution/) - an in-memory, column-oriented, relational database management system.
 * [HyperDex](http://hyperdex.org/) - next generation key-value store.
 * [KAI](http://sourceforge.net/projects/kai/) - a distributed key-value datastore.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
@@ -258,6 +265,7 @@ Data
 * [Neo4j](http://www.neo4j.org/) - graph database writting entirely in Java.
 * [OrientDB](http://www.orientechnologies.com/) - document and graph database.
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
+* [Pinterest Zen](https://www.youtube.com/watch?v=yI0vHfgK6oI) - Pinterest's Graph Storage Service.
 * [Sparksee](http://www.sparsity-technologies.com/) - scalable high-performance graph database.
 * [Stardog](http://stardog.com/) - graph database: search, query, reasoning, and constraints in a lightweight, pure Java system.
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
@@ -282,6 +290,7 @@ Data
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
 * [Pivotal GemFire XD](http://gemfirexd.docs.gopivotal.com/latest/userguide/index.html?q=about_users_guide.html/) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
 * [SAP HANA](http://www.saphana.com/welcome) - is an in-memory, column-oriented, relational database management system.
+* [Segment SQL](https://segment.com/redshift) - Track your customer data to Amazon Redshift.
 * [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
@@ -377,7 +386,7 @@ Data
 * [Apache Qpid](http://qpid.apache.org/) - messaging tools that speak AMQP and support many languages and platforms.
 * [Apollo](http://activemq.apache.org/apollo/) - ActiveMQ's next generation of messaging.
 * [Beanstalkd](http://kr.github.io/beanstalkd/) - simple, fast work queue.
-* [Bit.ly NSQ](https://github.com/bitly/nsq) - realtime distributed message processing at scale.
+* [Bit.ly NSQ](http://nsq.io/) - realtime distributed message processing at scale.
 * [Celery](http://www.celeryproject.org/) - Distributed Task Queue.
 * [Crossroads I/O](http://www.crossroads.io/) - library for building scalable and high performance distributed applications.
 * [Darner](https://github.com/wavii/darner) - simple, lightweight message queue.
@@ -433,6 +442,7 @@ Data
 * [Decider](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
+* [fbcunn](https://github.com/facebook/fbcunn) - Deep Learning CUDA Extensions from Facebook AI Research.
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) - cognitive computing system.
@@ -462,14 +472,15 @@ Data
 * [Hive-benchmarks](https://github.com/yhuai/hive-benchmarks) - some benchmarking queries for Apache Hive.
 * [Hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale..
 * [Intel HiBench](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
+* [Mesosaurus](https://github.com/mesosphere/mesosaurus) - Mesos task load simulator framework for (cluster and Mesos) performance analysis.
 * [Netflix Inviso](https://hadoopsummit.uservoice.com/forums/242807-hadoop-deployment-operations-track/suggestions/5568461-inviso-maximizing-big-data-performance-at-netflix) - performance focused Big Data tool.
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce applications.
 * [Yahoo Gridmix3](https://developer.yahoo.com/blogs/hadoop/gridmix3-emulating-production-workload-apache-hadoop-450.html) - Hadoop cluster benchmarking from Yahoo engineer team.
 
 ### Security
 
-* [Apache Argus](http://argus.incubator.apache.org/) - framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
 * [Apache Knox Gateway](http://knox.apache.org/) - single point of secure access for Hadoop clusters.
+* [Apache Ranger](http://argus.incubator.apache.org/) - framework to enable, monitor and manage comprehensive data security across the Hadoop platform (formerly called Apache Argus).
 * [Apache Sentry](http://incubator.apache.org/projects/sentry.html) - security module for data stored in Hadoop.
 * [PacketPig](https://github.com/packetloop/packetpig) - Open Source Big Data Security Analytics.
 * [Voltage SecureData](http://www.voltage.com/products/securedata-enterprise/) - data protection framework.
@@ -500,8 +511,11 @@ Data
 * [Hortonworks HOYA](http://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
 * [Jumbune](http://www.jumbune.org/) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs..
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
+* [Minotaur](https://github.com/stealthly/minotaur) - scripts/recipes/configs to spin up VPC-based infrastructure in AWS from scratch and deploy labs to it.
 * [Myriad](https://github.com/mesos/myriad) - a mesos framework designed for scaling YARN clusters on Mesos. Myriad can expand or shrink one or more YARN clusters in response to events as per configured rules and policies..
 * [Neflix SimianArmy](https://github.com/Netflix/SimianArmy) - a suite of tools for keeping your cloud operating in top form.
+* [Tumblr Collins](http://tumblr.github.io/collins/) - Infrastructure management for engineers.
+* [Tumblr Genesis](http://tumblr.github.io/genesis/) - a tool for data center automation.
 
 ### Container Manager
 
@@ -562,6 +576,7 @@ Data
 * [Amazon RDS](http://aws.amazon.com/rds/) - MySQL databases in Amazon's cloud.
 * [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
 * [Google Cloud SQL](https://developers.google.com/cloud-sql/) - MySQL databases in Google's cloud.
+* [HiveDB](http://www.hivedb.org/) - an open source framework for horizontally partitioning MySQL systems.
 * [MariaDB](https://mariadb.org/) - enhanced, drop-in replacement for MySQL.
 * [MariaDB Galera](https://mariadb.com/kb/en/mariadb/documentation/replication/galera/) - a synchronous multi-master cluster for MariaDB.
 * [MySQL Cluster](http://www.mysql.com/products/cluster/) - MySQL implementation using NDB Cluster storage engine providing shared-nothing clustering and auto-sharding.
@@ -594,6 +609,7 @@ Data
 
 * [Actian PSQL](http://www.actian.com/products/operational-databases/) - ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications.
 * [BerkeleyDB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.html) - a software library that provides a high-performance embedded database for key/value data.
+* [eXtreme DB](http://www.mcobject.com/extremedbfamily.shtml) - in-memory database combines exceptional performance, reliability and developer efficiency in a proven real-time embedded database engine.
 * [FairCom c-treeACE](http://www.faircom.com/ace/ace_t.php) - a cross-platform database engine.
 * [Google Firebase](https://www.firebase.com/) - a powerful API to store and sync data in realtime.
 * [HamsterDB](http://hamsterdb.com/) - transactional key-value database.
@@ -684,6 +700,7 @@ Data
 
 ## Papers
 
+- [Published in 2015](#2015)
 - [Published in 2014](#2014)
 - [Published in 2013](#2013)
 - [Published in 2012](#2012)
@@ -705,39 +722,74 @@ Data
 
 
 
+### 2015
+
+* **2015** - [Deep Image: Scaling up Image Recognition](http://arxiv.org/pdf/1501.02876v1.pdf)
+* **2015** - [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](http://arxiv.org/pdf/1412.7580v2.pdf)
+* **2015** - [Machine Learning Methods for Computer Security](http://drops.dagstuhl.de/opus/volltexte/2013/3790/pdf/dagrep_v002_i009_p109_s12371.pdf)
+* **2015** - [Self-Repairing Disk Arrays](http://arxiv.org/pdf/1501.00513v1.pdf)
+* **2015** - [Trill: A High-Performance Incremental Query Processor for Diverse Analytics](http://research.microsoft.com/pubs/231690/trill-vldb2015.pdf)
+
 ### 2014
 
 * **2014** - [3D Object Manipulation in a Single Photograph using Stock 3D Models](https://www.cs.cmu.edu/~om3d/papers/SIGGRAPH2014.pdf)
 * **2014** - [A Partitioning Framework for Aggressive Data Skipping](http://www.vldb.org/pvldb/vol7/p1617-sun.pdf?imm_mid=0c5589&cmp=em-strata-na-na-newsltr_20141022)
 * **2014** - [A Self-Configurable Geo-Replicated Cloud Storage System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-ardekani.pdf)
+* **2014** - [All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-pillai.pdf)
+* **2014** - [Arrakis: The Operating System is the Control Plane](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf)
+* **2014** - [Automatic Construction of Inference-Supporting Knowledge Bases](http://allenai.org/content/publications/clark_balasubramanian.pdf)
+* **2014** - [Bayesian group latent factor analysis with structured sparse priors](http://arxiv.org/pdf/1411.2698v1.pdf)
+* **2014** - [Chinese Open Relation Extraction for Knowledge Acquisition](http://allenai.org/content/publications/10094_Paper.pdf)
 * **2014** - [Coordination Avoidance in Database Systems](http://www.bailis.org/papers/ca-vldb2015.pdf)
 * **2014** - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](http://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+* **2014** - [Diagram Understanding in Geometry Questions](http://allenai.org/content/publications/diagram_understanding_in_geometry_questions.pdf)
+* **2014** - [Discourse Complements Lexical Semantics for Non-factoid Answer Reranking](http://allenai.org/content/publications/acl2014.pdf)
+* **2014** - [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
+* **2014** - [Eidetic Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-devecsery.pdf)
 * **2014** - [Execution Primitives for Scalable Joins and Aggregations in Map Reduce](http://www.vldb.org/pvldb/vol7/p1462-vemuri.pdf)
+* **2014** - [Extracting More Concurrency from Distributed Transactions](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-mu.pdf)
 * **2014** - [f4: Facebookâs Warm BLOB Storage System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-muralidhar.pdf)
+* **2014** - [Fast Databases with Fast Durability and Recovery Through Multicore Parallelism](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zheng_wenting.pdf)
 * **2014** - [Fastpass: A Centralized "Zero-Queue" Datacenter Network](http://fastpass.mit.edu/Fastpass-SIGCOMM14-Perry.pdf)
 * **2014** - [First-person Hyper-lapse Videos](http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/paper/hyperlapse.pdf)
+* **2014** - [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/glove.pdf)
+* **2014** - [GraphX: Graph Processing in a Distributed Dataflow Framework](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-gonzalez.pdf)
 * **2014** - [Guess Who Rated This Movie: Identifying Users Through Subspace Clustering](http://arxiv.org/pdf/1408.2055v1.pdf)
 * **2014** - [In Search of an Understandable Consensus Algorithm](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf)
+* **2014** - [Learning Everything about Anything: Webly-Supervised Visual Concept Learning](http://allenai.org/content/publications/objectNgrams_cvpr14.pdf)
+* **2014** - [Learning to Solve Arithmetic Word Problems with Verb Categorization](http://allenai.org/content/publications/Arithmetic_Word_Problems.pdf)
 * **2014** - [Log-structured Memory for DRAM-based Storage](https://www.usenix.org/system/files/conference/fast14/fast14-paper_rumble.pdf)
 * **2014** - [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](http://www.cse.buffalo.edu/tech-reports/2014-04.pdf)
 * **2014** - [MapGraph: A High Level API for Fast Development of High Performance Graph Analytics on GPUs](http://mapgraph.io/papers/MapGraph-SIGMOD-2014.pdf)
 * **2014** - [Mesa: Geo-Replicated, Near Real-Time, Scalable Data Warehousing](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42851.pdf)
+* **2014** - [Modeling Biological Processes for Reading Comprehension](http://allenai.org/content/publications/berant-srikumar-manning-emnlp14.pdf)
 * **2014** - [Orca A Modular Query Optimizer Architecture for Big Data](http://www.pivotal.io/sites/default/files/SIGMODMay2014HAWQAdvantages.pdf)
 * **2014** - [Pigeon: A Spatial MapReduce Language](http://spatialhadoop.cs.umn.edu/publications/ICDE14_demo_763.pdf)
+* **2014** - [Project Adam: Building an Efficient and Scalable Deep Learning Training System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf)
+* **2014** - [R Markdown: Integrating A Reproducible Analysis Tool into Introductory Statistics](http://arxiv.org/pdf/1402.1894v1.pdf)
+* **2014** - [Salt: Combining ACID and BASE in a Distributed Database](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-xie.pdf)
 * **2014** - [Scalable Object Detection using Deep Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf)
 * **2014** - [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v1.pdf)
 * **2014** - [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/pdf/1411.4555v1.pdf)
+* **2014** - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
+* **2014** - [The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf)
+* **2014** - [The Trill Incremental Analytics Engine](http://research.microsoft.com/pubs/214609/trill-TR.pdf)
 
 ### 2013
 
 * **2013** - [A Demonstration of SpatailHadoop: An Efficient MapReduce Framework for Spatial Data](http://spatialhadoop.cs.umn.edu/publications/p744-eldawy.pdf)
+* **2013** - [A Lightweight and High Performance Monolingual Word Aligner](http://www.cs.utexas.edu/users/pclark/papers/yao-jacana-wordalign-acl2013.pdf)
+* **2013** - [Answer Extraction as Sequence Tagging with Tree Edit Distance](http://www.cs.utexas.edu/users/pclark/papers/yao-jacana-qa-naacl2013.pdf)
+* **2013** - [Automatic Coupling of Answer Extraction and Information Retrieval](http://www.cs.utexas.edu/users/pclark/papers/yao-jacana-ir-acl2013.pdf)
 * **2013** - [CG_Hadoop: Computational Geometry in MapReduce](http://spatialhadoop.cs.umn.edu/publications/p0144_Eldawy.pdf)
 * **2013** - [Consistency-Based Service Level Agreements for Cloud Storage](http://delivery.acm.org/10.1145/2530000/2522731/p309-terry.pdf)
 * **2013** - [Dimension Independent Matrix Square using MapReduce](http://arxiv.org/pdf/1304.1467v2.pdf)
 * **2013** - [Druid A Real-time Analytical Data Store](http://static.druid.io/docs/druid.pdf)
+* **2013** - [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
 * **2013** - [Event labeling combining ensemble detectors and background knowledge](http://link.springer.com/content/pdf/10.1007%2Fs13748-013-0040-3.pdf)
 * **2013** - [Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask](http://sigops.org/sosp/sosp13/papers/p33-david.pdf)
 * **2013** - [F1: A Distributed SQL Database That Scales ](http://stevereads.com/papers_to_read/f1_a_distributed_sql_database_that_scales.pdf)
+* **2013** - [Fast Training of Convolutional Networks through FFTs](http://arxiv.org/pdf/1312.5851v5.pdf)
 * **2013** - [GraphX: A Resilient Distributed Graph System on Spark](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/05/grades-graphx_with_fonts.pdf)
 * **2013** - [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality 2013 Estimation Algorithm](http://stefanheule.com/papers/edbt2013-hyperloglog.pdf)
 * **2013** - [MillWheel: Fault-Tolerant Stream Processing at Internet Scale](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41378.pdf)
@@ -750,6 +802,7 @@ Data
 * **2013** - [Scalable Progressive Analytics on Big Data in the Cloud](http://research.microsoft.com/pubs/200169/now-vldb.pdf)
 * **2013** - [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf&sa=U&ei=gWJjU97pOeqxsQSDkYDAAg&ved=0CBsQFjAA&usg=AFQjCNGMeuWne9ywncbgux_XiZW6lQWHNw)
 * **2013** - [Scuba: Diving into Data at Facebook](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf)
+* **2013** - [Semi-Markov Phrase-based Monolingual Alignment](http://www.cs.utexas.edu/users/pclark/papers/EMNLP2013-phraseAlign.pdf)
 * **2013** - [Shark: SQL and Rich Analytics at Scale](http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-214.pdf)
 * **2013** - [Some Improvements on Deep Convolutional Neural Network Based Image Classification](http://arxiv.org/pdf/1312.5402v1.pdf)
 * **2013** - [TAO: Facebookâs Distributed Data Store for the Social Graph](https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf)
@@ -764,6 +817,7 @@ Data
 * **2012** - [Avatara: OLAP for Web-scale Analytics Products](http://www.vldb.org/pvldb/vol5/p1874_liliwu_vldb2012.pdf)
 * **2012** - [Blink and It's Done. Interactive Queries on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_vldb12_demo.pdf)
 * **2012** - [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](https://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf)
+* **2012** - [Building high-level features using large scale unsupervised learning](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38115.pdf)
 * **2012** - [Dimension Independent Similarity Computation](http://arxiv.org/pdf/1206.2082.pdf)
 * **2012** - [Earlybird: Real-Time Search at Twitter](http://www.umiacs.umd.edu/~jimmylin/publications/Busch_etal_ICDE2012.pdf)
 * **2012** - [Fast and Interactive Analytics over Hadoop Data with Spark](https://www.usenix.org/system/files/login/articles/zaharia.pdf)
@@ -773,14 +827,17 @@ Data
 * **2012** - [Multi-Scale Matrix Sampling and Sublinear-Time PageRank Computation](http://arxiv.org/pdf/1202.2771v5.pdf)
 * **2012** - [Paxos Made Parallel](http://research.microsoft.com/pubs/178045/ppaoxs-paper29.pdf)
 * **2012** - [Paxos Replicated State Machines as the Basis of a High-Performance  Data Store](https://www.usenix.org/legacy/events/nsdi11/tech/full_papers/Bolosky.pdf)
+* **2012** - [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
 * **2012** - [Processing a Trillion Cells per Mouse Click](http://vldb.org/pvldb/vol5/p1436_alexanderhall_vldb2012.pdf)
 * **2012** - [Shark: Fast Data Analysis Using Coarse-grained Distributed Memory](http://www.cs.berkeley.edu/~matei/papers/2012/sigmod_shark_demo.pdf)
 * **2012** - [Spanner: Google's Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+* **2012** - [Temporal Analytics on Big Data for Web Advertising](http://research.microsoft.com/pubs/155806/timr-icde2012.pdf)
 * **2012** - [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf)
 * **2012** - [The Vertica Analytic Database- C-Store 7 Years Later](http://vldb.org/pvldb/vol5/p1790_andrewlamb_vldb2012.pdf)
 
 ### 2011
 
+* **2011** - [Consistency, Availability, and Convergence](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
 * **2011** - [CrowdDB: Answering Queries with Crowdsourcing](http://csce.uark.edu/~tingxiny/courses/5013spring13/readingList/crowddb_sigmod2011.pdf)
 * **2011** - [CrowdDB: Query Processing with the VLDB Crowd](http://cs.brown.edu/~kraskat/pub/vldb11-crowddb_demo.pdf)
 * **2011** - [Fast Crash Recovery in RAMCloud](http://web.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
@@ -809,6 +866,7 @@ Data
 ### 2009
 
 * **2009** - [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+* **2009** - [Feature Hashing for Large Scale Multitask Learning](http://alex.smola.org/papers/2009/Weinbergeretal09.pdf)
 * **2009** - [HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads](http://www.vldb.org/pvldb/2/vldb09-861.pdf)
 * **2009** - [Vertical Paxos and Primary-Backup Replication](http://research.microsoft.com/en-us/um/people/lamport/pubs/vertical-paxos.pdf)
 
@@ -821,6 +879,8 @@ Data
 
 ### 2007
 
+* **2007** - [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+* **2007** - [Consistent Streaming Through Time: A Vision for Event Stream Processing](http://research.microsoft.com/pubs/156569/cidr07p42.pdf)
 * **2007** - [Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](http://cs.brown.edu/~debrabant/cis570-website/papers/dryad.pdf)
 * **2007** - [Dynamo: Amazon's Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * **2007** - [Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments](http://vis-www.cs.umass.edu/lfw/lfw.pdf)

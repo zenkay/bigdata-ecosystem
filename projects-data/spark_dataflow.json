@@ -1,0 +1,15 @@
+{
+  "name": "spark-dataflow",
+  "description": "allows users to execute dataflow pipelines with Spark",
+  "abstract": "allows users to execute dataflow pipelines with Spark",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/cloudera/spark-dataflow"
+    }
+  ]
+}

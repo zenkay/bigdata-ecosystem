@@ -1,0 +1,15 @@
+{
+  "title": "All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications",
+  "year": "2014",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-pillai.pdf"
+    }
+  ]
+}

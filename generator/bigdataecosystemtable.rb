@@ -40,6 +40,7 @@ papers = {}
 
 Dir.glob("#{File.dirname(__FILE__)}/../papers-data/*.json").sort.each do |file|
   # read content
+
   data = JSON.parse(File.read(file))
   papers[data["year"]] ||= []
   papers[data["year"]] << data

@@ -1,0 +1,15 @@
+{
+  "name": "Minotaur",
+  "description": "scripts/recipes/configs to spin up VPC-based infrastructure in AWS from scratch and deploy labs to it",
+  "abstract": "scripts/recipes/configs to spin up VPC-based infrastructure in AWS from scratch and deploy labs to it",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/stealthly/minotaur"
+    }
+  ]
+}

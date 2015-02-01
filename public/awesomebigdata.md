@@ -78,6 +78,7 @@ Your contributions are always welcome!
 * [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
 * [Facebook Scuba](https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920) - distributed in-memory datastore.
 * [Geotrellis](http://geotrellis.io/) - geographic data processing engine for high performance applications.
+* [GetStream Stream Framework](https://github.com/tschellenbach/Stream-Framework) - a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework.
 * [Google Dataflow](http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
 * [Google MapReduce](http://research.google.com/archive/mapreduce.html) - map reduce framework.
@@ -91,11 +92,15 @@ Your contributions are always welcome!
 * [LinkedIn Cubert](https://github.com/linkedin/Cubert) - a fast and efficient batch computation engine for complex analysis and reporting of massive datasets on Hadoop.
 * [Lipstick](https://github.com/Netflix/Lipstick) - Pig workflow visualization tool.
 * [Metamarkers Druid](http://druid.io/) - framework for real-time analysis of large datasets.
+* [Microsoft Azure Stream Analytics](http://azure.microsoft.com/en-us/services/stream-analytics/) - an event processing engine that helps uncover real-time insights from devices, sensors, infrastructure, applications and data.
+* [Microsoft Orleans](http://research.microsoft.com/en-us/projects/orleans/) - a straightforward approach to building distributed high-scale computing applications.
+* [Microsoft Trill](http://research.microsoft.com/en-us/projects/trill/) - a high-performance in-memory incremental analytics engine.
 * [Netflix Aegisthus](https://github.com/Netflix/aegisthus) - Bulk Data Pipeline out of Cassandra. implements a reader for the SSTable format and provides a map/reduce program to create a compacted snapshot of the data contained in a column family.
 * [Netflix Lipstick](https://github.com/Netflix/Lipstick) - Pig Visualization framework.
 * [Netflix Mantis](http://qconsf.com/presentation/mantis-netflixs-event-stream-processing-system) - Event Stream Processing System.
 * [Netflix PigPen](https://github.com/Netflix/PigPen) - map-reduce for Clojure whiche compiles to Apache Pig.
 * [Netflix STAASH](https://github.com/Netflix/staash) - language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems.
+* [Netflix Surus](https://github.com/Netflix/Surus) - a collection of tools for analysis in Pig and Hive.
 * [Netflix Zeno](https://github.com/Netflix/zeno) - Netflix's In-Memory Data Propagation Framework.
 * [Nextflow](http://www.nextflow.io) - Dataflow oriented toolkit for parallel and distributed computational pipelines.
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
@@ -106,6 +111,7 @@ Your contributions are always welcome!
 * [ScaleOut hServer](http://www.scaleoutsoftware.com/) - fast, scalable in-memory data grid for Hadoop.
 * [SeqPig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop .
 * [SigmoidAnalytics Spork](https://github.com/sigmoidanalytics/spork) - Pig on Apache Spark.
+* [spark-dataflow](https://github.com/cloudera/spark-dataflow) - allows users to execute dataflow pipelines with Spark.
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. .
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/) - unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive.
 * [SQLStream Blaze](http://www.sqlstream.com/blaze/) - stream processing platform.
@@ -182,6 +188,7 @@ Your contributions are always welcome!
 * [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](http://geteventstore.com) - distributed time series database.
+* [Exasolution](http://www.exasol.com/en/products/exasolution/) - an in-memory, column-oriented, relational database management system.
 * [HyperDex](http://hyperdex.org/) - next generation key-value store.
 * [KAI](http://sourceforge.net/projects/kai/) - a distributed key-value datastore.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
@@ -220,6 +227,7 @@ Your contributions are always welcome!
 * [Neo4j](http://www.neo4j.org/) - graph database writting entirely in Java.
 * [OrientDB](http://www.orientechnologies.com/) - document and graph database.
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
+* [Pinterest Zen](https://www.youtube.com/watch?v=yI0vHfgK6oI) - Pinterest's Graph Storage Service.
 * [Sparksee](http://www.sparsity-technologies.com/) - scalable high-performance graph database.
 * [Stardog](http://stardog.com/) - graph database: search, query, reasoning, and constraints in a lightweight, pure Java system.
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
@@ -244,6 +252,7 @@ Your contributions are always welcome!
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
 * [Pivotal GemFire XD](http://gemfirexd.docs.gopivotal.com/latest/userguide/index.html?q=about_users_guide.html/) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
 * [SAP HANA](http://www.saphana.com/welcome) - is an in-memory, column-oriented, relational database management system.
+* [Segment SQL](https://segment.com/redshift) - Track your customer data to Amazon Redshift.
 * [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
@@ -339,7 +348,7 @@ Your contributions are always welcome!
 * [Apache Qpid](http://qpid.apache.org/) - messaging tools that speak AMQP and support many languages and platforms.
 * [Apollo](http://activemq.apache.org/apollo/) - ActiveMQ's next generation of messaging.
 * [Beanstalkd](http://kr.github.io/beanstalkd/) - simple, fast work queue.
-* [Bit.ly NSQ](https://github.com/bitly/nsq) - realtime distributed message processing at scale.
+* [Bit.ly NSQ](http://nsq.io/) - realtime distributed message processing at scale.
 * [Celery](http://www.celeryproject.org/) - Distributed Task Queue.
 * [Crossroads I/O](http://www.crossroads.io/) - library for building scalable and high performance distributed applications.
 * [Darner](https://github.com/wavii/darner) - simple, lightweight message queue.
@@ -395,6 +404,7 @@ Your contributions are always welcome!
 * [Decider](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
+* [fbcunn](https://github.com/facebook/fbcunn) - Deep Learning CUDA Extensions from Facebook AI Research.
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) - cognitive computing system.
@@ -424,14 +434,15 @@ Your contributions are always welcome!
 * [Hive-benchmarks](https://github.com/yhuai/hive-benchmarks) - some benchmarking queries for Apache Hive.
 * [Hive-testbench](https://github.com/cartershanklin/hive-testbench) - Testbench for experimenting with Apache Hive at any data scale..
 * [Intel HiBench](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
+* [Mesosaurus](https://github.com/mesosphere/mesosaurus) - Mesos task load simulator framework for (cluster and Mesos) performance analysis.
 * [Netflix Inviso](https://hadoopsummit.uservoice.com/forums/242807-hadoop-deployment-operations-track/suggestions/5568461-inviso-maximizing-big-data-performance-at-netflix) - performance focused Big Data tool.
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce applications.
 * [Yahoo Gridmix3](https://developer.yahoo.com/blogs/hadoop/gridmix3-emulating-production-workload-apache-hadoop-450.html) - Hadoop cluster benchmarking from Yahoo engineer team.
 
 ## Security
 
-* [Apache Argus](http://argus.incubator.apache.org/) - framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
 * [Apache Knox Gateway](http://knox.apache.org/) - single point of secure access for Hadoop clusters.
+* [Apache Ranger](http://argus.incubator.apache.org/) - framework to enable, monitor and manage comprehensive data security across the Hadoop platform (formerly called Apache Argus).
 * [Apache Sentry](http://incubator.apache.org/projects/sentry.html) - security module for data stored in Hadoop.
 * [PacketPig](https://github.com/packetloop/packetpig) - Open Source Big Data Security Analytics.
 * [Voltage SecureData](http://www.voltage.com/products/securedata-enterprise/) - data protection framework.
@@ -462,8 +473,11 @@ Your contributions are always welcome!
 * [Hortonworks HOYA](http://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
 * [Jumbune](http://www.jumbune.org/) - Jumbune is an open-source product built for analyzing Hadoop cluster and MapReduce jobs..
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
+* [Minotaur](https://github.com/stealthly/minotaur) - scripts/recipes/configs to spin up VPC-based infrastructure in AWS from scratch and deploy labs to it.
 * [Myriad](https://github.com/mesos/myriad) - a mesos framework designed for scaling YARN clusters on Mesos. Myriad can expand or shrink one or more YARN clusters in response to events as per configured rules and policies..
 * [Neflix SimianArmy](https://github.com/Netflix/SimianArmy) - a suite of tools for keeping your cloud operating in top form.
+* [Tumblr Collins](http://tumblr.github.io/collins/) - Infrastructure management for engineers.
+* [Tumblr Genesis](http://tumblr.github.io/genesis/) - a tool for data center automation.
 
 ## Container Manager
 
@@ -524,6 +538,7 @@ Your contributions are always welcome!
 * [Amazon RDS](http://aws.amazon.com/rds/) - MySQL databases in Amazon's cloud.
 * [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
 * [Google Cloud SQL](https://developers.google.com/cloud-sql/) - MySQL databases in Google's cloud.
+* [HiveDB](http://www.hivedb.org/) - an open source framework for horizontally partitioning MySQL systems.
 * [MariaDB](https://mariadb.org/) - enhanced, drop-in replacement for MySQL.
 * [MariaDB Galera](https://mariadb.com/kb/en/mariadb/documentation/replication/galera/) - a synchronous multi-master cluster for MariaDB.
 * [MySQL Cluster](http://www.mysql.com/products/cluster/) - MySQL implementation using NDB Cluster storage engine providing shared-nothing clustering and auto-sharding.
@@ -556,6 +571,7 @@ Your contributions are always welcome!
 
 * [Actian PSQL](http://www.actian.com/products/operational-databases/) - ACID-compliant DBMS developed by Pervasive Software, optimized for embedding in applications.
 * [BerkeleyDB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.html) - a software library that provides a high-performance embedded database for key/value data.
+* [eXtreme DB](http://www.mcobject.com/extremedbfamily.shtml) - in-memory database combines exceptional performance, reliability and developer efficiency in a proven real-time embedded database engine.
 * [FairCom c-treeACE](http://www.faircom.com/ace/ace_t.php) - a cross-platform database engine.
 * [Google Firebase](https://www.firebase.com/) - a powerful API to store and sync data in realtime.
 * [HamsterDB](http://hamsterdb.com/) - transactional key-value database.

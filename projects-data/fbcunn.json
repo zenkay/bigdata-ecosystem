@@ -1,0 +1,15 @@
+{
+  "name": "fbcunn",
+  "description": "Deep Learning CUDA Extensions from Facebook AI Research",
+  "abstract": "Deep Learning CUDA Extensions from Facebook AI Research",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/facebook/fbcunn"
+    }
+  ]
+}

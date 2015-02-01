@@ -1,0 +1,15 @@
+{
+  "name": "HiveDB",
+  "description": "an open source framework for horizontally partitioning MySQL systems",
+  "abstract": "an open source framework for horizontally partitioning MySQL systems",
+  "category": "MySQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.hivedb.org/"
+    }
+  ]
+}

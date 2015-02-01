@@ -1,0 +1,17 @@
+HiveDB;http://www.hivedb.org/;MySQL forks and evolutions;an open source framework for horizontally partitioning MySQL systems
+Pinterest Zen;https://www.youtube.com/watch?v=yI0vHfgK6oI;Graph Data Model;Pinterest's Graph Storage Service
+Minotaur;https://github.com/stealthly/minotaur;System Deployment;scripts/recipes/configs to spin up VPC-based infrastructure in AWS from scratch and deploy labs to it
+GetStream Stream Framework;https://github.com/tschellenbach/Stream-Framework;Distributed Programming;a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis
+Mesosaurus;https://github.com/mesosphere/mesosaurus;Benchmarking;Mesos task load simulator framework for (cluster and Mesos) performance analysis
+Exasolution;http://www.exasol.com/en/products/exasolution/;Key-value Data Model;an in-memory, column-oriented, relational database management system[
+fbcunn;https://github.com/facebook/fbcunn;Machine Learning;Deep Learning CUDA Extensions from Facebook AI Research
+spark-dataflow;https://github.com/cloudera/spark-dataflow;Distributed Programming;allows users to execute dataflow pipelines with Spark
+Netflix Surus;https://github.com/Netflix/Surus;Distributed Programming;a collection of tools for analysis in Pig and Hive
+Segment SQL;https://segment.com/redshift;NewSQL Databases;Track your customer data to Amazon Redshift
+Tumblr Genesis;http://tumblr.github.io/genesis/;System Deployment;a tool for data center automation
+Tumblr Collins;http://tumblr.github.io/collins/;System Deployment;Infrastructure management for engineers
+eXtreme DB;http://www.mcobject.com/extremedbfamily.shtml;Embedded Databases;in-memory database combines exceptional performance, reliability and developer efficiency in a proven real-time embedded database engine
+Bit.ly NSQ;http://nsq.io/;Message-oriented middleware;a realtime distributed messaging platform
+Microsoft Trill;http://research.microsoft.com/en-us/projects/trill/;Distributed Programming;a high-performance in-memory incremental analytics engine
+Microsoft Orleans;http://research.microsoft.com/en-us/projects/orleans/;Distributed Programming;a straightforward approach to building distributed high-scale computing applications
+Microsoft Azure Stream Analytics;http://azure.microsoft.com/en-us/services/stream-analytics/;Distributed Programming;an event processing engine that helps uncover real-time insights from devices, sensors, infrastructure, applications and data

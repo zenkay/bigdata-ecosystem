@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft Trill",
+  "description": "a high-performance in-memory incremental analytics engine",
+  "abstract": "a high-performance in-memory incremental analytics engine",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://research.microsoft.com/en-us/projects/trill/"
+    }
+  ]
+}

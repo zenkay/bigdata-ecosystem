@@ -1,0 +1,15 @@
+{
+  "title": "Salt: Combining ACID and BASE in a Distributed Database",
+  "year": "2014",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-xie.pdf"
+    }
+  ]
+}

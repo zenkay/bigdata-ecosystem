@@ -1,0 +1,15 @@
+{
+  "name": "Netflix Surus",
+  "description": "a collection of tools for analysis in Pig and Hive",
+  "abstract": "a collection of tools for analysis in Pig and Hive",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/Surus"
+    }
+  ]
+}

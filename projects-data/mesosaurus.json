@@ -1,0 +1,15 @@
+{
+  "name": "Mesosaurus",
+  "description": "Mesos task load simulator framework for (cluster and Mesos) performance analysis",
+  "abstract": "Mesos task load simulator framework for (cluster and Mesos) performance analysis",
+  "category": "Benchmarking",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/mesosphere/mesosaurus"
+    }
+  ]
+}

@@ -9,6 +9,10 @@
   "links": [
     {
       "text": "Website",
+      "url": "http://nsq.io/"
+    },
+    {
+      "text": "Website",
       "url": "https://github.com/bitly/nsq"
     }
   ]

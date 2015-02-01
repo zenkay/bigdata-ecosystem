@@ -1,0 +1,15 @@
+{
+  "name": "Segment SQL",
+  "description": "Track your customer data to Amazon Redshift",
+  "abstract": "Track your customer data to Amazon Redshift",
+  "category": "NewSQL Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://segment.com/redshift"
+    }
+  ]
+}

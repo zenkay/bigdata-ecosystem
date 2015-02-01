@@ -1,0 +1,15 @@
+{
+  "title": "Trill: A High-Performance Incremental Query Processor for Diverse Analytics",
+  "year": "2015",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://research.microsoft.com/pubs/231690/trill-vldb2015.pdf"
+    }
+  ]
+}

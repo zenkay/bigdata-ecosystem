@@ -1,0 +1,15 @@
+{
+  "name": "GetStream Stream Framework",
+  "description": "a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis",
+  "abstract": "a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/tschellenbach/Stream-Framework"
+    }
+  ]
+}

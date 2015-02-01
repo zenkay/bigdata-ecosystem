@@ -1,0 +1,15 @@
+{
+  "name": "Tumblr Collins",
+  "description": "Infrastructure management for engineers",
+  "abstract": "Infrastructure management for engineers",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://tumblr.github.io/collins/"
+    }
+  ]
+}

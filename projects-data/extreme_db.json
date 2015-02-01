@@ -1,0 +1,15 @@
+{
+  "name": "eXtreme DB",
+  "description": "in-memory database combines exceptional performance, reliability and developer efficiency in a proven real-time embedded database engine",
+  "abstract": "in-memory database combines exceptional performance, reliability and developer efficiency in a proven real-time embedded database engine",
+  "category": "Embedded Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.mcobject.com/extremedbfamily.shtml"
+    }
+  ]
+}
