@@ -1,0 +1,8 @@
+GearPump;https://github.com/intel-hadoop/gearpump;Distributed Programming;a lightweight real-time big data streaming engine
+Etsy Sahale;https://codeascraft.com/2015/02/11/sahale-visualizing-cascading-workflows-at-etsy/;System Deployment;Visualizing Cascading Workflows at Etsy
+Prometheus;http://prometheus.io/;Time-Series Databases;an open-source service monitoring system and time series database
+Esper;http://esper.codehaus.org/;Distributed Programming;a highly scalable, memory-efficient, in-memory computing, SQL-standard, minimal latency, real-time streaming-capable Big Data processing engine for historical data
+Parsely Streamparse;https://github.com/Parsely/streamparse;Distributed Programming;streamparse lets you run Python code against real-time streams of data. It also integrates Python smoothly with Apache Storm.
+Trident;https://storm.apache.org/documentation/Trident-tutorial.html;Distributed Programming;a high-level abstraction for doing realtime computing on top of Storm
+GraphLab Dato;https://dato.com/products/create/open_source.html;Distributed Programming;fast, scalable engine of GraphLab Create, a Python library
+Google Cloud Pub/Sub;https://cloud.google.com/pubsub/;Message-oriented middleware;reliable, many-to-many, asynchronous messaging hosted on Google's infrastructure

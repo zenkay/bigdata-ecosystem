@@ -112,15 +112,18 @@ Data
 * [DistributedR](http://www.vertica.com/distributedr/) - scalable high-performance platform for the R language.
 * [Drools](http://www.drools.org/) - a Business Rules Management System (BRMS) solution.
 * [eBay Oink](https://github.com/eBay/oink) - REST based interface for PIG execution.
+* [Esper](http://esper.codehaus.org/) - a highly scalable, memory-efficient, in-memory computing, SQL-standard, minimal latency, real-time streaming-capable Big Data processing engine for historical data.
 * [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) - Hadoop enhancement which removes single point of failure.
 * [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
 * [Facebook Scuba](https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920) - distributed in-memory datastore.
+* [GearPump](https://github.com/intel-hadoop/gearpump) - a lightweight real-time big data streaming engine.
 * [Geotrellis](http://geotrellis.io/) - geographic data processing engine for high performance applications.
 * [GetStream Stream Framework](https://github.com/tschellenbach/Stream-Framework) - a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework.
 * [Google Dataflow](http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
 * [Google MapReduce](http://research.google.com/archive/mapreduce.html) - map reduce framework.
 * [Google MillWheel](http://research.google.com/pubs/pub41378.html) - fault tolerant stream processing framework.
+* [GraphLab Dato](https://dato.com/products/create/open_source.html) - fast, scalable engine of GraphLab Create, a Python library.
 * [Hazelcast](http://hazelcast.com/products/hazelcast/) - In-Memory Data Grid.
 * [HParser](http://www.informatica.com/us/products/big-data/hparser/) - data parsing transformation environment optimized for Hadoop.
 * [IBM Streams](http://www.ibm.com/software/products/en/infosphere-streams) - advanced analytic platform that allows user-developed applications to quickly ingest, analyze and correlate information as it arrives from thousands of real-time sources.
@@ -142,6 +145,7 @@ Data
 * [Netflix Zeno](https://github.com/Netflix/zeno) - Netflix's In-Memory Data Propagation Framework.
 * [Nextflow](http://www.nextflow.io) - Dataflow oriented toolkit for parallel and distributed computational pipelines.
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
+* [Parsely Streamparse](https://github.com/Parsely/streamparse) - streamparse lets you run Python code against real-time streams of data. It also integrates Python smoothly with Apache Storm..
 * [PigPen](https://github.com/Netflix/PigPen) - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
 * [Pinterest Pinlater](http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system) - asynchronous job execution system.
 * [Pubnub](http://www.pubnub.com/) - Data stream network.
@@ -161,6 +165,7 @@ Data
 * [TIBCO ActiveSpaces](http://www.tibco.com/products/automation/in-memory-computing/in-memory-data-grid/activespaces-enterprise-edition) - in-memory data grid.
 * [Tigon](http://cask.co/products/tigon/) - a distributed framework built on Apache HadoopTM and Apache HBaseTM for real-time, high-throughput, low-latency data processing and analytics applications.
 * [Torch](http://torch.ch/) - Scientific computing for LuaJIT.
+* [Trident](https://storm.apache.org/documentation/Trident-tutorial.html) - a high-level abstraction for doing realtime computing on top of Storm.
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
 * [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 * [Twitter TSAR](https://blog.twitter.com/2014/tsar-a-timeseries-aggregator) - TimeSeries AggregatoR by Twitter.
@@ -315,6 +320,7 @@ Data
 * [InfluxDB](http://influxdb.com/) - distributed time series database.
 * [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
+* [Prometheus](http://prometheus.io/) - an open-source service monitoring system and time series database.
 * [Square Cube](http://square.github.io/cube/) - system for collecting timestamped events and deriving metrics.
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
 
@@ -392,6 +398,7 @@ Data
 * [Darner](https://github.com/wavii/darner) - simple, lightweight message queue.
 * [Facebook Iris](https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/) - a totally ordered queue of messaging updates with separate pointers into the queue indicating the last update sent to your Messenger app and the traditional storage tier.
 * [Gearman](http://gearman.org) - Job Server.
+* [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/) - reliable, many-to-many, asynchronous messaging hosted on Google's infrastructure.
 * [HornetQ](http://www.jboss.org/hornetq) - open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
 * [IronMQ](http://www.iron.io/mq) - easy-to-use highly available message queuing service.
 * [Kestrel](http://robey.github.io/kestrel/) - distributed message queue system.
@@ -501,6 +508,7 @@ Data
 * [Cloudera HUE](http://gethue.com/) - web application for interacting with Hadoop.
 * [Deimos](https://github.com/mesosphere/deimos) - Mesos containerizer hooks for Docker.
 * [Develoop](http://deploop.github.io/) - tool for provisioning, managing and monitoring Apache Hadoop.
+* [Etsy Sahale](https://codeascraft.com/2015/02/11/sahale-visualizing-cascading-workflows-at-etsy/) - Visualizing Cascading Workflows at Etsy.
 * [Facebook Autoscale](https://code.facebook.com/posts/816473015039157/making-facebook-s-software-infrastructure-more-energy-efficient-with-autoscale/) - the load balancer will concentrate workload to a server until it has at least a medium-level workload.
 * [Facebook Prism](http://www.wired.com/2012/08/facebook-prism/) - multi datacenters replication system.
 * [Ganglia Monitoring System](http://ganglia.sourceforge.net/) - scalable distributed monitoring system for high-performance computing systems such as clusters and Grids.
@@ -726,6 +734,7 @@ Data
 
 * **2015** - [Deep Image: Scaling up Image Recognition](http://arxiv.org/pdf/1501.02876v1.pdf)
 * **2015** - [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](http://arxiv.org/pdf/1412.7580v2.pdf)
+* **2015** - [Machine Learning Classification over Encrypted Data](http://www.internetsociety.org/sites/default/files/04_1_2.pdf)
 * **2015** - [Machine Learning Methods for Computer Security](http://drops.dagstuhl.de/opus/volltexte/2013/3790/pdf/dagrep_v002_i009_p109_s12371.pdf)
 * **2015** - [Self-Repairing Disk Arrays](http://arxiv.org/pdf/1501.00513v1.pdf)
 * **2015** - [Trill: A High-Performance Incremental Query Processor for Diverse Analytics](http://research.microsoft.com/pubs/231690/trill-vldb2015.pdf)
@@ -766,6 +775,7 @@ Data
 * **2014** - [Orca A Modular Query Optimizer Architecture for Big Data](http://www.pivotal.io/sites/default/files/SIGMODMay2014HAWQAdvantages.pdf)
 * **2014** - [Pigeon: A Spatial MapReduce Language](http://spatialhadoop.cs.umn.edu/publications/ICDE14_demo_763.pdf)
 * **2014** - [Project Adam: Building an Efficient and Scalable Deep Learning Training System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf)
+* **2014** - [Quantum Deep Learning](http://arxiv.org/pdf/1412.3489v1.pdf)
 * **2014** - [R Markdown: Integrating A Reproducible Analysis Tool into Introductory Statistics](http://arxiv.org/pdf/1402.1894v1.pdf)
 * **2014** - [Salt: Combining ACID and BASE in a Distributed Database](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-xie.pdf)
 * **2014** - [Scalable Object Detection using Deep Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf)

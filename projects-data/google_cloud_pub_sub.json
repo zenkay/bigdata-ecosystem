@@ -1,0 +1,15 @@
+{
+  "name": "Google Cloud Pub/Sub",
+  "description": "reliable, many-to-many, asynchronous messaging hosted on Google's infrastructure",
+  "abstract": "reliable, many-to-many, asynchronous messaging hosted on Google's infrastructure",
+  "category": "Message-oriented middleware",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://cloud.google.com/pubsub/"
+    }
+  ]
+}

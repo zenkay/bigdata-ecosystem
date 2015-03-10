@@ -1,0 +1,15 @@
+{
+  "name": "Parsely Streamparse",
+  "description": "streamparse lets you run Python code against real-time streams of data. It also integrates Python smoothly with Apache Storm.",
+  "abstract": "streamparse lets you run Python code against real-time streams of data. It also integrates Python smoothly with Apache Storm.",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Parsely/streamparse"
+    }
+  ]
+}

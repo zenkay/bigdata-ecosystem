@@ -1,0 +1,15 @@
+{
+  "name": "Trident",
+  "description": "a high-level abstraction for doing realtime computing on top of Storm",
+  "abstract": "a high-level abstraction for doing realtime computing on top of Storm",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://storm.apache.org/documentation/Trident-tutorial.html"
+    }
+  ]
+}

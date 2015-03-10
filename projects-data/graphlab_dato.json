@@ -1,0 +1,15 @@
+{
+  "name": "GraphLab Dato",
+  "description": "fast, scalable engine of GraphLab Create, a Python library",
+  "abstract": "fast, scalable engine of GraphLab Create, a Python library",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://dato.com/products/create/open_source.html"
+    }
+  ]
+}

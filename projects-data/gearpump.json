@@ -1,0 +1,15 @@
+{
+  "name": "GearPump",
+  "description": "a lightweight real-time big data streaming engine",
+  "abstract": "a lightweight real-time big data streaming engine",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/intel-hadoop/gearpump"
+    }
+  ]
+}
