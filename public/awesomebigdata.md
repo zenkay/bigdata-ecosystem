@@ -115,6 +115,7 @@ Your contributions are always welcome!
 * [ScaleOut hServer](http://www.scaleoutsoftware.com/) - fast, scalable in-memory data grid for Hadoop.
 * [SeqPig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop .
 * [SigmoidAnalytics Spork](https://github.com/sigmoidanalytics/spork) - Pig on Apache Spark.
+* [SNAP](https://github.com/snap-stanford/snap) - Stanford Network Analysis Platform is a general purpose, high performance system for analysis and manipulation of large networks.
 * [spark-dataflow](https://github.com/cloudera/spark-dataflow) - allows users to execute dataflow pipelines with Spark.
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. .
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/) - unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive.
@@ -280,6 +281,7 @@ Your contributions are always welcome!
 * [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Etsy StatsD](https://github.com/etsy/statsd/) - simple daemon for easy stats aggregation.
 * [InfluxDB](http://influxdb.com/) - distributed time series database.
+* [Kairos](https://pypi.python.org/pypi/kairos) - Time series data storage in Redis, Mongo, SQL and Cassandra.
 * [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
 * [Prometheus](http://prometheus.io/) - an open-source service monitoring system and time series database.
@@ -339,6 +341,7 @@ Your contributions are always welcome!
 * [Linkedin Lumos](http://www.slideshare.net/Hadoop_Summit/th-220p230-cramachandranv1) - bridge from OLTP to OLAP for use it on Hadoop.
 * [LinkedIn White Elephant](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
 * [Logstash](http://logstash.net) - a tool for managing events and logs.
+* [Netflix Ribbon](https://github.com/Netflix/ribbon) - a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
 * [Netflix Suro](https://github.com/Netflix/suro) - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data based on Chukwa.
 * [Pinterest Secor](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 * [Record Breaker](http://cloudera.github.io/RecordBreaker/) - Automatic structure for your text-formatted data.
@@ -416,6 +419,7 @@ Your contributions are always welcome!
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) - cognitive computing system.
 * [LinkedIn ml-ease](https://github.com/linkedin/ml-ease) - ADMM based large scale logistic regression.
+* [Microsoft Azure Machine Learning](https://studio.azureml.net/) - is built on the machine learning capabilities already available in several Microsoft products including Xbox and Bing and using predefined templates and workflows.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
@@ -468,6 +472,7 @@ Your contributions are always welcome!
 * [Buildoop](http://buildoop.github.io/) - Similar to Apache BigTop based on Groovy language.
 * [Cloudera Director](http://www.cloudera.com/content/cloudera/en/products-and-services/director.html) - a comprehensive data management platform with the flexibility and power to evolve with your business.
 * [Cloudera HUE](http://gethue.com/) - web application for interacting with Hadoop.
+* [CloudPhysics](https://www.cloudphysics.com/product/) - collect operational metadata from your virtualized infrastructure, then correlate and analyze it to expose operational hazards and waste that pose a threat to your datacenter performance, efficiency and uptime.
 * [Deimos](https://github.com/mesosphere/deimos) - Mesos containerizer hooks for Docker.
 * [Develoop](http://deploop.github.io/) - tool for provisioning, managing and monitoring Apache Hadoop.
 * [Etsy Sahale](https://codeascraft.com/2015/02/11/sahale-visualizing-cascading-workflows-at-etsy/) - Visualizing Cascading Workflows at Etsy.
@@ -484,6 +489,9 @@ Your contributions are always welcome!
 * [Minotaur](https://github.com/stealthly/minotaur) - scripts/recipes/configs to spin up VPC-based infrastructure in AWS from scratch and deploy labs to it.
 * [Myriad](https://github.com/mesos/myriad) - a mesos framework designed for scaling YARN clusters on Mesos. Myriad can expand or shrink one or more YARN clusters in response to events as per configured rules and policies..
 * [Neflix SimianArmy](https://github.com/Netflix/SimianArmy) - a suite of tools for keeping your cloud operating in top form.
+* [Netflix Eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+* [Netflix Hystrix](https://github.com/Netflix/Hystrix) - a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+* [Scaling Data](http://www.scalingdata.com/big-data) - tracing data center problems to root cause, predict capacity issues, identify emerging failures and highlight latent threats.
 * [Tumblr Collins](http://tumblr.github.io/collins/) - Infrastructure management for engineers.
 * [Tumblr Genesis](http://tumblr.github.io/genesis/) - a tool for data center automation.
 
@@ -617,6 +625,7 @@ Your contributions are always welcome!
 
 ## Data Analysis
 
+* [Datameer](http://www.datameer.com/product/index.html) - data analytics application for Hadoop combines self-service data integration, analytics and visualization.
 * [LinkedIn Pinot](http://engineering.linkedin.com/analytics/real-time-analytics-massive-scale-pinot) - a distributed system that supports columnar indexes with the ability to add new types of indexes.
 * [Myria](http://myria.cs.washington.edu/) - scalable Analytics-as-a-Service platform based on relational algebra.
 * [Pinalytics](http://engineering.pinterest.com/post/104418761649/building-pinalytics-pinterests-data-analytics) - Pinterestâs data analytics engine.
@@ -647,6 +656,7 @@ Your contributions are always welcome!
 * [Gephi](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections.
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
 * [Grafana](http://grafana.org/) - open source, feature rich metrics dashboard and graph editor for  Graphite, InfluxDB & OpenTSDB.
+* [Graphistry](http://www.graphistry.com/) - running on GPUs and turns static designs into interactive tools using client/cloud GPU infrastructure and GPU-accelerated languages like Superconductor.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.

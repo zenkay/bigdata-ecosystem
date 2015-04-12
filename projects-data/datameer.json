@@ -1,0 +1,15 @@
+{
+  "name": "Datameer",
+  "description": "data analytics application for Hadoop combines self-service data integration, analytics and visualization",
+  "abstract": "data analytics application for Hadoop combines self-service data integration, analytics and visualization",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.datameer.com/product/index.html"
+    }
+  ]
+}

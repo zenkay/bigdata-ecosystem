@@ -1,0 +1,15 @@
+{
+  "name": "SNAP",
+  "description": "Stanford Network Analysis Platform is a general purpose, high performance system for analysis and manipulation of large networks",
+  "abstract": "Stanford Network Analysis Platform is a general purpose, high performance system for analysis and manipulation of large networks",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/snap-stanford/snap"
+    }
+  ]
+}

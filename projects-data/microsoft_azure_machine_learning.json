@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft Azure Machine Learning",
+  "description": "is built on the machine learning capabilities already available in several Microsoft products including Xbox and Bing and using predefined templates and workflows",
+  "abstract": "is built on the machine learning capabilities already available in several Microsoft products including Xbox and Bing and using predefined templates and workflows",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://studio.azureml.net/"
+    }
+  ]
+}

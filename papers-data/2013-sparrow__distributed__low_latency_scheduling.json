@@ -1,0 +1,15 @@
+{
+  "title": "Sparrow: Distributed, Low Latency Scheduling",
+  "year": "2013",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://delivery.acm.org/10.1145/2530000/2522716/p69-ousterhout.pdf"
+    }
+  ]
+}

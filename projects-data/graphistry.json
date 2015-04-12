@@ -1,0 +1,15 @@
+{
+  "name": "Graphistry",
+  "description": "running on GPUs and turns static designs into interactive tools using client/cloud GPU infrastructure and GPU-accelerated languages like Superconductor",
+  "abstract": "running on GPUs and turns static designs into interactive tools using client/cloud GPU infrastructure and GPU-accelerated languages like Superconductor",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.graphistry.com/"
+    }
+  ]
+}

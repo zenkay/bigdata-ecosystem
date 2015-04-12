@@ -1,0 +1,15 @@
+{
+  "name": "Scaling Data",
+  "description": "tracing data center problems to root cause, predict capacity issues, identify emerging failures and highlight latent threats",
+  "abstract": "tracing data center problems to root cause, predict capacity issues, identify emerging failures and highlight latent threats",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.scalingdata.com/big-data"
+    }
+  ]
+}

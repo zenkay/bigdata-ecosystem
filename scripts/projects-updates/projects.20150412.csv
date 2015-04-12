@@ -1,0 +1,12 @@
+SNAP;https://github.com/snap-stanford/snap;Distributed Programming;Stanford Network Analysis Platform is a general purpose, high performance system for analysis and manipulation of large networks
+Apache Blur;https://incubator.apache.org/blur/;Search engine and framework;a search engine capable of querying massive amounts of structured data at incredible speeds
+Datameer;http://www.datameer.com/product/index.html;Data Analysis;data analytics application for Hadoop combines self-service data integration, analytics and visualization
+Netflix Eureka;https://github.com/Netflix/eureka;System Deployment;AWS Service registry for resilient mid-tier load balancing and failover
+Netflix Hystrix;https://github.com/Netflix/Hystrix;System Deployment;a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable
+Netflix Ribbon;https://github.com/Netflix/ribbon;Data Ingestion;a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support
+Microsoft Azure Machine Learning;https://studio.azureml.net/;Machine Learning;is built on the machine learning capabilities already available in several Microsoft products including Xbox and Bing and using predefined templates and workflows
+Drizzle;http://www.drizzle.org/;MySQL forks and evolutions;relational database management system that was forked from the now-defunct 6.0 development branch of the MySQL DBMS
+Kairos;https://pypi.python.org/pypi/kairos;Time-Series Databases;Time series data storage in Redis, Mongo, SQL and Cassandra
+Scaling Data;http://www.scalingdata.com/big-data;System Deployment;tracing data center problems to root cause, predict capacity issues, identify emerging failures and highlight latent threats
+CloudPhysics;https://www.cloudphysics.com/product/;System Deployment;collect operational metadata from your virtualized infrastructure, then correlate and analyze it to expose operational hazards and waste that pose a threat to your datacenter performance, efficiency and uptime
+Graphistry;http://www.graphistry.com/;Data Visualization;running on GPUs and turns static designs into interactive tools using client/cloud GPU infrastructure and GPU-accelerated languages like Superconductor

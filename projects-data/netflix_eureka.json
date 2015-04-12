@@ -1,0 +1,15 @@
+{
+  "name": "Netflix Eureka",
+  "description": "AWS Service registry for resilient mid-tier load balancing and failover",
+  "abstract": "AWS Service registry for resilient mid-tier load balancing and failover",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/Netflix/eureka"
+    }
+  ]
+}
