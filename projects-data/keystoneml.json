@@ -1,0 +1,15 @@
+{
+  "name": "KeystoneML",
+  "description": "a software framework, written in Scala, designed to simplify the construction of large scale, end-to-end, machine learning pipelines with Apache Spark.",
+  "abstract": "a software framework, written in Scala, designed to simplify the construction of large scale, end-to-end, machine learning pipelines with Apache Spark.",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://keystone-ml.org/"
+    }
+  ]
+}

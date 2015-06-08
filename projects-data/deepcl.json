@@ -1,0 +1,15 @@
+{
+  "name": "DeepCL",
+  "description": "OpenCL library to train deep convolutional neural networks",
+  "abstract": "OpenCL library to train deep convolutional neural networks",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/hughperkins/DeepCL"
+    }
+  ]
+}

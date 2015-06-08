@@ -1,0 +1,15 @@
+{
+  "name": "BigObject",
+  "description": "Real-time Computing Engine Designed for Big Data",
+  "abstract": "Real-time Computing Engine Designed for Big Data",
+  "category": "MySQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.bigobject.io/"
+    }
+  ]
+}

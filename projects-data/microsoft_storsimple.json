@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft StorSimple",
+  "description": "a unique hybrid cloud storage solution that lowers costs and improves data protection",
+  "abstract": "a unique hybrid cloud storage solution that lowers costs and improves data protection",
+  "category": "Document Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://azure.microsoft.com/en-us/services/storsimple/"
+    }
+  ]
+}

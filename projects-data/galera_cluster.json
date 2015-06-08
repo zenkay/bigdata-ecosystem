@@ -1,0 +1,15 @@
+{
+  "name": "Galera Cluster",
+  "description": "a synchronous multi-master cluster for MySQL, Percona and MariaDB",
+  "abstract": "a synchronous multi-master cluster for MySQL, Percona and MariaDB",
+  "category": "MySQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Galera Cluster Homepage",
+      "url": "http://galeracluster.com/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Mazerunner for Neo4j",
+  "description": "extends a Neo4j graph database to run scheduled big data graph compute algorithms at scale with HDFS and Apache Spark.",
+  "abstract": "extends a Neo4j graph database to run scheduled big data graph compute algorithms at scale with HDFS and Apache Spark.",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/kbastani/neo4j-mazerunner"
+    }
+  ]
+}

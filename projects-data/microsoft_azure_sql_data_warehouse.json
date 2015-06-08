@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft Azure SQL Data Warehouse",
+  "description": "businesses access to an elastic petabyte-scale, data warehouse-as-a-service offering that can scale according to their needs",
+  "abstract": "businesses access to an elastic petabyte-scale, data warehouse-as-a-service offering that can scale according to their needs",
+  "category": "Data Warehouse",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://techcrunch.com/2015/04/29/microsoft-introduces-azure-sql-data-warehouse/"
+    }
+  ]
+}

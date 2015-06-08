@@ -1,0 +1,15 @@
+{
+  "name": "Neon",
+  "description": "a highly configurable deep learning framework",
+  "abstract": "a highly configurable deep learning framework",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/NervanaSystems/neon"
+    }
+  ]
+}

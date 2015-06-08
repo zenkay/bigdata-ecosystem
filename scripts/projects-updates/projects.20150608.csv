@@ -1,0 +1,13 @@
+Amazon Elastic File System;https://aws.amazon.com/efs/;Distributed Filesystem;file storage service for Amazon Elastic Compute Cloud (Amazon EC2) instances
+Amazon Machine Learning;https://aws.amazon.com/machine-learning/;Machine Learning;visualization tools and wizards that guide you through the process of creating machine learning (ML) models without having to learn complex ML algorithms and technology
+DeepCL;https://github.com/hughperkins/DeepCL;Machine Learning;OpenCL library to train deep convolutional neural networks
+Palantir AtalsDB;https://www.palantir.com/2014/06/atlasdb-transactions-for-distributed-key-value-stores-part-i/;Key-Map Data Model;a massively scalable datastore and transactional layer that can be placed on top of any key-value store to give it ACID properties
+BigObject;http://www.bigobject.io/;MySQL forks and evolutions;Real-time Computing Engine Designed for Big Data
+Microsoft Azure Data Lake;http://azure.microsoft.com/en-us/campaigns/data-lake/;Distributed Filesystem;a hyper scale repository for big data analytic workloads
+Microsoft Azure SQL Data Warehouse;http://techcrunch.com/2015/04/29/microsoft-introduces-azure-sql-data-warehouse/;Data Warehouse;businesses access to an elastic petabyte-scale, data warehouse-as-a-service offering that can scale according to their needs
+Microsoft StorSimple;http://azure.microsoft.com/en-us/services/storsimple/;Document Data Model;a unique hybrid cloud storage solution that lowers costs and improves data protection
+Neon;https://github.com/NervanaSystems/neon;Machine Learning;a highly configurable deep learning framework
+Apache Zeppelin;http://zeppelin.incubator.apache.org/;Data Analysis;a web-based notebook that enables interactive data analytics
+Mazerunner for Neo4j;https://github.com/kbastani/neo4j-mazerunner;Graph Data Model;extends a Neo4j graph database to run scheduled big data graph compute algorithms at scale with HDFS and Apache Spark.
+Brytlyt;http://www.brytlyt.co.uk/technology/;SQL-like processing;a fully enabled GPGPU database which allows for offloading of database operations to General Processing on Graphics Processor Units.
+KeystoneML;http://keystone-ml.org/;Machine Learning;a software framework, written in Scala, designed to simplify the construction of large scale, end-to-end, machine learning pipelines with Apache Spark.

@@ -1,0 +1,15 @@
+{
+  "name": "Amazon Elastic File System",
+  "description": "file storage service for Amazon Elastic Compute Cloud (Amazon EC2) instances",
+  "abstract": "file storage service for Amazon Elastic Compute Cloud (Amazon EC2) instances",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://aws.amazon.com/efs/"
+    }
+  ]
+}

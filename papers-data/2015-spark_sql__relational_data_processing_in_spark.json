@@ -1,0 +1,15 @@
+{
+  "title": "Spark SQL: Relational Data Processing in Spark",
+  "year": "2015",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "http://people.csail.mit.edu/matei/papers/2015/sigmod_spark_sql.pdf"
+    }
+  ]
+}

@@ -173,6 +173,7 @@ Data
 
 ### Distributed Filesystem
 
+* [Amazon Elastic File System](https://aws.amazon.com/efs/) - file storage service for Amazon Elastic Compute Cloud (Amazon EC2) instances.
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [BeeGFS](http://www.fhgfs.com/cms/) - formerly FhGFS, parallel distributed file system.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
@@ -184,6 +185,7 @@ Data
 * [GridGain](http://www.gridgain.org/) - GGFS, Hadoop compliant in-memory file system.
 * [HDSF-DU](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. .
 * [Lustre file system](http://wiki.lustre.org/) - high-performance distributed filesystem.
+* [Microsoft Azure Data Lake](http://azure.microsoft.com/en-us/campaigns/data-lake/) - a hyper scale repository for big data analytic workloads.
 * [Netflix S3mper](https://github.com/Netflix/s3mper) - library that provides an additional layer of consistency checking on top of Amazon's S3 index through use of a consistent, secondary index.
 * [Quantcast File System QFS](https://www.quantcast.com/engineering/qfs/) - open-source distributed file system.
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
@@ -203,6 +205,7 @@ Data
 * [MapR-DB](http://content.dataversity.net/rs/wilshireconferences/images/MapR-DB_Product_Preview_for_NoSQL_Now.pdf) - fast, scalable, and enterprise-ready in-Hadoop database architected to manage big data.
 * [Netflix Priam](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 * [OhmData C5](http://ohmdata.com/) - improved version of HBase.
+* [Palantir AtalsDB](https://www.palantir.com/2014/06/atlasdb-transactions-for-distributed-key-value-stores-part-i/) - a massively scalable datastore and transactional layer that can be placed on top of any key-value store to give it ACID properties.
 * [Sqrrl](http://sqrrl.com/product/sqrrl-enterprise/) - NoSQL databases on top of Apache Accumulo.
 * [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
@@ -218,6 +221,7 @@ Data
 * [LinkedIn Espresso](http://data.linkedin.com/projects/espresso) - horizontally scalable document-oriented NoSQL data store.
 * [MarkLogic](http://www.marklogic.com/) - Schema-agnostic Enterprise NoSQL database technology.
 * [Microsoft DocumentDB](http://azure.microsoft.com/en-us/services/documentdb/) - fully-managed, highly-scalable, NoSQL document database service.
+* [Microsoft StorSimple](http://azure.microsoft.com/en-us/services/storsimple/) - a unique hybrid cloud storage solution that lowers costs and improves data protection.
 * [MongoDB](http://www.mongodb.org/) - Document-oriented database system.
 * [RavenDB](http://www.ravendb.net/) - A transactional, open-source Document Database.
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
@@ -268,6 +272,7 @@ Data
 * [Infovore](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
 * [MapGraph](http://mapgraph.io/) - Massively Parallel Graph processing on GPUs.
+* [Mazerunner for Neo4j](https://github.com/kbastani/neo4j-mazerunner) - extends a Neo4j graph database to run scheduled big data graph compute algorithms at scale with HDFS and Apache Spark..
 * [Neo4j](http://www.neo4j.org/) - graph database writting entirely in Java.
 * [OrientDB](http://www.orientechnologies.com/) - document and graph database.
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
@@ -336,6 +341,7 @@ Data
 * [Apache Optiq](https://wiki.apache.org/incubator/OptiqProposal) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.incubator.apache.org/index.html) - SQL skin over HBase.
 * [BlinkDB](http://blinkdb.org/) - massively parallel, approximate query engine.
+* [Brytlyt](http://www.brytlyt.co.uk/technology/) - a fully enabled GPGPU database which allows for offloading of database operations to General Processing on Graphics Processor Units..
 * [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html) - framework for interactive analysis, Inspired by Dremel.
 * [Concurrent Lingual](http://www.cascading.org/lingual/) - SQL-like query language for Cascading.
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
@@ -442,6 +448,7 @@ Data
 
 ### Machine Learning
 
+* [Amazon Machine Learning](https://aws.amazon.com/machine-learning/) - visualization tools and wizards that guide you through the process of creating machine learning (ML) models without having to learn complex ML algorithms and technology.
 * [Apache Mahout](http://mahout.apache.org/) - machine learning library for Hadoop.
 * [Ayasdi Core](http://www.ayasdi.com/) - tool for topological data analysis.
 * [brain](https://github.com/harthur/brain) - Neural networks in JavaScript.
@@ -450,16 +457,19 @@ Data
 * [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 * [cuDNN](http://devblogs.nvidia.com/parallelforall/accelerate-machine-learning-cudnn-deep-neural-network-library/) - GPU-accelerated library of primitives for deep neural networks.
 * [Decider](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
+* [DeepCL](https://github.com/hughperkins/DeepCL) - OpenCL library to train deep convolutional neural networks.
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 * [fbcunn](https://github.com/facebook/fbcunn) - Deep Learning CUDA Extensions from Facebook AI Research.
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) - cognitive computing system.
+* [KeystoneML](http://keystone-ml.org/) - a software framework, written in Scala, designed to simplify the construction of large scale, end-to-end, machine learning pipelines with Apache Spark..
 * [LinkedIn ml-ease](https://github.com/linkedin/ml-ease) - ADMM based large scale logistic regression.
 * [Microsoft Azure Machine Learning](https://studio.azureml.net/) - is built on the machine learning capabilities already available in several Microsoft products including Xbox and Bing and using predefined templates and workflows.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
+* [Neon](https://github.com/NervanaSystems/neon) - a highly configurable deep learning framework.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](http://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
@@ -590,11 +600,12 @@ Data
 
 * [Amazon Aurora](https://aws.amazon.com/rds/aurora/) - a MySQL-compatible, relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.
 * [Amazon RDS](http://aws.amazon.com/rds/) - MySQL databases in Amazon's cloud.
+* [BigObject](http://www.bigobject.io/) - Real-time Computing Engine Designed for Big Data.
 * [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
+* [Galera Cluster](http://galeracluster.com/) - a synchronous multi-master cluster for MySQL, Percona and MariaDB.
 * [Google Cloud SQL](https://developers.google.com/cloud-sql/) - MySQL databases in Google's cloud.
 * [HiveDB](http://www.hivedb.org/) - an open source framework for horizontally partitioning MySQL systems.
 * [MariaDB](https://mariadb.org/) - enhanced, drop-in replacement for MySQL.
-* [MariaDB Galera](https://mariadb.com/kb/en/mariadb/documentation/replication/galera/) - a synchronous multi-master cluster for MariaDB.
 * [MySQL Cluster](http://www.mysql.com/products/cluster/) - MySQL implementation using NDB Cluster storage engine providing shared-nothing clustering and auto-sharding.
 * [Percona Server](http://www.percona.com/software/percona-server) - enhanced, drop-in replacement for MySQL.
 * [ProxySQL](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
@@ -663,6 +674,7 @@ Data
 
 ### Data Analysis
 
+* [Apache Zeppelin](http://zeppelin.incubator.apache.org/) - a web-based notebook that enables interactive data analytics.
 * [Datameer](http://www.datameer.com/product/index.html) - data analytics application for Hadoop combines self-service data integration, analytics and visualization.
 * [LinkedIn Pinot](http://engineering.linkedin.com/analytics/real-time-analytics-massive-scale-pinot) - a distributed system that supports columnar indexes with the ability to add new types of indexes.
 * [Myria](http://myria.cs.washington.edu/) - scalable Analytics-as-a-Service platform based on relational algebra.
@@ -674,6 +686,7 @@ Data
 * [Google Mesa](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf) - highly scalable analytic data warehousing system.
 * [IBM BigInsights](http://www.ibm.com/software/data/infosphere/biginsights/) - data processing, warehousing and analytics.
 * [IBM dashDB](https://cloudant.com/dashdb/) - Data Warehousing and Analysis Needs, all in the Cloud.
+* [Microsoft Azure SQL Data Warehouse](http://techcrunch.com/2015/04/29/microsoft-introduces-azure-sql-data-warehouse/) - businesses access to an elastic petabyte-scale, data warehouse-as-a-service offering that can scale according to their needs.
 * [Microsoft Cosmos](http://research.microsoft.com/en-us/events/fs2011/helland_cosmos_big_data_and_big_challenges.pdf) - Microsoft's internal BigData analysis platform.
 
 ### Data Visualization
@@ -744,9 +757,11 @@ Data
 
 * **2015** - [Deep Image: Scaling up Image Recognition](http://arxiv.org/pdf/1501.02876v1.pdf)
 * **2015** - [Fast Convolutional Nets With fbfft: A GPU Performance Evaluation](http://arxiv.org/pdf/1412.7580v2.pdf)
+* **2015** - [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
 * **2015** - [Machine Learning Classification over Encrypted Data](http://www.internetsociety.org/sites/default/files/04_1_2.pdf)
 * **2015** - [Machine Learning Methods for Computer Security](http://drops.dagstuhl.de/opus/volltexte/2013/3790/pdf/dagrep_v002_i009_p109_s12371.pdf)
 * **2015** - [Self-Repairing Disk Arrays](http://arxiv.org/pdf/1501.00513v1.pdf)
+* **2015** - [Spark SQL: Relational Data Processing in Spark](http://people.csail.mit.edu/matei/papers/2015/sigmod_spark_sql.pdf)
 * **2015** - [Trill: A High-Performance Incremental Query Processor for Diverse Analytics](http://research.microsoft.com/pubs/231690/trill-vldb2015.pdf)
 
 ### 2014
@@ -815,6 +830,7 @@ Data
 * **2013** - [MillWheel: Fault-Tolerant Stream Processing at Internet Scale](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41378.pdf)
 * **2013** - [MLbase: A Distributed Machine-learning System](http://cidrdb.org/cidr2013/Papers/CIDR13_Paper118.pdf)
 * **2013** - [Naiad: A Timely Dataflow System](http://research.microsoft.com/pubs/201100/naiad_sosp2013.pdf)
+* **2013** - [Omega: flexible, scalable schedulers for large compute clusters](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf)
 * **2013** - [Online, Asynchronous Schema Change in F1](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p764-rae.pdf)
 * **2013** - [Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices](http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Venkataraman.pdf)
 * **2013** - [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)

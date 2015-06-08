@@ -1,0 +1,15 @@
+{
+  "name": "Brytlyt",
+  "description": "a fully enabled GPGPU database which allows for offloading of database operations to General Processing on Graphics Processor Units.",
+  "abstract": "a fully enabled GPGPU database which allows for offloading of database operations to General Processing on Graphics Processor Units.",
+  "category": "SQL-like processing",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.brytlyt.co.uk/technology/"
+    }
+  ]
+}

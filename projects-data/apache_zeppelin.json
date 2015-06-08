@@ -1,0 +1,15 @@
+{
+  "name": "Apache Zeppelin",
+  "description": "a web-based notebook that enables interactive data analytics",
+  "abstract": "a web-based notebook that enables interactive data analytics",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://zeppelin.incubator.apache.org/"
+    }
+  ]
+}

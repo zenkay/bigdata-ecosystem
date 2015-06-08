@@ -1,0 +1,15 @@
+{
+  "name": "Amazon Machine Learning",
+  "description": "visualization tools and wizards that guide you through the process of creating machine learning (ML) models without having to learn complex ML algorithms and technology",
+  "abstract": "visualization tools and wizards that guide you through the process of creating machine learning (ML) models without having to learn complex ML algorithms and technology",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://aws.amazon.com/machine-learning/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft Azure Data Lake",
+  "description": "a hyper scale repository for big data analytic workloads",
+  "abstract": "a hyper scale repository for big data analytic workloads",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://azure.microsoft.com/en-us/campaigns/data-lake/"
+    }
+  ]
+}
