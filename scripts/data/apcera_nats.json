@@ -1,0 +1,15 @@
+{
+  "name": "Apcera NATS",
+  "description": "an open-source, high-performance, lightweight cloud native messaging system",
+  "abstract": "an open-source, high-performance, lightweight cloud native messaging system",
+  "category": "http://nats.io/",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Message-oriented middleware"
+    }
+  ]
+}

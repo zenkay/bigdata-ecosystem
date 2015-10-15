@@ -1,0 +1,15 @@
+{
+  "name": "Doradus",
+  "description": "Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model, advanced indexing and search features, and a REST API",
+  "abstract": "Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model, advanced indexing and search features, and a REST API",
+  "category": "https://github.com/dell-oss/Doradus",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Graph Data Model"
+    }
+  ]
+}

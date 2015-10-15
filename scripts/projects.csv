@@ -1,0 +1,27 @@
+Amazon Simple Storage Service;Distributed Filesystem;http://aws.amazon.com/s3/;secure, durable, highly-scalable object storage
+Periscope;Data Analysis;https://www.periscope.io/;plugs directly into your databases and lets you run, save, and share analyses over billions of data rows in seconds
+Caffe;Machine Learning;http://caffe.berkeleyvision.org/;a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Cente
+UnQLite;Embedded Databases;http://unqlite.org/;a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine
+Algolia;Search engine and framework;https://www.algolia.com/;Hosted Search API that delivers instant and relevant results from the first keystroke
+RebornDB;Key-value Data Model;https://github.com/reborndb/reborn;Distributed database fully compatible with redis protocol
+QDB;Key-value Data Model;https://github.com/reborndb/qdb;A fast, high availability, fully Redis compatible store
+MapR-FS;Distributed Filesystem;http://doc.mapr.com/display/MapR/MapR-FS;Distributed filesystem from MapR
+Oryx;Distributed Programming;http://oryx.io/;is a realization of the lambda architecture built on Apache Spark and Apache Kafka, but with specialization for real-time large scale machine learning
+Velox;Machine Learning;https://github.com/amplab/velox-modelserver;a system for serving machine learning predictions
+KeystoneML;Machine Learning;https://github.com/amplab/keystone;Simplifying robust end-to-end machine learning on Apache Spark
+Seldon;Machine Learning;http://www.seldon.io/;an open source predictive analytics platform based upon Spark, Kafka and Hadoop
+Doradus;Graph Data Model;https://github.com/dell-oss/Doradus;Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model, advanced indexing and search features, and a REST API
+Microsoft Cortana Analytics;Data Analysis;http://www.microsoft.com/en-us/server-cloud/cortana-analytics-suite/overview.aspx;a fully managed big data and advanced analytics  suite that enables you to transform your data into  intelligent action.
+Ibis;Data Analysis;http://www.ibis-project.org/;Python big data analysis framework for high performance at Hadoop-scale, with first-class integration with Impala
+AirBnB Airflow;Scheduling;https://github.com/airbnb/airflow;AirFlow is a system to programmatically author, schedule and monitor data pipelines
+Google Pub/Sub;Message-oriented middleware;https://cloud.google.com/pubsub/;reliable, many-to-many, asynchronous messaging hosted on Google's infrastructure
+Azure Event Hubs;Message-oriented middleware;http://azure.microsoft.com/en-us/services/event-hubs/;a highly scalable publish-subscribe event ingestor
+Twitter Heron;Distributed Programming;https://blog.twitter.com/2015/flying-faster-with-twitter-heron;real-time processing framework, successor of Storm
+Apcera NATS;Message-oriented middleware;http://nats.io/;an open-source, high-performance, lightweight cloud native messaging system
+LinkedIn FeatureFu;Machine Learning;https://github.com/linkedin/FeatureFu;contains a collection of library/tools for advanced feature engineering to derive features on top of other features, or convert a light weighted model into a feature
+Twitter Gizzard;Distributed Programming;https://github.com/twitter/gizzard;a flexible sharding framework for creating eventually-consistent distributed datastores
+Twitter Crane;Distributed Programming;http://www.theregister.co.uk/2010/06/29/twitter_to_open_source_crane/;Java ETL
+Twitter Nighthawk;https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6;https://www.linkedin.com/in/borghino;Redis like cache system
+Twitter Rasvelg;http://www.slideshare.net/billonahill/hadoop-summit-2012-hadoop-and-vertica-the-data-analytics-platform-at-twitter;managing non Pig jobs - SQL aggregation
+Blaze;Distributed Programming;http://blaze.pydata.org/en/latest/;Python users high-level access to efficient computation on inconveniently large data
+Microsoft Project Orleans;Distributed Programming;http://dotnet.github.io/orleans/;a framework that provides a straightforward approach to building distributed high-scale computing applications

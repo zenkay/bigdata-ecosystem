@@ -1,0 +1,15 @@
+{
+  "name": "Ibis",
+  "description": "Python big data analysis framework for high performance at Hadoop-scale, with first-class integration with Impala",
+  "abstract": "Python big data analysis framework for high performance at Hadoop-scale, with first-class integration with Impala",
+  "category": "http://www.ibis-project.org/",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Data Analysis"
+    }
+  ]
+}

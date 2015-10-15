@@ -1,0 +1,15 @@
+{
+  "name": "Caffe",
+  "description": "a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Cente",
+  "abstract": "a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Cente",
+  "category": "http://caffe.berkeleyvision.org/",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Machine Learning"
+    }
+  ]
+}

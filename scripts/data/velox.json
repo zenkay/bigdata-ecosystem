@@ -1,0 +1,15 @@
+{
+  "name": "Velox",
+  "description": "a system for serving machine learning predictions",
+  "abstract": "a system for serving machine learning predictions",
+  "category": "https://github.com/amplab/velox-modelserver",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Machine Learning"
+    }
+  ]
+}

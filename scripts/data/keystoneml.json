@@ -1,0 +1,15 @@
+{
+  "name": "KeystoneML",
+  "description": "Simplifying robust end-to-end machine learning on Apache Spark",
+  "abstract": "Simplifying robust end-to-end machine learning on Apache Spark",
+  "category": "https://github.com/amplab/keystone",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Machine Learning"
+    }
+  ]
+}

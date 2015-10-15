@@ -1,0 +1,15 @@
+{
+  "name": "QDB",
+  "description": "A fast, high availability, fully Redis compatible store",
+  "abstract": "A fast, high availability, fully Redis compatible store",
+  "category": "https://github.com/reborndb/qdb",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Key-value Data Model"
+    }
+  ]
+}

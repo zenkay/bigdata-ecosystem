@@ -1,0 +1,15 @@
+{
+  "name": "Azure Event Hubs",
+  "description": "a highly scalable publish-subscribe event ingestor",
+  "abstract": "a highly scalable publish-subscribe event ingestor",
+  "category": "http://azure.microsoft.com/en-us/services/event-hubs/",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "Message-oriented middleware"
+    }
+  ]
+}
