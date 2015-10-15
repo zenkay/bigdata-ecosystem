@@ -2,14 +2,14 @@
   "name": "UnQLite",
   "description": "a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine",
   "abstract": "a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine",
-  "category": "http://unqlite.org/",
+  "category": "Embedded Databases",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Embedded Databases"
+      "url": "http://unqlite.org/"
     }
   ]
 }

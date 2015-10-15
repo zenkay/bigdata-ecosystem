@@ -2,14 +2,14 @@
   "name": "Seldon",
   "description": "an open source predictive analytics platform based upon Spark, Kafka and Hadoop",
   "abstract": "an open source predictive analytics platform based upon Spark, Kafka and Hadoop",
-  "category": "http://www.seldon.io/",
+  "category": "Machine Learning",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Machine Learning"
+      "url": "http://www.seldon.io/"
     }
   ]
 }

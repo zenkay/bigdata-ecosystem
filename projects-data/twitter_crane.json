@@ -2,14 +2,14 @@
   "name": "Twitter Crane",
   "description": "Java ETL",
   "abstract": "Java ETL",
-  "category": "http://www.theregister.co.uk/2010/06/29/twitter_to_open_source_crane/",
+  "category": "Distributed Programming",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Distributed Programming"
+      "url": "http://www.theregister.co.uk/2010/06/29/twitter_to_open_source_crane/"
     }
   ]
 }

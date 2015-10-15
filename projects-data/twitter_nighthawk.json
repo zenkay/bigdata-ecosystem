@@ -2,14 +2,14 @@
   "name": "Twitter Nighthawk",
   "description": "Redis like cache system",
   "abstract": "Redis like cache system",
-  "category": "https://www.linkedin.com/in/borghino",
+  "category": "https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6"
+      "url": "https://www.linkedin.com/in/borghino"
     }
   ]
 }

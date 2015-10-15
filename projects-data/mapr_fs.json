@@ -2,14 +2,14 @@
   "name": "MapR-FS",
   "description": "Distributed filesystem from MapR",
   "abstract": "Distributed filesystem from MapR",
-  "category": "http://doc.mapr.com/display/MapR/MapR-FS",
+  "category": "Distributed Filesystem",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Distributed Filesystem"
+      "url": "http://doc.mapr.com/display/MapR/MapR-FS"
     }
   ]
 }

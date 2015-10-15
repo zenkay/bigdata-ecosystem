@@ -2,14 +2,14 @@
   "name": "Microsoft Project Orleans",
   "description": "a framework that provides a straightforward approach to building distributed high-scale computing applications",
   "abstract": "a framework that provides a straightforward approach to building distributed high-scale computing applications",
-  "category": "http://dotnet.github.io/orleans/",
+  "category": "Distributed Programming",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Distributed Programming"
+      "url": "http://dotnet.github.io/orleans/"
     }
   ]
 }

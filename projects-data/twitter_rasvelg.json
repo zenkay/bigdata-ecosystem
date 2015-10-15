@@ -1,0 +1,15 @@
+{
+  "name": "Twitter Rasvelg",
+  "description": null,
+  "abstract": null,
+  "category": "http://www.slideshare.net/billonahill/hadoop-summit-2012-hadoop-and-vertica-the-data-analytics-platform-at-twitter",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "managing non Pig jobs - SQL aggregation"
+    }
+  ]
+}

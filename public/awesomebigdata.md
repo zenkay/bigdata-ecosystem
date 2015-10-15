@@ -65,6 +65,7 @@ Your contributions are always welcome!
 * [Apache Storm](http://storm-project.net/) - framework for stream processing by Twitter also on YARN.
 * [Apache Tez](http://tez.incubator.apache.org/) - application framework for executing a complex DAG (directed acyclic graph) of tasks, built on YARN.
 * [Apache Twill](https://incubator.apache.org/projects/twill.html) - abstraction over YARN that reduces the complexity of developing distributed applications.
+* [Blaze](http://blaze.pydata.org/en/latest/) - Python users high-level access to efficient computation on inconveniently large data.
 * [Cascalog](http://cascalog.org/) - data processing and querying library.
 * [Cheetah](http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf) - High Performance, Custom Data Warehouse on Top of MapReduce.
 * [Concurrent Cascading](http://www.cascading.org/) - framework for data management/analytics on Hadoop.
@@ -97,6 +98,7 @@ Your contributions are always welcome!
 * [Metamarkers Druid](http://druid.io/) - framework for real-time analysis of large datasets.
 * [Microsoft Azure Stream Analytics](http://azure.microsoft.com/en-us/services/stream-analytics/) - an event processing engine that helps uncover real-time insights from devices, sensors, infrastructure, applications and data.
 * [Microsoft Orleans](http://research.microsoft.com/en-us/projects/orleans/) - a straightforward approach to building distributed high-scale computing applications.
+* [Microsoft Project Orleans](http://dotnet.github.io/orleans/) - a framework that provides a straightforward approach to building distributed high-scale computing applications.
 * [Microsoft Trill](http://research.microsoft.com/en-us/projects/trill/) - a high-performance in-memory incremental analytics engine.
 * [Netflix Aegisthus](https://github.com/Netflix/aegisthus) - Bulk Data Pipeline out of Cassandra. implements a reader for the SSTable format and provides a map/reduce program to create a compacted snapshot of the data contained in a column family.
 * [Netflix Lipstick](https://github.com/Netflix/Lipstick) - Pig Visualization framework.
@@ -107,6 +109,7 @@ Your contributions are always welcome!
 * [Netflix Zeno](https://github.com/Netflix/zeno) - Netflix's In-Memory Data Propagation Framework.
 * [Nextflow](http://www.nextflow.io) - Dataflow oriented toolkit for parallel and distributed computational pipelines.
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
+* [Oryx](http://oryx.io/) - is a realization of the lambda architecture built on Apache Spark and Apache Kafka, but with specialization for real-time large scale machine learning.
 * [Parsely Streamparse](https://github.com/Parsely/streamparse) - streamparse lets you run Python code against real-time streams of data. It also integrates Python smoothly with Apache Storm..
 * [PigPen](https://github.com/Netflix/PigPen) - PigPen is map-reduce for Clojure, or distributed Clojure. It compiles to Apache Pig, but you don't need to know much about Pig to use it.
 * [Pinterest Pinlater](http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system) - asynchronous job execution system.
@@ -129,6 +132,9 @@ Your contributions are always welcome!
 * [Tigon](http://cask.co/products/tigon/) - a distributed framework built on Apache HadoopTM and Apache HBaseTM for real-time, high-throughput, low-latency data processing and analytics applications.
 * [Torch](http://torch.ch/) - Scientific computing for LuaJIT.
 * [Trident](https://storm.apache.org/documentation/Trident-tutorial.html) - a high-level abstraction for doing realtime computing on top of Storm.
+* [Twitter Crane](http://www.theregister.co.uk/2010/06/29/twitter_to_open_source_crane/) - Java ETL.
+* [Twitter Gizzard](https://github.com/twitter/gizzard) - a flexible sharding framework for creating eventually-consistent distributed datastores.
+* [Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron) - real-time processing framework, successor of Storm.
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
 * [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 * [Twitter TSAR](https://blog.twitter.com/2014/tsar-a-timeseries-aggregator) - TimeSeries AggregatoR by Twitter.
@@ -136,6 +142,7 @@ Your contributions are always welcome!
 ## Distributed Filesystem
 
 * [Amazon Elastic File System](https://aws.amazon.com/efs/) - file storage service for Amazon Elastic Compute Cloud (Amazon EC2) instances.
+* [Amazon Simple Storage Service](http://aws.amazon.com/s3/) - secure, durable, highly-scalable object storage.
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [BeeGFS](http://www.fhgfs.com/cms/) - formerly FhGFS, parallel distributed file system.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
@@ -147,6 +154,7 @@ Your contributions are always welcome!
 * [GridGain](http://www.gridgain.org/) - GGFS, Hadoop compliant in-memory file system.
 * [HDSF-DU](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. .
 * [Lustre file system](http://wiki.lustre.org/) - high-performance distributed filesystem.
+* [MapR-FS](http://doc.mapr.com/display/MapR/MapR-FS) - Distributed filesystem from MapR.
 * [Microsoft Azure Data Lake](http://azure.microsoft.com/en-us/campaigns/data-lake/) - a hyper scale repository for big data analytic workloads.
 * [Netflix S3mper](https://github.com/Netflix/s3mper) - library that provides an additional layer of consistency checking on top of Amazon's S3 index through use of a consistent, secondary index.
 * [Quantcast File System QFS](https://www.quantcast.com/engineering/qfs/) - open-source distributed file system.
@@ -206,7 +214,9 @@ Your contributions are always welcome!
 * [MemcacheDB](http://memcachedb.org/) - a distributed key-value storage system designed for persistent.
 * [Netflix Dynomite](http://techblog.netflix.com/2014/03/netflixoss-season-2-episode-1.html) - thin Dynamo-based replication for cached data.
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
+* [QDB](https://github.com/reborndb/qdb) - A fast, high availability, fully Redis compatible store.
 * [RAMCloud](https://ramcloud.atlassian.net/wiki/display/RAM/RAMCloud) - storage system that provides large-scale low-latency storage by keeping all data in DRAM all the time and aggregating the main memories of thousands of servers.
+* [RebornDB](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 * [Redis](http://redis.io) - in memory key value datastore.
 * [Redis Cluster](http://redis.io/topics/cluster-spec) - distributed implementation of Redis.
 * [Redis Sentinel](http://redis.io/topics/sentinel) - system designed to help managing Redis instances.
@@ -222,6 +232,7 @@ Your contributions are always welcome!
 * [Apache Giraph](http://giraph.apache.org/) - implementation of Pregel, based on Hadoop.
 * [Apache Spark Bagel](http://spark.incubator.apache.org/docs/0.7.3/bagel-programming-guide.html) - implementation of Pregel, part of Spark.
 * [ArangoDB](https://www.arangodb.org/) - multi model distribuited database.
+* [Doradus](https://github.com/dell-oss/Doradus) - Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model, advanced indexing and search features, and a REST API.
 * [Facebook TAO](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - TAO is the distributed data store that is widely used at facebook to store and serve the social graph.
 * [Faunus](http://thinkaurelius.github.io/faunus/) - Hadoop-based graph analytics engine for analyzing graphs represented across a multi-machine compute cluster.
 * [Google Cayley](https://github.com/google/cayley) - open-source graph database.
@@ -361,7 +372,9 @@ Your contributions are always welcome!
 * [Amazon Simple Queue Service](http://aws.amazon.com/sqs/) - fast, reliable, scalable, fully managed queue service.
 * [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
 * [Apache Qpid](http://qpid.apache.org/) - messaging tools that speak AMQP and support many languages and platforms.
+* [Apcera NATS](http://nats.io/) - an open-source, high-performance, lightweight cloud native messaging system.
 * [Apollo](http://activemq.apache.org/apollo/) - ActiveMQ's next generation of messaging.
+* [Azure Event Hubs](http://azure.microsoft.com/en-us/services/event-hubs/) - a highly scalable publish-subscribe event ingestor.
 * [Beanstalkd](http://kr.github.io/beanstalkd/) - simple, fast work queue.
 * [Bit.ly NSQ](http://nsq.io/) - realtime distributed message processing at scale.
 * [Celery](http://www.celeryproject.org/) - Distributed Task Queue.
@@ -370,6 +383,7 @@ Your contributions are always welcome!
 * [Facebook Iris](https://code.facebook.com/posts/820258981365363/building-mobile-first-infrastructure-for-messenger/) - a totally ordered queue of messaging updates with separate pointers into the queue indicating the last update sent to your Messenger app and the traditional storage tier.
 * [Gearman](http://gearman.org) - Job Server.
 * [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/) - reliable, many-to-many, asynchronous messaging hosted on Google's infrastructure.
+* [Google Pub/Sub](https://cloud.google.com/pubsub/) - reliable, many-to-many, asynchronous messaging hosted on Google's infrastructure.
 * [HornetQ](http://www.jboss.org/hornetq) - open source project to build a multi-protocol, embeddable, very high performance, clustered, asynchronous messaging system.
 * [IronMQ](http://www.iron.io/mq) - easy-to-use highly available message queuing service.
 * [Kestrel](http://robey.github.io/kestrel/) - distributed message queue system.
@@ -400,6 +414,7 @@ Your contributions are always welcome!
 
 ## Scheduling
 
+* [AirBnB Airflow](https://github.com/airbnb/airflow) - AirFlow is a system to programmatically author, schedule and monitor data pipelines.
 * [Apache Aurora](http://aurora.incubator.apache.org/) - is a service scheduler that runs on top of Apache Mesos.
 * [Apache Falcon](http://falcon.incubator.apache.org/) - data management framework.
 * [Apache Oozie](http://oozie.apache.org/) - workflow job scheduler.
@@ -414,6 +429,7 @@ Your contributions are always welcome!
 * [Apache Mahout](http://mahout.apache.org/) - machine learning library for Hadoop.
 * [Ayasdi Core](http://www.ayasdi.com/) - tool for topological data analysis.
 * [brain](https://github.com/harthur/brain) - Neural networks in JavaScript.
+* [Caffe](http://caffe.berkeleyvision.org/) - a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Cente.
 * [Cloudera Oryx](https://github.com/cloudera/oryx) - real-time large-scale machine learning.
 * [Concurrent Pattern](http://www.cascading.org/pattern/) - machine learning library for Cascading.
 * [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
@@ -426,7 +442,8 @@ Your contributions are always welcome!
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) - cognitive computing system.
-* [KeystoneML](http://keystone-ml.org/) - a software framework, written in Scala, designed to simplify the construction of large scale, end-to-end, machine learning pipelines with Apache Spark..
+* [KeystoneML](https://github.com/amplab/keystone) - Simplifying robust end-to-end machine learning on Apache Spark.
+* [LinkedIn FeatureFu](https://github.com/linkedin/FeatureFu) - contains a collection of library/tools for advanced feature engineering to derive features on top of other features, or convert a light weighted model into a feature.
 * [LinkedIn ml-ease](https://github.com/linkedin/ml-ease) - ADMM based large scale logistic regression.
 * [Microsoft Azure Machine Learning](https://studio.azureml.net/) - is built on the machine learning capabilities already available in several Microsoft products including Xbox and Bing and using predefined templates and workflows.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
@@ -435,11 +452,13 @@ Your contributions are always welcome!
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](http://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
+* [Seldon](http://www.seldon.io/) - an open source predictive analytics platform based upon Spark, Kafka and Hadoop.
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Sparkling Water](http://databricks.com/blog/2014/06/30/sparkling-water-h20-spark.html) - combine H2OÕs Machine Learning capabilities with the power of the Spark platform.
 * [Theano](http://deeplearning.net/software/theano/) - Python package for deep learning that can utilize NVIDIA's CUDA toolkit to run on the GPU.
 * [Thunder](http://thefreemanlab.com/thunder/) - Large-scale analysis of neural data.
 * [Vahara](https://github.com/Ganglion/varaha) - Machine learning and natural language processing with Apache Pig.
+* [Velox](https://github.com/amplab/velox-modelserver) - a system for serving machine learning predictions.
 * [Viv](http://viv.ai/) - global platform that enables developers to plug into and create an intelligent, conversational interface to anything.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
@@ -537,6 +556,7 @@ Your contributions are always welcome!
 
 ## Search engine and framework
 
+* [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
 * [Apache Blur](https://incubator.apache.org/blur/) - a search engine capable of querying massive amounts of structured data at incredible speeds.
 * [Apache Lucene](http://lucene.apache.org/) - Search engine library.
 * [Apache Solr](http://lucene.apache.org/solr/) - Search platform for Apache Lucene.
@@ -607,6 +627,7 @@ Your contributions are always welcome!
 * [LMDB](http://symas.com/mdb/) - ultra-fast, ultra-compact key-value embedded data store developed by Symas.
 * [RocksDB](http://rocksdb.org/) - embeddable persistent key-value store for fast storage based on LevelDB.
 * [TokioCabinet](http://fallabs.com/tokyocabinet/) - a library of routines for managing a database.
+* [UnQLite](http://unqlite.org/) - a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine.
 
 ## Business Intelligence
 
@@ -638,8 +659,11 @@ Your contributions are always welcome!
 
 * [Apache Zeppelin](http://zeppelin.incubator.apache.org/) - a web-based notebook that enables interactive data analytics.
 * [Datameer](http://www.datameer.com/product/index.html) - data analytics application for Hadoop combines self-service data integration, analytics and visualization.
+* [Ibis](http://www.ibis-project.org/) - Python big data analysis framework for high performance at Hadoop-scale, with first-class integration with Impala.
 * [LinkedIn Pinot](http://engineering.linkedin.com/analytics/real-time-analytics-massive-scale-pinot) - a distributed system that supports columnar indexes with the ability to add new types of indexes.
+* [Microsoft Cortana Analytics](http://www.microsoft.com/en-us/server-cloud/cortana-analytics-suite/overview.aspx) - a fully managed big data and advanced analytics  suite that enables you to transform your data into  intelligent action..
 * [Myria](http://myria.cs.washington.edu/) - scalable Analytics-as-a-Service platform based on relational algebra.
+* [Periscope](https://www.periscope.io/) - plugs directly into your databases and lets you run, save, and share analyses over billions of data rows in seconds.
 * [Pinalytics](http://engineering.pinterest.com/post/104418761649/building-pinalytics-pinterests-data-analytics) - Pinterestâs data analytics engine.
 * [Zillabyte](http://zillabyte.com/) - an API for distributed data computation. Scale with your data..
 

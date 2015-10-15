@@ -2,14 +2,14 @@
   "name": "Oryx",
   "description": "is a realization of the lambda architecture built on Apache Spark and Apache Kafka, but with specialization for real-time large scale machine learning",
   "abstract": "is a realization of the lambda architecture built on Apache Spark and Apache Kafka, but with specialization for real-time large scale machine learning",
-  "category": "http://oryx.io/",
+  "category": "Distributed Programming",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Distributed Programming"
+      "url": "http://oryx.io/"
     }
   ]
 }

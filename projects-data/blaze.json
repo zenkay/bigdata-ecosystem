@@ -2,14 +2,14 @@
   "name": "Blaze",
   "description": "Python users high-level access to efficient computation on inconveniently large data",
   "abstract": "Python users high-level access to efficient computation on inconveniently large data",
-  "category": "http://blaze.pydata.org/en/latest/",
+  "category": "Distributed Programming",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Distributed Programming"
+      "url": "http://blaze.pydata.org/en/latest/"
     }
   ]
 }

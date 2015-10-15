@@ -2,14 +2,14 @@
   "name": "Amazon Simple Storage Service",
   "description": "secure, durable, highly-scalable object storage",
   "abstract": "secure, durable, highly-scalable object storage",
-  "category": "http://aws.amazon.com/s3/",
+  "category": "Distributed Filesystem",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Distributed Filesystem"
+      "url": "http://aws.amazon.com/s3/"
     }
   ]
 }

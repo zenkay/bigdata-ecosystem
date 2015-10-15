@@ -2,14 +2,14 @@
   "name": "Periscope",
   "description": "plugs directly into your databases and lets you run, save, and share analyses over billions of data rows in seconds",
   "abstract": "plugs directly into your databases and lets you run, save, and share analyses over billions of data rows in seconds",
-  "category": "https://www.periscope.io/",
+  "category": "Data Analysis",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Data Analysis"
+      "url": "https://www.periscope.io/"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "name": "RebornDB",
   "description": "Distributed database fully compatible with redis protocol",
   "abstract": "Distributed database fully compatible with redis protocol",
-  "category": "https://github.com/reborndb/reborn",
+  "category": "Key-value Data Model",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Key-value Data Model"
+      "url": "https://github.com/reborndb/reborn"
     }
   ]
 }

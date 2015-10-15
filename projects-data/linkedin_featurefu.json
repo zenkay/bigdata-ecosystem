@@ -2,14 +2,14 @@
   "name": "LinkedIn FeatureFu",
   "description": "contains a collection of library/tools for advanced feature engineering to derive features on top of other features, or convert a light weighted model into a feature",
   "abstract": "contains a collection of library/tools for advanced feature engineering to derive features on top of other features, or convert a light weighted model into a feature",
-  "category": "https://github.com/linkedin/FeatureFu",
+  "category": "Machine Learning",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Machine Learning"
+      "url": "https://github.com/linkedin/FeatureFu"
     }
   ]
 }

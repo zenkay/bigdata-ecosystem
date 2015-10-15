@@ -2,14 +2,14 @@
   "name": "Algolia",
   "description": "Hosted Search API that delivers instant and relevant results from the first keystroke",
   "abstract": "Hosted Search API that delivers instant and relevant results from the first keystroke",
-  "category": "https://www.algolia.com/",
+  "category": "Search engine and framework",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Search engine and framework"
+      "url": "https://www.algolia.com/"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "KeystoneML",
-  "description": "a software framework, written in Scala, designed to simplify the construction of large scale, end-to-end, machine learning pipelines with Apache Spark.",
-  "abstract": "a software framework, written in Scala, designed to simplify the construction of large scale, end-to-end, machine learning pipelines with Apache Spark.",
+  "description": "Simplifying robust end-to-end machine learning on Apache Spark",
+  "abstract": "Simplifying robust end-to-end machine learning on Apache Spark",
   "category": "Machine Learning",
   "tags": [
 
@@ -9,7 +9,7 @@
   "links": [
     {
       "text": "Website",
-      "url": "http://keystone-ml.org/"
+      "url": "https://github.com/amplab/keystone"
     }
   ]
 }

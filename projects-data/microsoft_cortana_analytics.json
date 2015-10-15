@@ -2,14 +2,14 @@
   "name": "Microsoft Cortana Analytics",
   "description": "a fully managed big data and advanced analytics  suite that enables you to transform your data into  intelligent action.",
   "abstract": "a fully managed big data and advanced analytics  suite that enables you to transform your data into  intelligent action.",
-  "category": "http://www.microsoft.com/en-us/server-cloud/cortana-analytics-suite/overview.aspx",
+  "category": "Data Analysis",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Data Analysis"
+      "url": "http://www.microsoft.com/en-us/server-cloud/cortana-analytics-suite/overview.aspx"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "name": "AirBnB Airflow",
   "description": "AirFlow is a system to programmatically author, schedule and monitor data pipelines",
   "abstract": "AirFlow is a system to programmatically author, schedule and monitor data pipelines",
-  "category": "https://github.com/airbnb/airflow",
+  "category": "Scheduling",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Scheduling"
+      "url": "https://github.com/airbnb/airflow"
     }
   ]
 }

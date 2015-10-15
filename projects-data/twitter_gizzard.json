@@ -2,14 +2,14 @@
   "name": "Twitter Gizzard",
   "description": "a flexible sharding framework for creating eventually-consistent distributed datastores",
   "abstract": "a flexible sharding framework for creating eventually-consistent distributed datastores",
-  "category": "https://github.com/twitter/gizzard",
+  "category": "Distributed Programming",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Distributed Programming"
+      "url": "https://github.com/twitter/gizzard"
     }
   ]
 }

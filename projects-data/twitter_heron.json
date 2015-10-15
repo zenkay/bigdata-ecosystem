@@ -2,14 +2,14 @@
   "name": "Twitter Heron",
   "description": "real-time processing framework, successor of Storm",
   "abstract": "real-time processing framework, successor of Storm",
-  "category": "https://blog.twitter.com/2015/flying-faster-with-twitter-heron",
+  "category": "Distributed Programming",
   "tags": [
 
   ],
   "links": [
     {
       "text": "Website",
-      "url": "Distributed Programming"
+      "url": "https://blog.twitter.com/2015/flying-faster-with-twitter-heron"
     }
   ]
 }
