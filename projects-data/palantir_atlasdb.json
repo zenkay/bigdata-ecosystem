@@ -1,5 +1,5 @@
 {
-  "name": "Palantir AtalsDB",
+  "name": "Palantir AtlasDB",
   "description": "a massively scalable datastore and transactional layer that can be placed on top of any key-value store to give it ACID properties",
   "abstract": "a massively scalable datastore and transactional layer that can be placed on top of any key-value store to give it ACID properties",
   "category": "Key-Map Data Model",
