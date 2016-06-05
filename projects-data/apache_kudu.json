@@ -1,0 +1,15 @@
+{
+  "name": "Apache Kudu",
+  "description": "completes Hadoop's storage layer to enable fast analytics on fast data",
+  "abstract": "completes Hadoop's storage layer to enable fast analytics on fast data",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://getkudu.io/"
+    }
+  ]
+}

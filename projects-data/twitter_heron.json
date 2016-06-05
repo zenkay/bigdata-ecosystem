@@ -1,7 +1,7 @@
 {
   "name": "Twitter Heron",
-  "description": "real-time processing framework, successor of Storm",
-  "abstract": "real-time processing framework, successor of Storm",
+  "description": "a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+  "abstract": "a realtime, distributed, fault-tolerant stream processing engine from Twitter",
   "category": "Distributed Programming",
   "tags": [
 
@@ -9,7 +9,7 @@
   "links": [
     {
       "text": "Website",
-      "url": "https://blog.twitter.com/2015/flying-faster-with-twitter-heron"
+      "url": "http://twitter.github.io/heron/"
     }
   ]
 }

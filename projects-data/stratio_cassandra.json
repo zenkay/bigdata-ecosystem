@@ -1,0 +1,15 @@
+{
+  "name": "Stratio Cassandra",
+  "description": "Cassandra index functionality has been extended to provide near real time search such as ElasticSearch or Solr, including full text search capabilities and multivariable, geospatial and bitemporal search",
+  "abstract": "Cassandra index functionality has been extended to provide near real time search such as ElasticSearch or Solr, including full text search capabilities and multivariable, geospatial and bitemporal search",
+  "category": "Key-Map Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://docs.stratio.com/modules/cassandra-lucene-index/development/"
+    }
+  ]
+}

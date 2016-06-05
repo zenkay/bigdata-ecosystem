@@ -1,0 +1,15 @@
+{
+  "name": "Stratio Viewer",
+  "description": "dashboarding tool",
+  "abstract": "dashboarding tool",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.stratio.com/viewer/kbase/"
+    }
+  ]
+}

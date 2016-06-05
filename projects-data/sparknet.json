@@ -1,0 +1,15 @@
+{
+  "name": "SparkNet",
+  "description": "Distributed Neural Networks for Spark",
+  "abstract": "Distributed Neural Networks for Spark",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/amplab/SparkNet"
+    }
+  ]
+}

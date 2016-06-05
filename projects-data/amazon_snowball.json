@@ -1,0 +1,15 @@
+{
+  "name": "Amazon Snowball",
+  "description": "a petabyte-scale data transport solution that uses secure appliances to transfer large amounts of data into and out of AWS",
+  "abstract": "a petabyte-scale data transport solution that uses secure appliances to transfer large amounts of data into and out of AWS",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://aws.amazon.com/importexport/"
+    }
+  ]
+}

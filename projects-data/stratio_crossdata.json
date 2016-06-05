@@ -1,0 +1,15 @@
+{
+  "name": "Stratio Crossdata",
+  "description": "provides an unified way to access to multiple datastores",
+  "abstract": "provides an unified way to access to multiple datastores",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://docs.stratio.com/modules/crossdata/development"
+    }
+  ]
+}

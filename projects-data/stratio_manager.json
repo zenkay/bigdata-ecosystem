@@ -1,0 +1,15 @@
+{
+  "name": "Stratio Manager",
+  "description": "install, manage and monitor all the technology stack related to the Stratio Platform",
+  "abstract": "install, manage and monitor all the technology stack related to the Stratio Platform",
+  "category": "System Deployment",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://docs.stratio.com/modules/manager/development"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "HashiCorp Nomad",
+  "description": "a Distributed, Highly Available, Datacenter-Aware Scheduler",
+  "abstract": "a Distributed, Highly Available, Datacenter-Aware Scheduler",
+  "category": "Container Manager",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://www.nomadproject.io/"
+    }
+  ]
+}

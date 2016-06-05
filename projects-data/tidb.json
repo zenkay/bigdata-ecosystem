@@ -1,0 +1,15 @@
+{
+  "name": "TiDB",
+  "description": "a distributed SQL database inspired by the design of Google F1",
+  "abstract": "a distributed SQL database inspired by the design of Google F1",
+  "category": "MySQL forks and evolutions",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/pingcap/tidb"
+    }
+  ]
+}

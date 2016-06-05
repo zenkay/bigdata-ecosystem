@@ -1,0 +1,15 @@
+{
+  "name": "AMPLab Splash",
+  "description": "a general framework for parallelizing stochastic learning algorithms on multi-node clusters",
+  "abstract": "a general framework for parallelizing stochastic learning algorithms on multi-node clusters",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://zhangyuc.github.io/splash/"
+    }
+  ]
+}

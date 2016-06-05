@@ -1,0 +1,15 @@
+{
+  "name": "Stratio Ingestion",
+  "description": "Apache Flume with steroids",
+  "abstract": "Apache Flume with steroids",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://docs.stratio.com/modules/ingestion/development"
+    }
+  ]
+}

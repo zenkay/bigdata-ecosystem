@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft Graph Engine",
+  "description": "a distributed, in-memory, large graph processing engine, underpinned by a strongly-typed RAM store and a general computation engine",
+  "abstract": "a distributed, in-memory, large graph processing engine, underpinned by a strongly-typed RAM store and a general computation engine",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.graphengine.io/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Facebook FBLearner Flow",
+  "description": "provides innovative functionality, like automatic generation of UI experiences from pipeline definitions and automatic parallelization of Python code using futures",
+  "abstract": "provides innovative functionality, like automatic generation of UI experiences from pipeline definitions and automatic parallelization of Python code using futures",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://code.facebook.com/posts/1072626246134461/introducing-fblearner-flow-facebook-s-ai-backbone/"
+    }
+  ]
+}

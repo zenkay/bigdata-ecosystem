@@ -1,0 +1,15 @@
+{
+  "name": "Akiban",
+  "description": "Touted as SQL database with object structured storage",
+  "abstract": "Touted as SQL database with object structured storage",
+  "category": "SQL-like processing",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.akiban.com/"
+    }
+  ]
+}

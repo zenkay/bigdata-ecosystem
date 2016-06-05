@@ -1,0 +1,15 @@
+{
+  "name": "Adabas",
+  "description": "ADABAS was NoSQL from a time when there was no SQL",
+  "abstract": "ADABAS was NoSQL from a time when there was no SQL",
+  "category": "SQL-like processing",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://en.wikipedia.org/wiki/ADABAS"
+    }
+  ]
+}

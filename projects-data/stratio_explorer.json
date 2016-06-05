@@ -1,0 +1,15 @@
+{
+  "name": "Stratio Explorer",
+  "description": "an Interactive Web interpreter to Apache Crossdata, Stratio Ingestion, Stratio Decision,Markdown, Apache Spark, Apache Spark-SQL and command Shell",
+  "abstract": "an Interactive Web interpreter to Apache Crossdata, Stratio Ingestion, Stratio Decision,Markdown, Apache Spark, Apache Spark-SQL and command Shell",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://docs.stratio.com/modules/explorer/development"
+    }
+  ]
+}

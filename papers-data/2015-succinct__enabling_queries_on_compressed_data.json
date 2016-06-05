@@ -1,0 +1,15 @@
+{
+  "title": "Succinct: Enabling Queries on Compressed Data",
+  "year": "2015",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-agarwal.pdf"
+    }
+  ]
+}

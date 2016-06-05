@@ -1,0 +1,15 @@
+{
+  "name": "Tamr",
+  "description": "standalone tool to catalog all of your enterprise metadata",
+  "abstract": "standalone tool to catalog all of your enterprise metadata",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.tamr.com/"
+    }
+  ]
+}

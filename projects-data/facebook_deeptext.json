@@ -1,0 +1,15 @@
+{
+  "name": "Facebook DeepText",
+  "description": "a deep learning-based text understanding engine that can understand with near-human accuracy the textual content of several thousands posts per second, spanning more than 20 languages",
+  "abstract": "a deep learning-based text understanding engine that can understand with near-human accuracy the textual content of several thousands posts per second, spanning more than 20 languages",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/"
+    }
+  ]
+}

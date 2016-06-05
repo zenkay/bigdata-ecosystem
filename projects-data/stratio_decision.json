@@ -1,0 +1,15 @@
+{
+  "name": "Stratio Decision",
+  "description": "the union of a real-time messaging bus with a complex event processing engine using Spark Streaming",
+  "abstract": "the union of a real-time messaging bus with a complex event processing engine using Spark Streaming",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://docs.stratio.com/modules/decision/development/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Apache Arrow",
+  "description": "Powering Columnar In-Memory Analytics",
+  "abstract": "Powering Columnar In-Memory Analytics",
+  "category": "Columnar Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://arrow.apache.org/"
+    }
+  ]
+}

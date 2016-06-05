@@ -1,27 +1,53 @@
-Amazon Simple Storage Service;Distributed Filesystem;http://aws.amazon.com/s3/;secure, durable, highly-scalable object storage
-Periscope;Data Analysis;https://www.periscope.io/;plugs directly into your databases and lets you run, save, and share analyses over billions of data rows in seconds
-Caffe;Machine Learning;http://caffe.berkeleyvision.org/;a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Cente
-UnQLite;Embedded Databases;http://unqlite.org/;a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine
-Algolia;Search engine and framework;https://www.algolia.com/;Hosted Search API that delivers instant and relevant results from the first keystroke
-RebornDB;Key-value Data Model;https://github.com/reborndb/reborn;Distributed database fully compatible with redis protocol
-QDB;Key-value Data Model;https://github.com/reborndb/qdb;A fast, high availability, fully Redis compatible store
-MapR-FS;Distributed Filesystem;http://doc.mapr.com/display/MapR/MapR-FS;Distributed filesystem from MapR
-Oryx;Distributed Programming;http://oryx.io/;is a realization of the lambda architecture built on Apache Spark and Apache Kafka, but with specialization for real-time large scale machine learning
-Velox;Machine Learning;https://github.com/amplab/velox-modelserver;a system for serving machine learning predictions
-KeystoneML;Machine Learning;https://github.com/amplab/keystone;Simplifying robust end-to-end machine learning on Apache Spark
-Seldon;Machine Learning;http://www.seldon.io/;an open source predictive analytics platform based upon Spark, Kafka and Hadoop
-Doradus;Graph Data Model;https://github.com/dell-oss/Doradus;Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model, advanced indexing and search features, and a REST API
-Microsoft Cortana Analytics;Data Analysis;http://www.microsoft.com/en-us/server-cloud/cortana-analytics-suite/overview.aspx;a fully managed big data and advanced analytics  suite that enables you to transform your data into  intelligent action.
-Ibis;Data Analysis;http://www.ibis-project.org/;Python big data analysis framework for high performance at Hadoop-scale, with first-class integration with Impala
-AirBnB Airflow;Scheduling;https://github.com/airbnb/airflow;AirFlow is a system to programmatically author, schedule and monitor data pipelines
-Google Pub/Sub;Message-oriented middleware;https://cloud.google.com/pubsub/;reliable, many-to-many, asynchronous messaging hosted on Google's infrastructure
-Azure Event Hubs;Message-oriented middleware;http://azure.microsoft.com/en-us/services/event-hubs/;a highly scalable publish-subscribe event ingestor
-Twitter Heron;Distributed Programming;https://blog.twitter.com/2015/flying-faster-with-twitter-heron;real-time processing framework, successor of Storm
-Apcera NATS;Message-oriented middleware;http://nats.io/;an open-source, high-performance, lightweight cloud native messaging system
-LinkedIn FeatureFu;Machine Learning;https://github.com/linkedin/FeatureFu;contains a collection of library/tools for advanced feature engineering to derive features on top of other features, or convert a light weighted model into a feature
-Twitter Gizzard;Distributed Programming;https://github.com/twitter/gizzard;a flexible sharding framework for creating eventually-consistent distributed datastores
-Twitter Crane;Distributed Programming;http://www.theregister.co.uk/2010/06/29/twitter_to_open_source_crane/;Java ETL
-Twitter Nighthawk;https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6;https://www.linkedin.com/in/borghino;Redis like cache system
-Twitter Rasvelg;http://www.slideshare.net/billonahill/hadoop-summit-2012-hadoop-and-vertica-the-data-analytics-platform-at-twitter;managing non Pig jobs - SQL aggregation
-Blaze;Distributed Programming;http://blaze.pydata.org/en/latest/;Python users high-level access to efficient computation on inconveniently large data
-Microsoft Project Orleans;Distributed Programming;http://dotnet.github.io/orleans/;a framework that provides a straightforward approach to building distributed high-scale computing applications
+Amazon QuickSight;Business Intelligence;https://aws.amazon.com/quicksight/;Business Intelligence for Big Data
+Google Cloud Storage;Distributed Filesystem;https://cloud.google.com/storage/;durable and highly available object storage
+Amazon Snowball;Data Ingestion;https://aws.amazon.com/importexport/;a petabyte-scale data transport solution that uses secure appliances to transfer large amounts of data into and out of AWS
+Zaloni Bedrock;Data Analysis;http://www.zaloni.com/product/bedrock;fully integrated Hadoop data management platform
+Zaloni Mica;Data Analysis;http://www.zaloni.com/product/mica;self-service data discovery, curation, and governance
+Docker Swarm;Container Manager;https://docs.docker.com/swarm/;native clustering for Docker
+CoreOS Fleet;Container Manager;https://coreos.com/fleet/;cluster management tool from CoreOS
+Shiny;Data Analysis;http://shiny.rstudio.com/;web application framework for R
+Amazon SPICE;Distributed Programming;http://www.datanami.com/2015/10/07/amazon-debuts-fast-cheap-bi-with-quicksight/;Super-fast Parallel In-memory Calculation Engine
+Microsoft Graph Engine;Graph Data Model;http://www.graphengine.io/;a distributed, in-memory, large graph processing engine, underpinned by a strongly-typed RAM store and a general computation engine
+Google DistBelief;Machine Learning;http://research.google.com/pubs/pub40565.html;software framework that can utilize computing clusters with thousands of machines to train large models
+Google TensorFlow;Machine Learning;http://www.tensorflow.org/;an Open Source Software Library for Machine Intelligence
+TiDB;MySQL forks and evolutions;https://github.com/pingcap/tidb;a distributed SQL database inspired by the design of Google F1
+AMPLab Velox;Machine Learning;https://amplab.cs.berkeley.edu/projects/velox/;a data management system for facilitating the next steps in real-world, large-scale analytics pipelines
+AMPLab SampleClean;Data Ingestion;http://sampleclean.org/;scalable techniques for data cleaning and statistical inference on dirty data
+AMPLab G-OLA;Distributed Programming;https://amplab.cs.berkeley.edu/publication/g-ola-generalized-online-aggregation-for-interactive-analysis-on-big-data/;a novel mini-batch execution model that generalizes OLA to support general OLAP queries with arbitrarily nested aggregates using efficient delta maintenance techniques
+Google FlumeJava;Distributed Programming;http://research.google.com/pubs/pub35650.html;Easy, Efficient Data-Parallel Pipelines. Base of Google Dataflow
+Stratio Manager;System Deployment;http://docs.stratio.com/modules/manager/development;install, manage and monitor all the technology stack related to the Stratio Platform
+Stratio Ingestion;Data Ingestion;http://docs.stratio.com/modules/ingestion/development;Apache Flume with steroids
+Stratio Decision;Distributed Programming;http://docs.stratio.com/modules/decision/development/;the union of a real-time messaging bus with a complex event processing engine using Spark Streaming
+Stratio Crossdata;Distributed Programming;http://docs.stratio.com/modules/crossdata/development;provides an unified way to access to multiple datastores
+Stratio Sparkta;Data Analysis;http://docs.stratio.com/modules/sparkta/development;real time monitoring
+Stratio Cassandra;Key-Map Data Model;http://docs.stratio.com/modules/cassandra-lucene-index/development/;Cassandra index functionality has been extended to provide near real time search such as ElasticSearch or Solr, including full text search capabilities and multivariable, geospatial and bitemporal search
+Stratio Viewer;Data Visualization;http://www.stratio.com/viewer/kbase/;dashboarding tool
+Stratio Explorer;Business Intelligence;http://docs.stratio.com/modules/explorer/development;an Interactive Web interpreter to Apache Crossdata, Stratio Ingestion, Stratio Decision,Markdown, Apache Spark, Apache Spark-SQL and command Shell
+Arvados;Distributed Programming;https://arvados.org/;Spins a web of microservices around unsuspecting sysadmins
+Akiban;SQL-like processing;http://www.akiban.com/;Touted as SQL database with object structured storage
+Hekaton;SQL-like processing;https://en.wikipedia.org/wiki/Hekaton_(database);Refer to lock-free architecture for SQL Server 2014
+Adabas;SQL-like processing;https://en.wikipedia.org/wiki/ADABAS;ADABAS was NoSQL from a time when there was no SQL
+Tokutek;Document Data Model;https://www.percona.com/;Tokutek claims to improve MongoDB performance 20x
+Apache Ignite;Distributed Programming;http://ignite.apache.org/;high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time
+Pachyderm;Distributed Programming;http://pachyderm.io/;lets you store and analyze your data using containers.
+Google Cloud Storage Nearline;Distributed Filesystem;https://cloud.google.com/storage-nearline/;a highly available, affordable solution for backup, archiving and disaster recovery.
+Apache Kudu;Distributed Filesystem;http://getkudu.io/;completes Hadoop's storage layer to enable fast analytics on fast data
+Tamr;Data Analysis;http://www.tamr.com/;standalone tool to catalog all of your enterprise metadata
+SparkNet;Machine Learning;https://github.com/amplab/SparkNet;Distributed Neural Networks for Spark
+AMPLab Splash;Machine Learning;http://zhangyuc.github.io/splash/;a general framework for parallelizing stochastic learning algorithms on multi-node clusters
+AMPcrowd;Distributed Programming;http://amplab.github.io/ampcrowd/;A RESTful web service that runs microtasks across multiple crowds
+Sawmill;Data Ingestion;http://sawmill.net/;extensive log processing and reporting features
+Microsoft CNTK;Machine Learning;http://www.cntk.ai/;Computational Network Toolkit
+BigchainDB;Document Data Model;https://www.bigchaindb.com/;The scalable blockchain database.
+Apache Arrow;Columnar Databases;http://arrow.apache.org/;Powering Columnar In-Memory Analytics
+HashiCorp Nomad;Container Manager;https://www.nomadproject.io/;a Distributed, Highly Available, Datacenter-Aware Scheduler
+Microsoft SandDance;Data Visualization;https://www.sanddance.ms/;visually explore data sets to find stories and extract insights
+BayesDB;Machine Learning;http://probcomp.csail.mit.edu/bayesdb/;a probabilistic programming platform that enables users to query the probable implications of their data as directly as SQL databases enable them to query the data itself
+Pumba;Container Manager;https://github.com/gaia-adm/pumba;Chaos testing tool for Docker
+Chronix;Time-Series Databases;http://www.chronix.io/;fast and efficient time series storage based on Apache Lucene and Apache Solr
+OpenAI Gym;Machine Learning;https://github.com/openai/gym;a toolkit for developing and comparing reinforcement learning algorithms
+LinkedIn Ambry;Document Data Model;https://github.com/linkedin/ambry;Distributed object store
+Twitter Heron;Distributed Programming;http://twitter.github.io/heron/;a realtime, distributed, fault-tolerant stream processing engine from Twitter
+MemGraph;Graph Data Model;http://www.memgraph.io/;cypher compatibile, high-performance in-memory transactional and real-time analytics graph database
+Facebook DeepText;Machine Learning;https://code.facebook.com/posts/181565595577955/introducing-deeptext-facebook-s-text-understanding-engine/;a deep learning-based text understanding engine that can understand with near-human accuracy the textual content of several thousands posts per second, spanning more than 20 languages
+Facebook FBLearner Flow;Machine Learning;https://code.facebook.com/posts/1072626246134461/introducing-fblearner-flow-facebook-s-ai-backbone/;provides innovative functionality, like automatic generation of UI experiences from pipeline definitions and automatic parallelization of Python code using futures

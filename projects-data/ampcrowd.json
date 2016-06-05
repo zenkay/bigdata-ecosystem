@@ -1,0 +1,15 @@
+{
+  "name": "AMPcrowd",
+  "description": "A RESTful web service that runs microtasks across multiple crowds",
+  "abstract": "A RESTful web service that runs microtasks across multiple crowds",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://amplab.github.io/ampcrowd/"
+    }
+  ]
+}

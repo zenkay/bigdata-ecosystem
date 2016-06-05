@@ -1,0 +1,15 @@
+{
+  "name": "Apache Ignite",
+  "description": "high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time",
+  "abstract": "high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://ignite.apache.org/"
+    }
+  ]
+}

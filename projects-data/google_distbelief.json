@@ -1,0 +1,15 @@
+{
+  "name": "Google DistBelief",
+  "description": "software framework that can utilize computing clusters with thousands of machines to train large models",
+  "abstract": "software framework that can utilize computing clusters with thousands of machines to train large models",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://research.google.com/pubs/pub40565.html"
+    }
+  ]
+}

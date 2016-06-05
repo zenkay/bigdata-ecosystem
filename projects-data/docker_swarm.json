@@ -1,0 +1,15 @@
+{
+  "name": "Docker Swarm",
+  "description": "native clustering for Docker",
+  "abstract": "native clustering for Docker",
+  "category": "Container Manager",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://docs.docker.com/swarm/"
+    }
+  ]
+}

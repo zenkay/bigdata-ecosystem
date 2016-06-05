@@ -1,5 +1,14 @@
-2015;Taming the Wild: A Unified Analysis of HOGWILD!-Style Algorithms;http://arxiv.org/pdf/1506.06438v1.pdf%20
-2015;Deep Speech: Scaling up end-to-end speech recognition;http://arxiv.org/pdf/1412.5567.pdf
-2015;Twitter Heron: Stream Processing at Scale;http://delivery.acm.org/10.1145/2750000/2742788/p239-kulkarni.pdf
-2015;A Neural Algorithm of Artistic Style;http://arxiv.org/pdf/1508.06576v1.pdf
-2015;Giraffe: Using Deep Reinforcement Learning to Play Chess;http://arxiv.org/pdf/1509.01549v2.pdf
+2012;Large Scale Distributed Deep Networks;http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40565.pdf
+2015;The Missing Piece in Complex Analytics: Low Latency, Scalable Model Management and Serving with Velox;http://arxiv.org/pdf/1409.3809v2.pdf
+2014;A Sample-and-Clean Framework for Fast and Accurate Query Processing on Dirty Data;https://amplab.cs.berkeley.edu/wp-content/uploads/2014/05/sampleclean-sigmod14.pdf
+2015;G-OLA: Generalized On-Line Aggregation for Interactive Analysis on Big Data;https://amplab.cs.berkeley.edu/wp-content/uploads/2015/05/sigmod_2015.pdf
+2015;Neural Networks with Few Multiplications;http://arxiv.org/pdf/1510.03009v1.pdf
+2015;Klout Score: Measuring Influence Across Multiple Social Networks;http://arxiv.org/pdf/1510.08487v1.pdf
+2003;Interpreting the Data: Parallel Analysis with Sawzall;http://static.googleusercontent.com/media/research.google.com/en//archive/sawzall-sciprog.pdf
+2015;Succinct: Enabling Queries on Compressed Data;https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-agarwal.pdf
+2015;SparkNetwork: Training Deep Network in Spark;http://arxiv.org/pdf/1511.06051v2.pdf
+2015;Hidden Technical Debt in Machine Learning Systems;http://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+2016;Understanding Deep Convolutional Networks;http://arxiv.org/pdf/1601.04920v1.pdf
+2015;Deep Speech 2: End-to-End Speech Recognition in English and Mandarin;http://arxiv.org/pdf/1512.02595v1.pdf
+2016;Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples;http://arxiv.org/pdf/1602.02697v2.pdf
+2016;Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup;http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf

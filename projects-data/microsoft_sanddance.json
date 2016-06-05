@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft SandDance",
+  "description": "visually explore data sets to find stories and extract insights",
+  "abstract": "visually explore data sets to find stories and extract insights",
+  "category": "Data Visualization",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://www.sanddance.ms/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Amazon QuickSight",
+  "description": "Business Intelligence for Big Data",
+  "abstract": "Business Intelligence for Big Data",
+  "category": "Business Intelligence",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://aws.amazon.com/quicksight/"
+    }
+  ]
+}

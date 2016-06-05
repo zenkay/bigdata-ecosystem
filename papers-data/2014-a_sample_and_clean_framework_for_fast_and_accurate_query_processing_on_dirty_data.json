@@ -1,0 +1,15 @@
+{
+  "title": "A Sample-and-Clean Framework for Fast and Accurate Query Processing on Dirty Data",
+  "year": "2014",
+  "authors": "",
+  "abstract": "",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "PDF Paper",
+      "url": "https://amplab.cs.berkeley.edu/wp-content/uploads/2014/05/sampleclean-sigmod14.pdf"
+    }
+  ]
+}

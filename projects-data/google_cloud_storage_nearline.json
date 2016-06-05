@@ -1,0 +1,15 @@
+{
+  "name": "Google Cloud Storage Nearline",
+  "description": "a highly available, affordable solution for backup, archiving and disaster recovery.",
+  "abstract": "a highly available, affordable solution for backup, archiving and disaster recovery.",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://cloud.google.com/storage-nearline/"
+    }
+  ]
+}

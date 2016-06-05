@@ -1,0 +1,15 @@
+{
+  "name": "LinkedIn Ambry",
+  "description": "Distributed object store",
+  "abstract": "Distributed object store",
+  "category": "Document Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/linkedin/ambry"
+    }
+  ]
+}

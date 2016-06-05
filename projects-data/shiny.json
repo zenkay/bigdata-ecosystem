@@ -1,0 +1,15 @@
+{
+  "name": "Shiny",
+  "description": "web application framework for R",
+  "abstract": "web application framework for R",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://shiny.rstudio.com/"
+    }
+  ]
+}

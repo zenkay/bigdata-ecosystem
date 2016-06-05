@@ -1,0 +1,15 @@
+{
+  "name": "Amazon SPICE",
+  "description": "Super-fast Parallel In-memory Calculation Engine",
+  "abstract": "Super-fast Parallel In-memory Calculation Engine",
+  "category": "Distributed Programming",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.datanami.com/2015/10/07/amazon-debuts-fast-cheap-bi-with-quicksight/"
+    }
+  ]
+}

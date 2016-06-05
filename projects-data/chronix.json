@@ -1,0 +1,15 @@
+{
+  "name": "Chronix",
+  "description": "fast and efficient time series storage based on Apache Lucene and Apache Solr",
+  "abstract": "fast and efficient time series storage based on Apache Lucene and Apache Solr",
+  "category": "Time-Series Databases",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.chronix.io/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "MemGraph",
+  "description": "cypher compatibile, high-performance in-memory transactional and real-time analytics graph database",
+  "abstract": "cypher compatibile, high-performance in-memory transactional and real-time analytics graph database",
+  "category": "Graph Data Model",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.memgraph.io/"
+    }
+  ]
+}

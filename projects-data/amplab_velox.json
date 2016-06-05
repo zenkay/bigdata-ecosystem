@@ -1,0 +1,15 @@
+{
+  "name": "AMPLab Velox",
+  "description": "a data management system for facilitating the next steps in real-world, large-scale analytics pipelines",
+  "abstract": "a data management system for facilitating the next steps in real-world, large-scale analytics pipelines",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://amplab.cs.berkeley.edu/projects/velox/"
+    }
+  ]
+}

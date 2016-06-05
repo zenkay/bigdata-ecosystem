@@ -1,0 +1,15 @@
+{
+  "name": "Hekaton",
+  "description": "Refer to lock-free architecture for SQL Server 2014",
+  "abstract": "Refer to lock-free architecture for SQL Server 2014",
+  "category": "SQL-like processing",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://en.wikipedia.org/wiki/Hekaton_(database)"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Google Cloud Storage",
+  "description": "durable and highly available object storage",
+  "abstract": "durable and highly available object storage",
+  "category": "Distributed Filesystem",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://cloud.google.com/storage/"
+    }
+  ]
+}

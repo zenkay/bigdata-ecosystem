@@ -1,0 +1,15 @@
+{
+  "name": "CoreOS Fleet",
+  "description": "cluster management tool from CoreOS",
+  "abstract": "cluster management tool from CoreOS",
+  "category": "Container Manager",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://coreos.com/fleet/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "OpenAI Gym",
+  "description": "a toolkit for developing and comparing reinforcement learning algorithms",
+  "abstract": "a toolkit for developing and comparing reinforcement learning algorithms",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "https://github.com/openai/gym"
+    }
+  ]
+}

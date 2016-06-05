@@ -1,0 +1,15 @@
+{
+  "name": "Stratio Sparkta",
+  "description": "real time monitoring",
+  "abstract": "real time monitoring",
+  "category": "Data Analysis",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://docs.stratio.com/modules/sparkta/development"
+    }
+  ]
+}

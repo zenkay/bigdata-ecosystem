@@ -1,0 +1,15 @@
+{
+  "name": "AMPLab SampleClean",
+  "description": "scalable techniques for data cleaning and statistical inference on dirty data",
+  "abstract": "scalable techniques for data cleaning and statistical inference on dirty data",
+  "category": "Data Ingestion",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://sampleclean.org/"
+    }
+  ]
+}

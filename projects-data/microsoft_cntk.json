@@ -1,0 +1,15 @@
+{
+  "name": "Microsoft CNTK",
+  "description": "Computational Network Toolkit",
+  "abstract": "Computational Network Toolkit",
+  "category": "Machine Learning",
+  "tags": [
+
+  ],
+  "links": [
+    {
+      "text": "Website",
+      "url": "http://www.cntk.ai/"
+    }
+  ]
+}
