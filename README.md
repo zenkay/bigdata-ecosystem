@@ -1062,3 +1062,7 @@ Data
 ### 1997
 
 * **1997** - [Application-Controlled Demand Paging for Out-of-Core Visualization](http://www.nas.nasa.gov/assets/pdf/techreports/1997/nas-97-010.pdf)
+
+----
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

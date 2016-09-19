@@ -1,13 +1,13 @@
-Big Data Ecosystem Dataset 
+Big Data Ecosystem Dataset
 ==========================
 
-Incomplete-but-useful list of big-data related projects packed into a JSON dataset. 
+Incomplete-but-useful list of big-data related projects packed into a JSON dataset.
 
 **External references**: [Main page](http://bigdata.andreamostosi.name), [Raw JSON data of projects](http://bigdata.andreamostosi.name/data.json), [Original page on my blog](http://blog.andreamostosi.name/big-data/)
 
 **Related projects**: [Hadoop Ecosystem Table](http://hadoopecosystemtable.github.io/) by [Javi Roman](https://github.com/javiroman), [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) by [Onur Akpolat](https://github.com/onurakpolat), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) by [Alexander Bayandin](https://github.com/bayandin), [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop) by [Youngwoo Kim](https://github.com/youngwookim), [Queues.io](https://github.com/strzalek/queues.io) by [Łukasz Strzałkowski](https://github.com/strzalek)
 
-## How to contribute 
+## How to contribute
 
 ### Projects
 
@@ -39,7 +39,7 @@ Add a new JSON file to ```papers-data``` directory. Here is an [example](papers-
 }
 ```
 
-Data 
+Data
 ==========================
 
 ## Projects
@@ -79,3 +79,7 @@ Data
 <% end -%>
 <% end -%>
 <% end -%>
+
+----
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
