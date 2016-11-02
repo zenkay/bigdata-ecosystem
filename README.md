@@ -736,6 +736,7 @@ Data
 * [Tessera](http://tesseradata.org/) - Environment for Deep Analysis of Large Complex Data.
 * [Zeppelin](http://zeppelin-project.org/) - open source data analysis environment on top of Hadoop..
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
+* [CBoard](https://github.com/yzhang921/CBoard) - An open BI Dashboard platform that supports interactive olap report design and data analysis
 
 ### Data Analysis
 
