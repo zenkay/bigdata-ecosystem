@@ -1,0 +1,8 @@
+{
+  "name": "Axibase Time Series Database",
+  "description": "Axibase Time Series Database relies on Apache HBase key-value stored for persistence and is supported both on HDFS and AWS EMR S3. Axibase TSD provides integrated rule engine, visualization, as well as support for SQL queries with a JDBC driver.",
+  "abstract": "Distributed time series database based on HBase",
+  "category": "Time-Series Databases",
+  "tags": ["database", "time-series", "hbase", "axibase"],
+  "links": [{"text": "Axibase Time Series Database", "url": "https://axibase.com/products/axibase-time-series-database/"}]
+}
