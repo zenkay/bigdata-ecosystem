@@ -351,6 +351,7 @@ Data
 
 ### Time-Series Databases
 
+* [Axibase Time Series Database](https://axibase.com/products/axibase-time-series-database/) - Distributed time series database based on HBase.
 * [Chronix](http://www.chronix.io/) - fast and efficient time series storage based on Apache Lucene and Apache Solr.
 * [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Etsy StatsD](https://github.com/etsy/statsd/) - simple daemon for easy stats aggregation.
@@ -806,6 +807,7 @@ Data
 
 ## Papers
 
+- [Published in 2017](#2017)
 - [Published in 2016](#2016)
 - [Published in 2015](#2015)
 - [Published in 2014](#2014)
