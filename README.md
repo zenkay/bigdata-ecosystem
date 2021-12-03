@@ -163,7 +163,6 @@ Data
 * [SeqPig](http://seqpig.sourceforge.net/) - Simple and scalable scripting for large sequencing data set(ex: bioinfomation) in Hadoop .
 * [SigmoidAnalytics Spork](https://github.com/sigmoidanalytics/spork) - Pig on Apache Spark.
 * [SNAP](https://github.com/snap-stanford/snap) - Stanford Network Analysis Platform is a general purpose, high performance system for analysis and manipulation of large networks.
-* [spark-dataflow](https://github.com/cloudera/spark-dataflow) - allows users to execute dataflow pipelines with Spark.
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. .
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/) - unified configuration model and easy to use APIs for using HDFS, MapReduce, Pig, and Hive.
 * [SQLStream Blaze](http://www.sqlstream.com/blaze/) - stream processing platform.
@@ -225,8 +224,6 @@ Data
 * [MapR-DB](http://content.dataversity.net/rs/wilshireconferences/images/MapR-DB_Product_Preview_for_NoSQL_Now.pdf) - fast, scalable, and enterprise-ready in-Hadoop database architected to manage big data.
 * [Netflix Priam](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 * [OhmData C5](http://ohmdata.com/) - improved version of HBase.
-* [Palantir AtlasDB](https://www.palantir.com/2014/06/atlasdb-transactions-for-distributed-key-value-stores-part-i/) - a massively scalable datastore and transactional layer that can be placed on top of any key-value store to give it ACID properties.
-* [Sqrrl](http://sqrrl.com/product/sqrrl-enterprise/) - NoSQL databases on top of Apache Accumulo.
 * [Stratio Cassandra](http://docs.stratio.com/modules/cassandra-lucene-index/development/) - Cassandra index functionality has been extended to provide near real time search such as ElasticSearch or Solr, including full text search capabilities and multivariable, geospatial and bitemporal search.
 * [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
@@ -328,7 +325,6 @@ Data
 * [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
 * [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
-* [Pivotal GemFire XD](http://gemfirexd.docs.gopivotal.com/latest/userguide/index.html?q=about_users_guide.html/) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
 * [SAP HANA](http://www.saphana.com/welcome) - is an in-memory, column-oriented, relational database management system.
 * [Segment SQL](https://segment.com/redshift) - Track your customer data to Amazon Redshift.
 * [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
@@ -341,7 +337,6 @@ Data
 
 * [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
 * [Apache Arrow](http://arrow.apache.org/) - Powering Columnar In-Memory Analytics.
-* [C-Store](http://db.lcs.mit.edu/projects/cstore/) - column oriented DBMS.
 * [Google BigQuery](http://research.google.com/pubs/pub36632.html) - framework for interactive analysis, implementation of Dremel.
 * [Google Dremel](http://research.google.com/pubs/pub36632.html) - framework for interactive analysis, implementation of Dremel.
 * [MonetDB](https://www.monetdb.org/) - column store database.
@@ -370,7 +365,6 @@ Data
 * [Akiban](http://www.akiban.com/) - Touted as SQL database with object structured storage.
 * [AMPLAB Shark](https://github.com/amplab/shark/) - data warehouse system for Spark.
 * [Apache Drill](http://incubator.apache.org/drill/) - framework for interactive analysis, inspired by Dremel.
-* [Apache HCatalog](http://hive.apache.org/docs/hcat_r0.5.0/) - table and storage management layer for Hadoop.
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 * [Apache Optiq](https://wiki.apache.org/incubator/OptiqProposal) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.incubator.apache.org/index.html) - SQL skin over HBase.
@@ -383,9 +377,7 @@ Data
 * [Facebook PrestoDB](http://prestodb.io/) - distributed SQL query engine.
 * [Hadapt](http://hadapt.com/) - a native implementation of SQL for the Apache Hadoop open-source project.
 * [Hekaton](https://en.wikipedia.org/wiki/Hekaton_(database)) - Refer to lock-free architecture for SQL Server 2014.
-* [JethroData](http://jethrodata.com/product-2/product/) - index-based SQL engine for Hadoop.
 * [Metanautix Quest](https://metanautix.com/product/) - data compute engine.
-* [Pivotal HAWQ](http://www.gopivotal.com/pivotal-products/data/pivotal-hd) - SQL-like data warehouse system for Hadoop.
 * [RainstorDB](http://rainstor.com/products/rainstor-database/) - database for storing petabyte-scale volumes of structured and semi-structured data.
 * [Spark Catalyst](https://github.com/apache/spark/tree/master/sql) - is a Query Optimization Framework for Spark and Shark.
 * [SparkSQL](http://databricks.com/blog/2014/03/26/Spark-SQL-manipulating-structured-data-using-Spark.html) - Manipulating Structured Data Using Spark.
@@ -403,7 +395,6 @@ Data
 * [Amazon Kinesis](http://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
 * [Amazon Snowball](https://aws.amazon.com/importexport/) - a petabyte-scale data transport solution that uses secure appliances to transfer large amounts of data into and out of AWS.
 * [AMPLab SampleClean](http://sampleclean.org/) - scalable techniques for data cleaning and statistical inference on dirty data.
-* [Apache BookKeeper](http://zookeeper.apache.org/bookkeeper/) - a distributed logging service called BookKeeper and a distributed publish/subscribe system built on top of BookKeeper called Hedwig.
 * [Apache Chukwa](http://incubator.apache.org/chukwa/) - data collection system.
 * [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 * [Apache Samza](http://samza.incubator.apache.org/) - stream processing framework, based on Kafla and YARN.
@@ -557,7 +548,6 @@ Data
 ### Security
 
 * [Apache Knox Gateway](http://knox.apache.org/) - single point of secure access for Hadoop clusters.
-* [Apache Ranger](http://argus.incubator.apache.org/) - framework to enable, monitor and manage comprehensive data security across the Hadoop platform (formerly called Apache Argus).
 * [Apache Sentry](http://incubator.apache.org/projects/sentry.html) - security module for data stored in Hadoop.
 * [PacketPig](https://github.com/packetloop/packetpig) - Open Source Big Data Security Analytics.
 * [Voltage SecureData](http://www.voltage.com/products/securedata-enterprise/) - data protection framework.
@@ -625,6 +615,7 @@ Data
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](http://www.splunk.com/download/hunk) - Splunk analytics for Hadoop.
+* [Logit.io](https://logit.io/) - big data analyzer.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
 * [PivotalR](https://github.com/gopivotal/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](http://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
